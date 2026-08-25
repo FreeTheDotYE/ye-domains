@@ -1,7 +1,11 @@
 public_suffix,domains,share
-com.ye,772,0.520918
-edu.ye,131,0.088394
-gov.ye,233,0.157220
-net.ye,61,0.041161
-org.ye,86,0.058030
-ye,199,0.134278
+com.ye,773,0.519140
+edu.ye,131,0.087979
+gov.ye,233,0.156481
+hospital.ye,2,0.001343
+law.ye,1,0.000672
+net.ye,61,0.040967
+org.ye,86,0.057757
+school.ye,1,0.000672
+uni.ye,1,0.000672
+ye,200,0.134318

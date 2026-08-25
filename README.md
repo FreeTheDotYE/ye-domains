@@ -1,15 +1,16 @@
 # Yemen .ye Domain Observatory
 
-This repository is a privacy-minimized research corpus of observed and historical domain names and hostnames under Yemen's `.ye` country-code namespace.
+This repository is a privacy-minimized research corpus and public-page archive for Yemen's `.ye` country-code namespace.
 
 It retains valid names even when they are no longer registered, delegated, reachable, or in use. Inclusion therefore means that a name appeared in the research corpus; it does not mean that the name is currently registered or controlled by any particular person or organization.
 
 ## Current public corpus
 
-- 1,482 registrable domains
-- 4,722 hostnames
-- 1,371 domains with deduplicated, non-personal registration signals
-- 111 historical domains retained without a clean registration record
+- 1,489 registrable domains
+- 4,724 hostnames
+- 1,377 domains with deduplicated, non-personal registration signals
+- 112 historical domains retained without a clean registration record
+- 219 privacy-normalized homepage WARC response records
 
 The corpus combines multiple public datasets and technical observations. Detailed source identities, acquisition order, and historical collection timestamps are withheld for collector safety. That safety choice limits independent reproduction and must be considered when using the dataset.
 
@@ -21,8 +22,28 @@ The corpus combines multiple public datasets and technical observations. Detaile
 - `data/summary.json`: reconciled counts and privacy flags.
 - `analysis/public_suffix_distribution.csv`: distribution across the public `.ye` namespace levels.
 - `monitoring/`: sanitized DNS state, confirmed changes, and a technical Sohobcom DNS-overlap view.
+- `archives/warc/`: one privacy-normalized WARC response per archived `.ye` homepage.
+- `archives/manifest.csv`: searchable archive metadata, sizes, identifiers, and SHA-256 values.
+- `archives/summary.json`: reconciled WARC coverage, status classes, media types, and byte counts.
+- `archives/SHA256SUMS`: integrity checks for every loose WARC plus the archive manifest and summary.
 
 Registration lifecycle dates in `registration.jsonl` describe the domain record itself and are reduced to calendar-day precision. They are not acquisition timestamps.
+
+Hostname mappings use the longest recognized registry level. Registry-delegated structured levels are documented in the data dictionary; the current corpus includes child registrations under `hospital.ye`, `law.ye`, `school.ye`, and `uni.ye`. Level names themselves remain retained direct-under-`.ye` corpus entries where historically observed.
+
+## Public WARC archive
+
+The archive includes every homepage WARC currently available to the project: 219 distinct `.ye` root URLs with one public HTTP response record each. Response payload bytes are preserved exactly, including redirects, errors, and empty bodies.
+
+Contributor-safety normalization removes collection-bound timestamps, cookies, per-request identifiers, forwarding data, rate-limit state, hop-by-hop transport fields, and tool-added archive metadata. Each public record uses `1970-01-01T00:00:00Z` as an explicit `WARC-Date` privacy sentinel; it is not an acquisition timestamp. Stable public response metadata such as `Last-Modified` can remain because it describes the resource rather than the collection event.
+
+These are homepage responses, not recursive crawls. An archived response does not establish a site's current state, ownership, control, affiliation, intent, or wrongdoing. Preserved public content may contain dates, identifiers, or personal information published by the originating site, and can be correlated by someone who already holds another copy. Pre-normalization originals remain in restricted preservation storage.
+
+See [`archives/README.md`](archives/README.md), [`archives/format.md`](archives/format.md), and [`archives/RIGHTS.md`](archives/RIGHTS.md) for format, interpretation, and third-party rights guidance. The timeless convenience asset can be built outside the repository with:
+
+```sh
+node scripts/warc-bundle.mjs . ../ye-warcs-release-assets
+```
 
 ## DNS monitoring
 
@@ -42,12 +63,15 @@ This is not an official registry zone file and cannot be treated as a complete l
 
 ## Validate
 
-The public validator uses only the Python standard library:
+The corpus validator uses the Python standard library. WARC validation and tests require Node.js 20 or newer:
 
 ```sh
 python scripts/validate_dataset.py
+node --test tests/warc-*.test.mjs
+node scripts/warc-validate.mjs .
+sha256sum -c archives/SHA256SUMS
 ```
 
 ## Licensing
 
-Code is MIT licensed. The normalized factual compilation is released under the terms in [DATA-LICENSE.md](DATA-LICENSE.md). No rights are claimed over third-party personal data or raw responses, which are not published.
+Code is MIT licensed. The normalized factual compilation and archive metadata are released under the terms in [DATA-LICENSE.md](DATA-LICENSE.md). Archived response content remains subject to third-party rights and is not placed under CC0; see [`archives/RIGHTS.md`](archives/RIGHTS.md).

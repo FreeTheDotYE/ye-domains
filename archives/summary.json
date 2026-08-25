@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "scope": "all homepage WARCs currently available to the project",
+  "archive_count": 219,
+  "distinct_domains": 219,
+  "distinct_target_urls": 219,
+  "distinct_payloads": 174,
+  "compressed_bytes": 4029358,
+  "uncompressed_bytes": 16577050,
+  "payload_bytes": 16435358,
+  "http_statuses": {
+    "200": 128,
+    "301": 48,
+    "302": 21,
+    "303": 1,
+    "307": 2,
+    "308": 1,
+    "403": 1,
+    "404": 11,
+    "500": 6
+  },
+  "http_status_classes": {
+    "1xx": 0,
+    "2xx": 128,
+    "3xx": 73,
+    "4xx": 12,
+    "5xx": 6
+  },
+  "media_types": {
+    "(missing)": 5,
+    "text/html": 213,
+    "text/plain": 1
+  },
+  "warc_version": "WARC/1.0",
+  "record_type": "response",
+  "records_per_file": 1,
+  "capture_time_policy": {
+    "value": "1970-01-01T00:00:00Z",
+    "interpretation": "privacy sentinel; not an acquisition timestamp"
+  },
+  "response_payload_policy": "byte-for-byte preserved"
+}

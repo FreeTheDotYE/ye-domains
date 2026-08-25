@@ -25,3 +25,9 @@ jobs:
           python-version: "3.12"
       - name: Validate public release
         run: python scripts/validate_dataset.py
+      - name: Test WARC privacy and bundle invariants
+        run: node --test tests/warc-*.test.mjs
+      - name: Validate public WARC archives
+        run: node scripts/warc-validate.mjs .
+      - name: Reject generated changes
+        run: git status --short | (! grep .)

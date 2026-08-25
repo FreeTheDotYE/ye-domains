@@ -15,7 +15,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_VERSION = 1
-PUBLIC_SUFFIXES = ("com.ye", "edu.ye", "gov.ye", "mil.ye", "net.ye", "org.ye", "ye")
+PUBLIC_SUFFIXES = (
+    "biz.ye", "com.ye", "edu.ye", "gov.ye", "hospital.ye", "law.ye",
+    "me.ye", "mil.ye", "net.ye", "org.ye", "pro.ye", "school.ye",
+    "tv.ye", "uni.ye", "ye",
+)
 DOMAIN_FIELDS = ["domain", "unicode_domain", "public_suffix", "registration_level"]
 HOSTNAME_FIELDS = ["hostname", "unicode_hostname", "registrable_domain"]
 REGISTRATION_KEYS = {
@@ -63,6 +67,20 @@ FORBIDDEN_ARTIFACTS = {
     "docs/methodology.md", "docs/archiving.md",
 }
 FORBIDDEN_PARTS = {"snapshots", "reports", "archives", "raw", "warc"}
+SANCTIONED_ARCHIVE_DIRS = {"archives", "archives/warc"}
+SANCTIONED_ARCHIVE_FILES = {
+    "archives/README.md",
+    "archives/RIGHTS.md",
+    "archives/SHA256SUMS",
+    "archives/format.md",
+    "archives/manifest.csv",
+    "archives/summary.json",
+}
+SANCTIONED_WARC_PATH_RE = re.compile(
+    r"archives/warc/"
+    r"(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+"
+    r"ye\.warc\.gz"
+)
 
 
 def normalize_hostname(value: object) -> str:
@@ -136,6 +154,8 @@ def validate_files() -> None:
             raise ValueError(f"provenance-bearing artifact must not be public: {relative}")
     for path in ROOT.rglob("*"):
         relative = path.relative_to(ROOT)
+        relative_posix = relative.as_posix()
+        archive_scoped = bool(relative.parts) and relative.parts[0].lower() == "archives"
         if ".git" in relative.parts:
             continue
         lower_parts = {part.lower() for part in relative.parts}
@@ -145,9 +165,21 @@ def validate_files() -> None:
             raise ValueError(f"patch byproduct is not allowed: {relative}")
         if path.is_symlink():
             raise ValueError(f"symlink is not allowed: {path}")
+        if (
+            archive_scoped
+            and path.is_dir()
+            and relative_posix not in SANCTIONED_ARCHIVE_DIRS
+        ):
+            raise ValueError(f"unexpected archive directory is not allowed: {relative}")
         if not path.is_file():
             continue
-        if lower_parts & FORBIDDEN_PARTS:
+        sanctioned_archive = (
+            relative_posix in SANCTIONED_ARCHIVE_FILES
+            or SANCTIONED_WARC_PATH_RE.fullmatch(relative_posix) is not None
+        )
+        if archive_scoped and not sanctioned_archive:
+            raise ValueError(f"unexpected archive artifact is not allowed: {relative}")
+        if lower_parts & FORBIDDEN_PARTS and not sanctioned_archive:
             raise ValueError(f"raw/report/archive path must not be public: {relative}")
         if re.search(r"20[0-9]{2}-[0-9]{2}-[0-9]{2}", relative.as_posix()):
             raise ValueError(f"dated acquisition-style path is not allowed: {relative}")
@@ -471,7 +503,7 @@ def expected_sohobcom_view(state_rows: list[dict], as_of_date: str) -> dict:
     }
 
 
-def validate_monitoring() -> dict:
+def validate_monitoring(domains: set[str]) -> dict:
     monitoring = ROOT / "monitoring"
     if not monitoring.is_dir():
         raise ValueError("monitoring output is missing")
@@ -490,7 +522,7 @@ def validate_monitoring() -> dict:
             if (
                 normalize_hostname(hostname) != hostname or not hostname.endswith(".ye")
                 or normalize_hostname(domain) != domain or not domain.endswith(".ye")
-                or not (hostname == domain or hostname.endswith(f".{domain}"))
+                or registrable_domain(hostname) != domain or domain not in domains
             ):
                 raise ValueError(f"invalid monitor hostname mapping at line {line_number}")
             dns_state(row["dns"], f"monitor state line {line_number}")
@@ -511,7 +543,7 @@ def validate_monitoring() -> dict:
         if (
             normalize_hostname(hostname) != hostname or not hostname.endswith(".ye")
             or normalize_hostname(domain) != domain or not domain.endswith(".ye")
-            or not (hostname == domain or hostname.endswith(f".{domain}"))
+            or registrable_domain(hostname) != domain or domain not in domains
         ):
             raise ValueError(f"invalid discovered hostname mapping: {hostname}")
 
@@ -613,7 +645,7 @@ def main() -> int:
     registration_rows = validate_registration(domains)
     validate_analysis(domain_rows)
     summary = validate_summary(domain_rows, hostname_rows, registration_rows)
-    monitor_summary = validate_monitoring()
+    monitor_summary = validate_monitoring(domains)
     print(json.dumps({"ok": True, **summary, **monitor_summary}, sort_keys=True))
     return 0
 

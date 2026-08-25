@@ -6,6 +6,7 @@ domain,unicode_domain,public_suffix,registration_level
 189.ye,189.ye,ye,direct_under_ye
 1st-b.com.ye,1st-b.com.ye,com.ye,under_structured_suffix
 21umas.edu.ye,21umas.edu.ye,edu.ye,under_structured_suffix
+22may.hospital.ye,22may.hospital.ye,hospital.ye,under_structured_suffix
 3allimni.ye,3allimni.ye,ye,direct_under_ye
 3d.com.ye,3d.com.ye,com.ye,under_structured_suffix
 4dimensions.com.ye,4dimensions.com.ye,com.ye,under_structured_suffix
@@ -195,6 +196,7 @@ alsalehuni.edu.ye,alsalehuni.edu.ye,edu.ye,under_structured_suffix
 alsewarri.com.ye,alsewarri.com.ye,com.ye,under_structured_suffix
 alshaimagrp.ye,alshaimagrp.ye,ye,direct_under_ye
 alshami.com.ye,alshami.com.ye,com.ye,under_structured_suffix
+alshamilawfirm.law.ye,alshamilawfirm.law.ye,law.ye,under_structured_suffix
 alshefa-import.com.ye,alshefa-import.com.ye,com.ye,under_structured_suffix
 alsheharymedical.com.ye,alsheharymedical.com.ye,com.ye,under_structured_suffix
 alshmoa.com.ye,alshmoa.com.ye,com.ye,under_structured_suffix
@@ -220,6 +222,7 @@ alzubaidi.net.ye,alzubaidi.net.ye,net.ye,under_structured_suffix
 alzubairiaa.com.ye,alzubairiaa.com.ye,com.ye,under_structured_suffix
 amadeus.com.ye,amadeus.com.ye,com.ye,under_structured_suffix
 amalikgc.com.ye,amalikgc.com.ye,com.ye,under_structured_suffix
+aman.hospital.ye,aman.hospital.ye,hospital.ye,under_structured_suffix
 amana.ye,amana.ye,ye,direct_under_ye
 amanaedu.gov.ye,amanaedu.gov.ye,gov.ye,under_structured_suffix
 amb.com.ye,amb.com.ye,com.ye,under_structured_suffix
@@ -261,12 +264,14 @@ assalimi.com.ye,assalimi.com.ye,com.ye,under_structured_suffix
 ate.com.ye,ate.com.ye,com.ye,under_structured_suffix
 ath.gov.ye,ath.gov.ye,gov.ye,under_structured_suffix
 atlasfishing.com.ye,atlasfishing.com.ye,com.ye,under_structured_suffix
+atme.com.ye,atme.com.ye,com.ye,under_structured_suffix
 attabco.com.ye,attabco.com.ye,com.ye,under_structured_suffix
 atwar.com.ye,atwar.com.ye,com.ye,under_structured_suffix
 au-foe.edu.ye,au-foe.edu.ye,edu.ye,under_structured_suffix
 au.edu.ye,au.edu.ye,edu.ye,under_structured_suffix
 auc.com.ye,auc.com.ye,com.ye,under_structured_suffix
 auhd.edu.ye,auhd.edu.ye,edu.ye,under_structured_suffix
+aust.uni.ye,aust.uni.ye,uni.ye,under_structured_suffix
 authmohe.gov.ye,authmohe.gov.ye,gov.ye,under_structured_suffix
 automanifest.com.ye,automanifest.com.ye,com.ye,under_structured_suffix
 autoreference.com.ye,autoreference.com.ye,com.ye,under_structured_suffix
@@ -1202,6 +1207,7 @@ tbhs.com.ye,tbhs.com.ye,com.ye,under_structured_suffix
 tci-dhamar.com.ye,tci-dhamar.com.ye,com.ye,under_structured_suffix
 tda-yemen.org.ye,tda-yemen.org.ye,org.ye,under_structured_suffix
 tebr.com.ye,tebr.com.ye,com.ye,under_structured_suffix
+tebyan.school.ye,tebyan.school.ye,school.ye,under_structured_suffix
 tebyan.ye,tebyan.ye,ye,direct_under_ye
 tech-city.gov.ye,tech-city.gov.ye,gov.ye,under_structured_suffix
 technohouse.com.ye,technohouse.com.ye,com.ye,under_structured_suffix
@@ -1231,6 +1237,7 @@ thuniv.edu.ye,thuniv.edu.ye,edu.ye,under_structured_suffix
 time.ye,time.ye,ye,direct_under_ye
 titmag.net.ye,titmag.net.ye,net.ye,under_structured_suffix
 tlc.edu.ye,tlc.edu.ye,edu.ye,under_structured_suffix
+tld.ye,tld.ye,ye,direct_under_ye
 tld1.ye,tld1.ye,ye,direct_under_ye
 tld2.ye,tld2.ye,ye,direct_under_ye
 tld3.ye,tld3.ye,ye,direct_under_ye

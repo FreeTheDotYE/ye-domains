@@ -1,20 +1,24 @@
 {
-  "domains_with_clean_registration_data": 1371,
-  "domains_without_clean_registration_data": 111,
-  "hostnames": 4722,
+  "domains_with_clean_registration_data": 1377,
+  "domains_without_clean_registration_data": 112,
+  "hostnames": 4724,
   "privacy": {
     "acquisition_timestamps_published": false,
     "personal_contact_fields_published": false,
     "source_urls_published": false
   },
   "public_suffix_counts": {
-    "com.ye": 772,
+    "com.ye": 773,
     "edu.ye": 131,
     "gov.ye": 233,
+    "hospital.ye": 2,
+    "law.ye": 1,
     "net.ye": 61,
     "org.ye": 86,
-    "ye": 199
+    "school.ye": 1,
+    "uni.ye": 1,
+    "ye": 200
   },
-  "registrable_domains": 1482,
+  "registrable_domains": 1489,
   "schema_version": 1
 }
