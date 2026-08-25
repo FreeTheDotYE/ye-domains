@@ -1,0 +1,63 @@
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"d9dff830298a62bf462c","field":"a","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.alarabiagroup.com.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"268dac62cb9e317036a0","field":"mx","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"4380404d27aa44ebc428","field":"ns","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"40e8705341cacd206b88","field":"soa_mname","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":"2023041712","before":"","classification":"telemetry","date":"2026-08-25","event_id":"1a6fb8378cbb56aa3e69","field":"soa_serial","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"5689e2d3f0da4e8376f6","field":"status","hostname":"alarabiagroup.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"86d8a8540eac75c5eae5","field":"status","hostname":"belqeescollege.edu.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"fc20904beca2d503ca12","field":"a","hostname":"crowe.com.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","20 mail5.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"a87a259da72f9d1a707b","field":"mx","hostname":"crowe.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"d191dcde9c22fc82fa12","field":"ns","hostname":"crowe.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"547b66ef28c59afa4f86","field":"soa_mname","hostname":"crowe.com.ye","schema_version":1}
+{"after":"2025120802","before":"","classification":"telemetry","date":"2026-08-25","event_id":"392d7bcab102507190f5","field":"soa_serial","hostname":"crowe.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"604f36196c135d4c301e","field":"status","hostname":"crowe.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"58b132cf1e32251aea04","field":"status","hostname":"kam-alshebrycon.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"6f6b8d868a553a2e46fa","field":"status","hostname":"m-tam.com.ye","schema_version":1}
+{"after":["78.137.78.4"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"a608475323998e217d7e","field":"a","hostname":"mail.capitalsanaa.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"136432c9687ac9bcf9e4","field":"status","hostname":"mail.capitalsanaa.gov.ye","schema_version":1}
+{"after":["82.114.162.35"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"c99fb5a2365c9d09b0db","field":"a","hostname":"mail.eoi.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"8309973e7049862e2ab9","field":"status","hostname":"mail.eoi.ye","schema_version":1}
+{"after":["82.114.162.10"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"258064c9b10a0a45f75f","field":"a","hostname":"mail.sayich.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"7c0f74b045e1fc651f3f","field":"status","hostname":"mail.sayich.com.ye","schema_version":1}
+{"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"7513dfc744ddfbc1b782","field":"a","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","20 mail.mscollege.edu.ye","20 mail5.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"0a92ccc012497bcfe2c9","field":"mx","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"4aba6415da8728ebaa98","field":"ns","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"ba67673554b5f4dc65b6","field":"soa_mname","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":"2026032807","before":"","classification":"telemetry","date":"2026-08-25","event_id":"fb5439498922ae8bcc40","field":"soa_serial","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"7ed84faf92a63bd4fee0","field":"status","hostname":"mscollege.edu.ye","schema_version":1}
+{"after":"2026082565","before":"2026082564","classification":"telemetry","date":"2026-08-25","event_id":"150d2fe47cf86b140079","field":"soa_serial","hostname":"net.ye","schema_version":1}
+{"after":["195.94.13.225"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"8919cf8b0c577e165571","field":"a","hostname":"parliament.gov.ye","schema_version":1}
+{"after":["10 ty-ax-fe01.parliament.gov.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"c90b4cdc8f92983ea351","field":"mx","hostname":"parliament.gov.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"c7fd0cc2fe7a7c4f50a8","field":"ns","hostname":"parliament.gov.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"66d187d167103aa59ce3","field":"soa_mname","hostname":"parliament.gov.ye","schema_version":1}
+{"after":"2024102201","before":"","classification":"telemetry","date":"2026-08-25","event_id":"b96b87a297721d833b6e","field":"soa_serial","hostname":"parliament.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"4c98a1f68e133b3638d5","field":"status","hostname":"parliament.gov.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"a2411d6cdedc7277fc65","field":"status","hostname":"seaworld-log.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"84626318abae8845c8fe","field":"status","hostname":"webdisk.alhezmi.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"33a792b2f232b17c3a16","field":"status","hostname":"webdisk.alkabsh.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"b5d1614f12a57b7fbe4d","field":"status","hostname":"webdisk.kam-alshebrycon.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"fc733e05b884d2cfd03e","field":"status","hostname":"webdisk.nymc.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"12be6d047278651d9274","field":"status","hostname":"webmail.alnamsapharma.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"1c10627c2be184bbed02","field":"status","hostname":"webmail.english.almasirah.net.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"b1e42f42ece6855c5b60","field":"status","hostname":"worldline.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"b0f76272622682c06053","field":"status","hostname":"www.alhezmi.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"bb180aa61cc70302b3ae","field":"status","hostname":"www.alkantop.com.ye","schema_version":1}
+{"after":["82.114.162.10"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"912f0a732bf40bf692f0","field":"a","hostname":"www.bahaj.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"61431790013dcb037bec","field":"status","hostname":"www.bahaj.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"0b9f51ec6031d4a8338c","field":"status","hostname":"www.marvelflts.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"95fb3d7c25c1d5d968e9","field":"status","hostname":"www.mtnplay.com.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"28466338599e67823b60","field":"status","hostname":"www.soon.alnahdah.org.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"f8df733fdcfc74ac339a","field":"status","hostname":"www.tr-sanaa.gov.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"d79d09383188921aa5ee","field":"status","hostname":"www.zuhoorpharma.com.ye","schema_version":1}
+{"after":["195.94.23.15"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"785657f5f2024871979f","field":"a","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":["10 webmail.ye-cement.com.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"99086933acc96b99dfcc","field":"mx","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"1cc29b818e64073df0a8","field":"ns","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"83dc0195e8f55f8093bc","field":"soa_mname","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":"2025021005","before":"","classification":"telemetry","date":"2026-08-25","event_id":"dfb623500c6883184e55","field":"soa_serial","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"8328899f7a38e32525cd","field":"status","hostname":"ye-cement.com.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-08-25","event_id":"134d01000d6b8e774420","field":"a","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.yeconstmarine.com.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"3800e91465b73186ccd5","field":"mx","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"ddd870a739786200e4d8","field":"ns","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"fae7fda7e64eacd6f4f6","field":"soa_mname","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":"2024071702","before":"","classification":"telemetry","date":"2026-08-25","event_id":"59cc6628ad0efc342445","field":"soa_serial","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"4bf9de2bd242298faa2b","field":"status","hostname":"yeconstmarine.com.ye","schema_version":1}

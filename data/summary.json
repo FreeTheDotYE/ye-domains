@@ -1,0 +1,20 @@
+{
+  "domains_with_clean_registration_data": 1371,
+  "domains_without_clean_registration_data": 111,
+  "hostnames": 4722,
+  "privacy": {
+    "acquisition_timestamps_published": false,
+    "personal_contact_fields_published": false,
+    "source_urls_published": false
+  },
+  "public_suffix_counts": {
+    "com.ye": 772,
+    "edu.ye": 131,
+    "gov.ye": 233,
+    "net.ye": 61,
+    "org.ye": 86,
+    "ye": 199
+  },
+  "registrable_domains": 1482,
+  "schema_version": 1
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite the dataset and its repository version."
+title: "Yemen .ye Domain Observatory"
+type: dataset
+authors:
+  - name: "FreeTheDotYE campaign"
+repository-code: "https://github.com/FreeTheDotYE/ye-domains"
+url: "https://freethedotye.org/"
+license: CC0-1.0
+version: "1.0.0"
+keywords:
+  - Yemen
+  - ccTLD
+  - domain names
+  - digital sovereignty
