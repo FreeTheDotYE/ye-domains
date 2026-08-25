@@ -29,6 +29,8 @@ The corpus combines multiple public datasets and technical observations. Detaile
 
 Registration lifecycle dates in `registration.jsonl` describe the domain record itself and are reduced to calendar-day precision. They are not acquisition timestamps.
 
+Cleaned companion registration data is maintained in [FreeTheDotYE/ye-rdap-whois](https://github.com/FreeTheDotYE/ye-rdap-whois); its stable snapshot is available as [v1.1.0](https://github.com/FreeTheDotYE/ye-rdap-whois/releases/tag/v1.1.0).
+
 Hostname mappings use the longest recognized registry level. Registry-delegated structured levels are documented in the data dictionary; the current corpus includes child registrations under `hospital.ye`, `law.ye`, `school.ye`, and `uni.ye`. Level names themselves remain retained direct-under-`.ye` corpus entries where historically observed.
 
 ## Public WARC archive
@@ -39,7 +41,7 @@ Contributor-safety normalization removes collection-bound timestamps, cookies, p
 
 These are homepage responses, not recursive crawls. An archived response does not establish a site's current state, ownership, control, affiliation, intent, or wrongdoing. Preserved public content may contain dates, identifiers, or personal information published by the originating site, and can be correlated by someone who already holds another copy. Pre-normalization originals remain in restricted preservation storage.
 
-See [`archives/README.md`](archives/README.md), [`archives/format.md`](archives/format.md), and [`archives/RIGHTS.md`](archives/RIGHTS.md) for format, interpretation, and third-party rights guidance. The timeless convenience asset can be built outside the repository with:
+See [`archives/README.md`](archives/README.md), [`archives/format.md`](archives/format.md), and [`archives/RIGHTS.md`](archives/RIGHTS.md) for format, interpretation, and third-party rights guidance. Download the timeless [`warc-v1` release](https://github.com/FreeTheDotYE/ye-domains/releases/tag/warc-v1), its [WARC bundle](https://github.com/FreeTheDotYE/ye-domains/releases/download/warc-v1/ye-homepage-warcs-v1.tar.zst), or the bundle's [SHA-256 checksum](https://github.com/FreeTheDotYE/ye-domains/releases/download/warc-v1/ye-homepage-warcs-v1.tar.zst.sha256). The same asset can be reproduced outside the repository with:
 
 ```sh
 node scripts/warc-bundle.mjs . ../ye-warcs-release-assets

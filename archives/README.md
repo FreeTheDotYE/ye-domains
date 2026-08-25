@@ -51,9 +51,13 @@ tests/warc-*.test.mjs    offline privacy and integrity tests
 archives/SHA256SUMS      checksums for archives and archive data files
 ```
 
-The `warc-v1` GitHub release also provides the timeless convenience asset
-`ye-homepage-warcs-v1.tar.zst` and its SHA-256 sidecar. It contains the same
-validated loose archives, manifest, summary, documentation, and checksums.
+The [`warc-v1` GitHub release](https://github.com/FreeTheDotYE/ye-domains/releases/tag/warc-v1)
+also provides the timeless convenience asset
+[`ye-homepage-warcs-v1.tar.zst`](https://github.com/FreeTheDotYE/ye-domains/releases/download/warc-v1/ye-homepage-warcs-v1.tar.zst)
+and its
+[SHA-256 sidecar](https://github.com/FreeTheDotYE/ye-domains/releases/download/warc-v1/ye-homepage-warcs-v1.tar.zst.sha256).
+It contains the same validated loose archives, manifest, summary,
+documentation, and checksums.
 
 ## Verification
 
