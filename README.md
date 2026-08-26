@@ -22,6 +22,9 @@ The corpus combines multiple public datasets and technical observations. Detaile
 - `data/summary.json`: reconciled counts and privacy flags.
 - `analysis/public_suffix_distribution.csv`: distribution across the public `.ye` namespace levels.
 - `monitoring/`: sanitized DNS state, confirmed changes, and a technical Sohobcom DNS-overlap view.
+- `evidence/common-crawl/`: historical web-capture references and domain/hostname discovery summaries.
+- `evidence/tls/`: deployed TLS observations plus content-addressed certificate files.
+- `evidence/infrastructure/`: an append-only relationship graph linking domains, hosts, DNS, addresses, routing, registrars, web captures, and certificates.
 - `archives/warc/`: one privacy-normalized WARC response per archived `.ye` homepage.
 - `archives/manifest.csv`: searchable archive metadata, sizes, identifiers, and SHA-256 values.
 - `archives/summary.json`: reconciled WARC coverage, status classes, media types, and byte counts.
@@ -57,6 +60,14 @@ The monitor is limited to DNS observation and does not conduct active network or
 
 Technical overlap can show shared addresses, nameservers, mail routing, authority infrastructure, or references into the Sohobcom namespace. It does not by itself prove ownership, organizational affiliation, political alignment, intent, or wrongdoing.
 
+## Historical web, TLS, and infrastructure evidence
+
+The generated `evidence/` tree adds three independently inspectable layers. Common Crawl records supply historical capture dates and WARC byte-range references while also expanding the known structured-suffix domain inventory. Deployed TLS observations preserve the exact public leaf certificate returned by a normal port 443 handshake and track certificate changes over time. The infrastructure graph joins these observations to current DNS, routing origin, and cleaned registration signals with first-seen, last-seen, active-state, and provenance-class fields.
+
+Public records use calendar-day precision. Common Crawl URL paths and query strings are represented by SHA-256 values; the public record retains the hostname, registrable domain, capture metadata, public content digest, and WARC reference needed for future retrieval. Connection failures remain private because a failed attempt is not evidence that a service is absent.
+
+Graph edges are technical observations. Shared infrastructure can prioritize archival and research review, but it does not alone establish control, ownership, affiliation, intent, or wrongdoing.
+
 ## Research purpose
 
 The dataset supports historical documentation, namespace-governance research, infrastructure-change monitoring, and study of how `.ye` domains and hosting infrastructure are used in the context of conflict and contested telecommunications governance.
@@ -69,6 +80,7 @@ The corpus validator uses the Python standard library. WARC validation and tests
 
 ```sh
 python scripts/validate_dataset.py
+python scripts/validate_tracking.py evidence
 node --test tests/warc-*.test.mjs
 node scripts/warc-validate.mjs .
 sha256sum -c archives/SHA256SUMS

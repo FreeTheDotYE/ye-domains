@@ -25,6 +25,8 @@ jobs:
           python-version: "3.12"
       - name: Validate public release
         run: python scripts/validate_dataset.py
+      - name: Validate technical evidence
+        run: python scripts/validate_tracking.py evidence
       - name: Test WARC privacy and bundle invariants
         run: node --test tests/warc-*.test.mjs
       - name: Validate public WARC archives
