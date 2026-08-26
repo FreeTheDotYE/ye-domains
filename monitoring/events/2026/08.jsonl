@@ -61,3 +61,4 @@
 {"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-25","event_id":"fae7fda7e64eacd6f4f6","field":"soa_mname","hostname":"yeconstmarine.com.ye","schema_version":1}
 {"after":"2024071702","before":"","classification":"telemetry","date":"2026-08-25","event_id":"59cc6628ad0efc342445","field":"soa_serial","hostname":"yeconstmarine.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"4bf9de2bd242298faa2b","field":"status","hostname":"yeconstmarine.com.ye","schema_version":1}
+{"after":["82.14.162.36"],"before":["78.137.79.100"],"classification":"informational","date":"2026-08-26","event_id":"372828f3c667835fc388","field":"a","hostname":"mail.testcp.net.ye","schema_version":1}
