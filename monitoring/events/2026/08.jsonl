@@ -62,6 +62,10 @@
 {"after":"2024071702","before":"","classification":"telemetry","date":"2026-08-25","event_id":"59cc6628ad0efc342445","field":"soa_serial","hostname":"yeconstmarine.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-25","event_id":"4bf9de2bd242298faa2b","field":"status","hostname":"yeconstmarine.com.ye","schema_version":1}
 {"after":["82.14.162.36"],"before":["78.137.79.100"],"classification":"informational","date":"2026-08-26","event_id":"372828f3c667835fc388","field":"a","hostname":"mail.testcp.net.ye","schema_version":1}
+{"after":"2026082701","before":"2026082304","classification":"telemetry","date":"2026-08-27","event_id":"f92122ac37cbb8ddb14c","field":"soa_serial","hostname":"aljazeeraibb.edu.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"db248fface2bb09b600f","field":"soa_serial","hostname":"alnafisuni.edu.ye","schema_version":1}
+{"after":"2026082600","before":"2026082400","classification":"telemetry","date":"2026-08-27","event_id":"5d7f415504ee13c93e6c","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"08dfa9cafbf4e3a11aef","field":"soa_serial","hostname":"alrowaduni.edu.ye","schema_version":1}
 {"after":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.alshamilawfirm.law.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"bebfc0cc9840c72af139","field":"mx","hostname":"alshamilawfirm.law.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"935b4bbb2f107ab8c5b7","field":"ns","hostname":"alshamilawfirm.law.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"2422af917322a9f8973b","field":"soa_mname","hostname":"alshamilawfirm.law.ye","schema_version":1}
@@ -72,17 +76,43 @@
 {"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"c677d9d7243669c6a4aa","field":"ns","hostname":"aman.hospital.ye","schema_version":1}
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"946f2eca38907e7e1d70","field":"soa_mname","hostname":"aman.hospital.ye","schema_version":1}
 {"after":"2026031702","before":"","classification":"telemetry","date":"2026-08-27","event_id":"2cc6fe7f8c5394e68f08","field":"soa_serial","hostname":"aman.hospital.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"c7f3e0177f21a703032b","field":"soa_serial","hostname":"arwauniversity.edu.ye","schema_version":1}
 {"after":["0 shared063.arvixe.com"],"before":[],"classification":"review","date":"2026-08-27","event_id":"7d062d9479579d61deaa","field":"mx","hostname":"aust.uni.ye","schema_version":1}
 {"after":["ns1.arvixeshared.com","ns2.arvixeshared.com"],"before":[],"classification":"review","date":"2026-08-27","event_id":"69818f5d67dd62c179bb","field":"ns","hostname":"aust.uni.ye","schema_version":1}
 {"after":["ns1.arvixeshared.com"],"before":[],"classification":"review","date":"2026-08-27","event_id":"206dbefcb69b14e51a17","field":"soa_mname","hostname":"aust.uni.ye","schema_version":1}
 {"after":"2026042302","before":"","classification":"telemetry","date":"2026-08-27","event_id":"5f692b1d3410af581f26","field":"soa_serial","hostname":"aust.uni.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"1d9ded57b87581b09ce0","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"8b0ab30c908b701db1b2","field":"soa_serial","hostname":"civilizationuniv.edu.ye","schema_version":1}
+{"after":[],"before":["185.11.10.149"],"classification":"informational","date":"2026-08-27","event_id":"dfa654b3974f41b496e9","field":"a","hostname":"host.yemenrtv.net.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-08-27","event_id":"24f5b3d5208699adc32e","field":"status","hostname":"host.yemenrtv.net.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"a5e3ceb8b3c232c8f645","field":"soa_serial","hostname":"hu.edu.ye","schema_version":1}
 {"after":[],"before":["191.96.56.161"],"classification":"informational","date":"2026-08-27","event_id":"343e1cbabcb18ca71cf3","field":"a","hostname":"mail.qau.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-08-27","event_id":"d46183a281cde316d1aa","field":"status","hostname":"mail.qau.ye","schema_version":1}
+{"after":["82.114.162.36"],"before":["82.14.162.36"],"classification":"informational","date":"2026-08-27","event_id":"6c3b53a5b5171f152d1b","field":"a","hostname":"mail.testcp.net.ye","schema_version":1}
 {"after":["78.137.78.28"],"before":["185.11.8.42"],"classification":"informational","date":"2026-08-27","event_id":"f49120b34a90306d62c3","field":"a","hostname":"mail.vibrafone.com.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"60bbcde6c45dda255bca","field":"soa_serial","hostname":"pepa.com.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"b3298eb0ede02d8e3423","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
+{"after":["104.219.248.3"],"before":[],"classification":"informational","date":"2026-08-27","event_id":"816bf1036ffb1cb5e3b9","field":"a","hostname":"rhc.com.ye","schema_version":1}
+{"after":["0 rhc.com.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"5998af9c7316219aa759","field":"mx","hostname":"rhc.com.ye","schema_version":1}
+{"after":["ns1.salsabeelsoft.com","ns2.salsabeelsoft.com"],"before":[],"classification":"review","date":"2026-08-27","event_id":"d67f3a6336999f558e8d","field":"ns","hostname":"rhc.com.ye","schema_version":1}
+{"after":["ns1.salsabeelsoft.com"],"before":[],"classification":"review","date":"2026-08-27","event_id":"3faf0222e9794307d92d","field":"soa_mname","hostname":"rhc.com.ye","schema_version":1}
+{"after":"2026071404","before":"","classification":"telemetry","date":"2026-08-27","event_id":"1a10d84206eb2998eeb3","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
+{"after":"records_present","before":"nxdomain","classification":"review","date":"2026-08-27","event_id":"cb38346272a162101b21","field":"status","hostname":"rhc.com.ye","schema_version":1}
 {"after":"2026082625","before":"2026042824","classification":"telemetry","date":"2026-08-27","event_id":"b294d3b5f653f3cc2059","field":"soa_serial","hostname":"sabacash.ye","schema_version":1}
 {"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"78ea81bd477c9a3d900d","field":"ns","hostname":"tebyan.school.ye","schema_version":1}
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"57b984e91598bfa17b45","field":"soa_mname","hostname":"tebyan.school.ye","schema_version":1}
 {"after":"2024102201","before":"","classification":"telemetry","date":"2026-08-27","event_id":"98d1f54a6592348ae1dd","field":"soa_serial","hostname":"tebyan.school.ye","schema_version":1}
+{"after":["82.114.162.19"],"before":["82.14.162.19"],"classification":"informational","date":"2026-08-27","event_id":"e83a059eb43022461f51","field":"a","hostname":"testcp.net.ye","schema_version":1}
+{"after":["10 mail.testcp.net.ye"],"before":["10 mail3.yemen.net.ye","20 mail5.yemen.net.ye"],"classification":"review","date":"2026-08-27","event_id":"19f2309b533f8400fdb8","field":"mx","hostname":"testcp.net.ye","schema_version":1}
+{"after":"2026082666","before":"2026082459","classification":"telemetry","date":"2026-08-27","event_id":"4ff23c145d26f9553e5e","field":"soa_serial","hostname":"testcp.net.ye","schema_version":1}
+{"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-08-27","event_id":"7fe901296ad5d823b503","field":"a","hostname":"tyt.com.ye","schema_version":1}
+{"after":["0 tyt.com.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"eb228c961a8331f88e30","field":"mx","hostname":"tyt.com.ye","schema_version":1}
+{"after":["cp.sohobcom.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"83fa21282a6e608c1036","field":"ns","hostname":"tyt.com.ye","schema_version":1}
+{"after":["cp.sohobcom.ye"],"before":[],"classification":"review","date":"2026-08-27","event_id":"f3a3d84af83141c9a015","field":"soa_mname","hostname":"tyt.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-08-27","event_id":"d49f6a713e76bf237fa0","field":"status","hostname":"tyt.com.ye","schema_version":1}
+{"after":"2026082701","before":"2026082001","classification":"telemetry","date":"2026-08-27","event_id":"b2052fe34e286911494f","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":["185.11.8.42"],"classification":"informational","date":"2026-08-27","event_id":"66a43c23b3a04573022f","field":"a","hostname":"vibrafone.com.ye","schema_version":1}
 {"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye"],"before":["20 mail.vibrafone.com.ye"],"classification":"review","date":"2026-08-27","event_id":"66f7ad7f6400f8ad91a5","field":"mx","hostname":"vibrafone.com.ye","schema_version":1}
 {"after":"2026082643","before":"2026062337","classification":"telemetry","date":"2026-08-27","event_id":"7d42c38304065c4d7cd4","field":"soa_serial","hostname":"vibrafone.com.ye","schema_version":1}
+{"after":["82.114.162.19"],"before":["82.14.162.19"],"classification":"informational","date":"2026-08-27","event_id":"20ebf716ba8822f9737a","field":"a","hostname":"www.testcp.net.ye","schema_version":1}
+{"after":"2026082627","before":"2026080926","classification":"telemetry","date":"2026-08-27","event_id":"59b457576b7300f7185e","field":"soa_serial","hostname":"yemenrtv.net.ye","schema_version":1}
