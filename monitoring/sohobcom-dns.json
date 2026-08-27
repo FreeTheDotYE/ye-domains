@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-08-26",
+  "as_of_date": "2026-08-27",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "sah1.ye",
@@ -604,6 +604,16 @@
         "sah3.ye"
       ],
       "domain": "alwaleedconsultancy.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "aman.hospital.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2632,6 +2642,16 @@
         "sah3.ye"
       ],
       "domain": "tam-group.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "tebyan.school.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
