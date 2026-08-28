@@ -116,3 +116,6 @@
 {"after":"2026082643","before":"2026062337","classification":"telemetry","date":"2026-08-27","event_id":"7d42c38304065c4d7cd4","field":"soa_serial","hostname":"vibrafone.com.ye","schema_version":1}
 {"after":["82.114.162.19"],"before":["82.14.162.19"],"classification":"informational","date":"2026-08-27","event_id":"20ebf716ba8822f9737a","field":"a","hostname":"www.testcp.net.ye","schema_version":1}
 {"after":"2026082627","before":"2026080926","classification":"telemetry","date":"2026-08-27","event_id":"59b457576b7300f7185e","field":"soa_serial","hostname":"yemenrtv.net.ye","schema_version":1}
+{"after":["191.96.56.161"],"before":[],"classification":"informational","date":"2026-08-28","event_id":"f8b77354e6ee4fab6084","field":"a","hostname":"mail.qau.ye","schema_version":1}
+{"after":"records_present","before":"nxdomain","classification":"review","date":"2026-08-28","event_id":"0bae466ac053039abb3f","field":"status","hostname":"mail.qau.ye","schema_version":1}
+{"after":["ns10.dnsmadeeasy.com","ns11.dnsmadeeasy.com","ns12.dnsmadeeasy.com","sah1.ye","sah2.ye","sah3.ye"],"before":["ns10.dnsmadeeasy.com","ns11.dnsmadeeasy.com","ns12.dnsmadeeasy.com","ns13.dnsmadeeasy.com","ns14.dnsmadeeasy.com","ns15.dnsmadeeasy.com"],"classification":"review","date":"2026-08-28","event_id":"e24686ef9a0d0c7948e5","field":"ns","hostname":"mobilemoney.com.ye","schema_version":1}
