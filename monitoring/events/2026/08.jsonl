@@ -122,3 +122,6 @@
 {"after":"2026082700","before":"2026042206","classification":"telemetry","date":"2026-08-29","event_id":"84b82412f2e51e4b637a","field":"soa_serial","hostname":"annajmplus.com.ye","schema_version":1}
 {"after":"2026082703","before":"2026070501","classification":"telemetry","date":"2026-08-29","event_id":"a8dc88daa7d5598822aa","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-08-29","event_id":"a74f3c2afdf03f4069e9","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":"2413460522","before":"2412811704","classification":"telemetry","date":"2026-08-30","event_id":"ab273fe8f65c7371c58b","field":"soa_serial","hostname":"msu.edu.ye","schema_version":1}
+{"after":["ns-1999.awsdns-57.co.uk"],"before":["ns-95.awsdns-11.com"],"classification":"review","date":"2026-08-30","event_id":"cfe0e98933c28f3e744e","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":"2413416519","before":"2410317627","classification":"telemetry","date":"2026-08-30","event_id":"b1a4de4c9fd8b754e830","field":"soa_serial","hostname":"yementrack.com.ye","schema_version":1}
