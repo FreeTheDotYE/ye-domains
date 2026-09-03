@@ -1,10 +1,10 @@
 {
-  "confirmed_changes": 9,
-  "date": "2026-09-02",
-  "definitive": 5021,
+  "confirmed_changes": 3,
+  "date": "2026-09-03",
+  "definitive": 5053,
   "hostnames_checked": 5108,
-  "inconclusive": 87,
-  "new_dns_discoveries": 0,
+  "inconclusive": 55,
+  "new_dns_discoveries": 1,
   "pending_hostnames": 43,
   "schema_version": 1,
   "status_counts": {

@@ -19,3 +19,7 @@
 {"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-09-02","event_id":"2c45514b30ccd996c313","field":"a","hostname":"www.tyt.com.ye","schema_version":1}
 {"after":["tyt.com.ye"],"before":[],"classification":"review","date":"2026-09-02","event_id":"d8ecaedd773e97c92054","field":"cname","hostname":"www.tyt.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-09-02","event_id":"08fa0bbd2054e177555f","field":"status","hostname":"www.tyt.com.ye","schema_version":1}
+{"after":"2026090104","before":"2026072706","classification":"telemetry","date":"2026-09-03","event_id":"dfc43a6a9eefbf5ee2fe","field":"soa_serial","hostname":"ahgaff.edu.ye","schema_version":1}
+{"after":["sah1.ye"],"before":["ns10.dnsmadeeasy.com"],"classification":"review","date":"2026-09-03","event_id":"2c6b82a9d89c4e1aa69e","field":"soa_mname","hostname":"mobilemoney.com.ye","schema_version":1}
+{"after":"2025032730","before":"2009010129","classification":"telemetry","date":"2026-09-03","event_id":"a4531b66e4c504831d11","field":"soa_serial","hostname":"mobilemoney.com.ye","schema_version":1}
+{"after":"2026090203","before":"2026071404","classification":"telemetry","date":"2026-09-03","event_id":"1f843a50357390bf63b3","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
