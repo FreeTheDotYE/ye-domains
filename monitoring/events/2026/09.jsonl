@@ -23,3 +23,17 @@
 {"after":["sah1.ye"],"before":["ns10.dnsmadeeasy.com"],"classification":"review","date":"2026-09-03","event_id":"2c6b82a9d89c4e1aa69e","field":"soa_mname","hostname":"mobilemoney.com.ye","schema_version":1}
 {"after":"2025032730","before":"2009010129","classification":"telemetry","date":"2026-09-03","event_id":"a4531b66e4c504831d11","field":"soa_serial","hostname":"mobilemoney.com.ye","schema_version":1}
 {"after":"2026090203","before":"2026071404","classification":"telemetry","date":"2026-09-03","event_id":"1f843a50357390bf63b3","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"2151530a39fda57422c5","field":"soa_serial","hostname":"alnafisuni.edu.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"d7069a6bf4b75335bc72","field":"soa_serial","hostname":"alrowaduni.edu.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"1ca534fe0d9949c561d9","field":"soa_serial","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"cd238db05953580cd044","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"11763467831cfc7c7622","field":"soa_serial","hostname":"hu.edu.ye","schema_version":1}
+{"after":"2026090200","before":"2026080200","classification":"telemetry","date":"2026-09-04","event_id":"d9082c99164e3a0c9d6e","field":"soa_serial","hostname":"niu.edu.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"816d1ee9674ac3a7cb10","field":"soa_serial","hostname":"pepa.com.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"e5a7522dce87b149eb6e","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
+{"after":["ns-1333.awsdns-38.org"],"before":["ns-1999.awsdns-57.co.uk"],"classification":"review","date":"2026-09-04","event_id":"1cbdbf8a5ac91bd0a290","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":"2026090203","before":"2026081701","classification":"telemetry","date":"2026-09-04","event_id":"ec38e5b309fdbaa55234","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
+{"after":"2026090301","before":"2026082701","classification":"telemetry","date":"2026-09-04","event_id":"e17e2c025b62451d0bcf","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-09-04","event_id":"a418daa1f7ff4b3293c3","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["185.112.200.235"],"before":["195.94.24.19"],"classification":"informational","date":"2026-09-04","event_id":"19e8e2c30b1d66b8a674","field":"a","hostname":"yrspc.gov.ye","schema_version":1}
+{"after":"2026090201","before":"2025100703","classification":"telemetry","date":"2026-09-04","event_id":"1cbb29275ba3ad094d81","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}

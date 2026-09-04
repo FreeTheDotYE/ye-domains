@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-09-03",
+  "as_of_date": "2026-09-04",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "sah1.ye",
@@ -181,7 +181,7 @@
         "soa_mname": [
           "sah1.ye"
         ],
-        "soa_serial": "2026081701",
+        "soa_serial": "2026090203",
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
