@@ -37,3 +37,9 @@
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-09-04","event_id":"a418daa1f7ff4b3293c3","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["185.112.200.235"],"before":["195.94.24.19"],"classification":"informational","date":"2026-09-04","event_id":"19e8e2c30b1d66b8a674","field":"a","hostname":"yrspc.gov.ye","schema_version":1}
 {"after":"2026090201","before":"2025100703","classification":"telemetry","date":"2026-09-04","event_id":"1cbb29275ba3ad094d81","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}
+{"after":"2026090321","before":"2026090104","classification":"telemetry","date":"2026-09-05","event_id":"1c4007f4310225fb7fa1","field":"soa_serial","hostname":"ahgaff.edu.ye","schema_version":1}
+{"after":"2413950819","before":"2412636769","classification":"telemetry","date":"2026-09-05","event_id":"2214b17b9e2d5350d2b1","field":"soa_serial","hostname":"alraziuni.edu.ye","schema_version":1}
+{"after":"2026090402","before":"2026082701","classification":"telemetry","date":"2026-09-05","event_id":"b02eb10d4fdb4b4f9dd1","field":"soa_serial","hostname":"civilizationuniv.edu.ye","schema_version":1}
+{"after":["ns10.dnsmadeeasy.com"],"before":["sah1.ye"],"classification":"review","date":"2026-09-05","event_id":"c0eb697d2440070fbfa4","field":"soa_mname","hostname":"mobilemoney.com.ye","schema_version":1}
+{"after":"2009010129","before":"2025032730","classification":"telemetry","date":"2026-09-05","event_id":"14112dd14d03819b775f","field":"soa_serial","hostname":"mobilemoney.com.ye","schema_version":1}
+{"after":"2026090302","before":"2026083101","classification":"telemetry","date":"2026-09-05","event_id":"f25d71c19e047cf7ebda","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}

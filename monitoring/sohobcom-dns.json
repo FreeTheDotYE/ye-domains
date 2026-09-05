@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-09-04",
+  "as_of_date": "2026-09-05",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "sah1.ye",
@@ -1849,14 +1849,6 @@
         "sah3.ye"
       ],
       "domain": "mhru.edu.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye"
-      ],
-      "domain": "mobilemoney.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
