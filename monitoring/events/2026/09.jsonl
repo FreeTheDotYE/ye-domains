@@ -43,3 +43,4 @@
 {"after":["ns10.dnsmadeeasy.com"],"before":["sah1.ye"],"classification":"review","date":"2026-09-05","event_id":"c0eb697d2440070fbfa4","field":"soa_mname","hostname":"mobilemoney.com.ye","schema_version":1}
 {"after":"2009010129","before":"2025032730","classification":"telemetry","date":"2026-09-05","event_id":"14112dd14d03819b775f","field":"soa_serial","hostname":"mobilemoney.com.ye","schema_version":1}
 {"after":"2026090302","before":"2026083101","classification":"telemetry","date":"2026-09-05","event_id":"f25d71c19e047cf7ebda","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}
+{"after":"2026090401","before":"2026082703","classification":"telemetry","date":"2026-09-06","event_id":"20a50d1d5c77060fc368","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
