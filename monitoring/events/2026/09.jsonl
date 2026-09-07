@@ -44,3 +44,16 @@
 {"after":"2009010129","before":"2025032730","classification":"telemetry","date":"2026-09-05","event_id":"14112dd14d03819b775f","field":"soa_serial","hostname":"mobilemoney.com.ye","schema_version":1}
 {"after":"2026090302","before":"2026083101","classification":"telemetry","date":"2026-09-05","event_id":"f25d71c19e047cf7ebda","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}
 {"after":"2026090401","before":"2026082703","classification":"telemetry","date":"2026-09-06","event_id":"20a50d1d5c77060fc368","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
+{"after":"2414136734","before":"2413950819","classification":"telemetry","date":"2026-09-07","event_id":"37ec15153287048c4ec3","field":"soa_serial","hostname":"alraziuni.edu.ye","schema_version":1}
+{"after":["78.137.77.140"],"before":["78.137.78.4"],"classification":"informational","date":"2026-09-07","event_id":"d176b6444c568b5ae6f5","field":"a","hostname":"mail.yemen.gov.ye","schema_version":1}
+{"after":["77.42.21.11"],"before":["185.112.201.113"],"classification":"informational","date":"2026-09-07","event_id":"2f60566859d346aea4c0","field":"a","hostname":"mail.yemenia.com.ye","schema_version":1}
+{"after":["10 mail.moit.gov.ye"],"before":["10 ty-ax-fe01.moit.gov.ye"],"classification":"review","date":"2026-09-07","event_id":"509cfe518f59ba209a1f","field":"mx","hostname":"moit.gov.ye","schema_version":1}
+{"after":"2026090501","before":"2025091101","classification":"telemetry","date":"2026-09-07","event_id":"4bf2ff0805317c99548b","field":"soa_serial","hostname":"moit.gov.ye","schema_version":1}
+{"after":["ns-1354.awsdns-41.org"],"before":["ns-1333.awsdns-38.org"],"classification":"review","date":"2026-09-07","event_id":"234934fff3d480ddf6d8","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["10 gateway2.sohobcom.ye","5 gateway.sohobcom.ye"],"before":["5 gateway.sohobcom.ye"],"classification":"review","date":"2026-09-07","event_id":"86d65ed60c5f2aab98ec","field":"mx","hostname":"sohobcom.ye","schema_version":1}
+{"after":"2026090503","before":"2026090203","classification":"telemetry","date":"2026-09-07","event_id":"d96382e3b419abb2980d","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
+{"after":[],"before":["185.112.201.112"],"classification":"informational","date":"2026-09-07","event_id":"861a42ddc193b07cc278","field":"a","hostname":"ty-ax-fe01.moit.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-07","event_id":"59b16bb7f56f2bfb3796","field":"status","hostname":"ty-ax-fe01.moit.gov.ye","schema_version":1}
+{"after":"2026102930","before":"2025102929","classification":"telemetry","date":"2026-09-07","event_id":"1872a516d0de20d65798","field":"soa_serial","hostname":"yemen.gov.ye","schema_version":1}
+{"after":"2026090502","before":"2025091101","classification":"telemetry","date":"2026-09-07","event_id":"f2a09af87b2e73d0f9e6","field":"soa_serial","hostname":"yemenia.com.ye","schema_version":1}
+{"after":"2026090501","before":"2026090201","classification":"telemetry","date":"2026-09-07","event_id":"cd6e76e7c95e992ca781","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}
