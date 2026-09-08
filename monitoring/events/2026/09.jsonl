@@ -57,3 +57,9 @@
 {"after":"2026102930","before":"2025102929","classification":"telemetry","date":"2026-09-07","event_id":"1872a516d0de20d65798","field":"soa_serial","hostname":"yemen.gov.ye","schema_version":1}
 {"after":"2026090502","before":"2025091101","classification":"telemetry","date":"2026-09-07","event_id":"f2a09af87b2e73d0f9e6","field":"soa_serial","hostname":"yemenia.com.ye","schema_version":1}
 {"after":"2026090501","before":"2026090201","classification":"telemetry","date":"2026-09-07","event_id":"cd6e76e7c95e992ca781","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-09-08","event_id":"834cb2167006a23cc38f","field":"status","hostname":"baytboyoot.ye","schema_version":1}
+{"after":["185.112.200.40"],"before":[],"classification":"informational","date":"2026-09-08","event_id":"19e8006fb8b68cf2af48","field":"a","hostname":"eiu.edu.ye","schema_version":1}
+{"after":["0 eiu.edu.ye"],"before":[],"classification":"review","date":"2026-09-08","event_id":"d3ba1ea54683a299ec0b","field":"mx","hostname":"eiu.edu.ye","schema_version":1}
+{"after":["ns1.eiu.edu.ye","ns2.eiu.edu.ye"],"before":[],"classification":"review","date":"2026-09-08","event_id":"2633a964bb86d742173c","field":"ns","hostname":"eiu.edu.ye","schema_version":1}
+{"after":["ns1.eiu.edu.ye"],"before":[],"classification":"review","date":"2026-09-08","event_id":"b58b1d247f59e2a16558","field":"soa_mname","hostname":"eiu.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-09-08","event_id":"6392d58422097a6bba28","field":"status","hostname":"eiu.edu.ye","schema_version":1}
