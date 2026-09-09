@@ -63,3 +63,8 @@
 {"after":["ns1.eiu.edu.ye","ns2.eiu.edu.ye"],"before":[],"classification":"review","date":"2026-09-08","event_id":"2633a964bb86d742173c","field":"ns","hostname":"eiu.edu.ye","schema_version":1}
 {"after":["ns1.eiu.edu.ye"],"before":[],"classification":"review","date":"2026-09-08","event_id":"b58b1d247f59e2a16558","field":"soa_mname","hostname":"eiu.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-09-08","event_id":"6392d58422097a6bba28","field":"status","hostname":"eiu.edu.ye","schema_version":1}
+{"after":"2026090702","before":"2026090301","classification":"telemetry","date":"2026-09-09","event_id":"b20aab868b959e2c1634","field":"soa_serial","hostname":"alrowaduni.edu.ye","schema_version":1}
+{"after":["ns-1999.awsdns-57.co.uk"],"before":["ns-1354.awsdns-41.org"],"classification":"review","date":"2026-09-09","event_id":"c1061acb56101e3cf0b1","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":"2026090701","before":"2026090503","classification":"telemetry","date":"2026-09-09","event_id":"58f755a480e358e59837","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
+{"after":"2026090702","before":"2026090302","classification":"telemetry","date":"2026-09-09","event_id":"58711b64a526ef48af21","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}
+{"after":"2414274531","before":"2411419766","classification":"telemetry","date":"2026-09-09","event_id":"577455621612e9ea8cc5","field":"soa_serial","hostname":"yjmhr.edu.ye","schema_version":1}

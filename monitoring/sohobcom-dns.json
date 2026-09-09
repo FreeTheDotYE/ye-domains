@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-09-08",
+  "as_of_date": "2026-09-09",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -28,6 +28,23 @@
         "status": "records_present"
       },
       "hostname": "gateway.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [
+          "195.94.15.14"
+        ],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "records_present"
+      },
+      "hostname": "gateway2.sohobcom.ye"
     },
     {
       "dns": {
@@ -146,6 +163,23 @@
     {
       "dns": {
         "a": [
+          "195.94.15.14"
+        ],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "records_present"
+      },
+      "hostname": "gateway2.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [
           "195.94.23.13"
         ],
         "aaaa": [],
@@ -183,7 +217,7 @@
         "soa_mname": [
           "sah1.ye"
         ],
-        "soa_serial": "2026090503",
+        "soa_serial": "2026090701",
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
