@@ -68,3 +68,103 @@
 {"after":"2026090701","before":"2026090503","classification":"telemetry","date":"2026-09-09","event_id":"58f755a480e358e59837","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":"2026090702","before":"2026090302","classification":"telemetry","date":"2026-09-09","event_id":"58711b64a526ef48af21","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}
 {"after":"2414274531","before":"2411419766","classification":"telemetry","date":"2026-09-09","event_id":"577455621612e9ea8cc5","field":"soa_serial","hostname":"yjmhr.edu.ye","schema_version":1}
+{"after":["artemis.dns-parking.com","hermes.dns-parking.com"],"before":["ns1.dns-parking.com","ns1.yemen.net.ye","ns2.dns-parking.com"],"classification":"review","date":"2026-09-10","event_id":"afe1197d7966b729fbf8","field":"ns","hostname":"alamjad.edu.ye","schema_version":1}
+{"after":["hermes.dns-parking.com"],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-09-10","event_id":"8181670c529e3846b6bd","field":"soa_mname","hostname":"alamjad.edu.ye","schema_version":1}
+{"after":[],"before":["67.222.36.183"],"classification":"informational","date":"2026-09-10","event_id":"23ccdab481fd880d9c10","field":"a","hostname":"amte.com.ye","schema_version":1}
+{"after":[],"before":["10 mail.atme.com.ye"],"classification":"review","date":"2026-09-10","event_id":"eeaa01c3a793cfd634be","field":"mx","hostname":"amte.com.ye","schema_version":1}
+{"after":[],"before":["ns1.bluehost.com","ns2.bluehost.com"],"classification":"review","date":"2026-09-10","event_id":"5ad81547b6229524d6c9","field":"ns","hostname":"amte.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"ec3d205bf64e3d6304de","field":"soa_mname","hostname":"amte.com.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"efe97ed7276485039f3e","field":"soa_serial","hostname":"amte.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"b85b6f917e51f799b2ef","field":"status","hostname":"amte.com.ye","schema_version":1}
+{"after":[],"before":["67.222.36.183"],"classification":"informational","date":"2026-09-10","event_id":"5a902b22ac07f4707f29","field":"a","hostname":"bstc.com.ye","schema_version":1}
+{"after":[],"before":["10 mail.bstc.com.ye"],"classification":"review","date":"2026-09-10","event_id":"821b1defaeb0c20eadb3","field":"mx","hostname":"bstc.com.ye","schema_version":1}
+{"after":[],"before":["ns1.bluehost.com","ns2.bluehost.com"],"classification":"review","date":"2026-09-10","event_id":"567bb43fc278f3cae62b","field":"ns","hostname":"bstc.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"e78ad152fc4a18d15d5a","field":"soa_mname","hostname":"bstc.com.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"f7a2ca7ce27da562a376","field":"soa_serial","hostname":"bstc.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"1a2ce7ce09dc11b543b3","field":"status","hostname":"bstc.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"765606b9e575a88a48a7","field":"a","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.bugbounty.com.ye"],"classification":"review","date":"2026-09-10","event_id":"86d5f78505067cd71a3c","field":"mx","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"566dd1e66e897b7b3ddf","field":"ns","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"45cecd24d4b1ac315476","field":"soa_mname","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"acd6c46492c0ee24ecbe","field":"soa_serial","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"f230577b4e510a735363","field":"status","hostname":"bugbounty.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"463d376ae24f8619ca62","field":"a","hostname":"griffin.com.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.griffin.com.ye"],"classification":"review","date":"2026-09-10","event_id":"90576f3351a4fb2d0893","field":"mx","hostname":"griffin.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"74309c06c21168ec3534","field":"ns","hostname":"griffin.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"90263e0f545567233dae","field":"soa_mname","hostname":"griffin.com.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"92846ad323ca302e0f50","field":"soa_serial","hostname":"griffin.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"db4005c65f6e46283ef7","field":"status","hostname":"griffin.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"cf7dd7e7ab7cbb3425ed","field":"a","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.hoduniv.edu.ye"],"classification":"review","date":"2026-09-10","event_id":"b8237d37c8df21fc4002","field":"mx","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"d1fa9610caecaf3113de","field":"ns","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"0a223f7fd24760ab0858","field":"soa_mname","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"5a74a9e74fb35db0e641","field":"soa_serial","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"afb648a67feac2949879","field":"status","hostname":"hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["67.222.36.183"],"classification":"informational","date":"2026-09-10","event_id":"7c1dc3df6315234cc665","field":"a","hostname":"mail.bstc.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"074bea75a2c258620749","field":"status","hostname":"mail.bstc.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"c83d226ae9e21e6ff155","field":"a","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.marebinsurance.com.ye"],"classification":"review","date":"2026-09-10","event_id":"bdc8a7b787dee914baa4","field":"mx","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"c38702264d8e5fa842a6","field":"ns","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"c239b721a10cbb823156","field":"soa_mname","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":"","before":"2025091101","classification":"telemetry","date":"2026-09-10","event_id":"c22fd29e6a50d090a9d2","field":"soa_serial","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"9b0ce0143dd5637f5577","field":"status","hostname":"marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"73e302c5b4c4b6089df5","field":"a","hostname":"natec.gov.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.natec.gov.ye"],"classification":"review","date":"2026-09-10","event_id":"9dab9a03f123f653fea0","field":"mx","hostname":"natec.gov.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"638832d29edd829447ee","field":"ns","hostname":"natec.gov.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"d00063dfd0ffd4108fa2","field":"soa_mname","hostname":"natec.gov.ye","schema_version":1}
+{"after":"","before":"2025091101","classification":"telemetry","date":"2026-09-10","event_id":"64b578bae79a93d80f59","field":"soa_serial","hostname":"natec.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"9a5f400e84e7a649b7ed","field":"status","hostname":"natec.gov.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"ab755dce28bddc45d7ac","field":"a","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.shootingbackfromyemen.ye"],"classification":"review","date":"2026-09-10","event_id":"2c2671dfcfeb3b91955b","field":"mx","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"ebe130fffecb05b12edc","field":"ns","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"9b1fc1c8aa5f95bfe44f","field":"soa_mname","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"f4fd237c5f8e048e7081","field":"soa_serial","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"f8c145c4c05963005c4b","field":"status","hostname":"shootingbackfromyemen.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"aceb9081107e8c0b1a93","field":"a","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.skyinnovation.com.ye"],"classification":"review","date":"2026-09-10","event_id":"c9e73c6bd7ca146993c5","field":"mx","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"683a0b303965a2cab504","field":"ns","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"0f7433b89999ae84968f","field":"soa_mname","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"41be68c21c50caa479b5","field":"soa_serial","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"950dc7bcd27a5b53ed25","field":"status","hostname":"skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"1c17e7632f913fe0c0e9","field":"a","hostname":"ty-ax-fe01.bugbounty.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"6fcab6e36a993bbc7592","field":"status","hostname":"ty-ax-fe01.bugbounty.com.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"b842235c59fee36cfb64","field":"a","hostname":"ty-ax-fe01.griffin.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"88c26322c678afd0d10c","field":"status","hostname":"ty-ax-fe01.griffin.com.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"5274beaa7c61f3230800","field":"a","hostname":"ty-ax-fe01.hoduniv.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"a25d58e816dd65321422","field":"status","hostname":"ty-ax-fe01.hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["185.112.201.112"],"classification":"informational","date":"2026-09-10","event_id":"e79bcde55294a62bdb9d","field":"a","hostname":"ty-ax-fe01.marebinsurance.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"7c46a9c2f745917e5b09","field":"status","hostname":"ty-ax-fe01.marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["185.112.201.112"],"classification":"informational","date":"2026-09-10","event_id":"e8622b4d521ccd3d8275","field":"a","hostname":"ty-ax-fe01.natec.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"7e9d7e704cf790597c19","field":"status","hostname":"ty-ax-fe01.natec.gov.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"6f838127f1f989231706","field":"a","hostname":"ty-ax-fe01.shootingbackfromyemen.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"ae30a10e545535f8f486","field":"status","hostname":"ty-ax-fe01.shootingbackfromyemen.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"1ee96b4499c607ec4dc9","field":"a","hostname":"ty-ax-fe01.skyinnovation.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"be5f195b1627fed27073","field":"status","hostname":"ty-ax-fe01.skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"1da858dcbba155909720","field":"a","hostname":"ty-ax-fe01.yementhabat.org.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"444b68b82b2ff43ecaa4","field":"status","hostname":"ty-ax-fe01.yementhabat.org.ye","schema_version":1}
+{"after":[],"before":["195.94.0.16"],"classification":"informational","date":"2026-09-10","event_id":"324f535ee8a2eed2ea7d","field":"a","hostname":"ty-ax-fe01.ysrf.org.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"1a8004c944fe7a343c4c","field":"status","hostname":"ty-ax-fe01.ysrf.org.ye","schema_version":1}
+{"after":[],"before":["67.222.36.183"],"classification":"informational","date":"2026-09-10","event_id":"7ff4c526028a15ba19a8","field":"a","hostname":"www.bstc.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"2e87cd8a3a7b6152a205","field":"status","hostname":"www.bstc.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"043c30ac6208a9400e84","field":"a","hostname":"www.hoduniv.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"8aefcff8aaf435345f8e","field":"status","hostname":"www.hoduniv.edu.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"c5e2aecd56576de55cf7","field":"a","hostname":"www.marebinsurance.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"53a546f659e92fe53ba4","field":"status","hostname":"www.marebinsurance.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"a4cb402c98746485dd10","field":"a","hostname":"www.natec.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"778685fa7fa56692845f","field":"status","hostname":"www.natec.gov.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"11e0fd3ade195a2fabe3","field":"a","hostname":"www.skyinnovation.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"41d3927e18d062522ad6","field":"status","hostname":"www.skyinnovation.com.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"47d49a774f4a5940b8a4","field":"a","hostname":"www.ysrf.org.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"6e4824abea4d2540dd8e","field":"status","hostname":"www.ysrf.org.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"490e1962a1d441b7fec9","field":"a","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.yementhabat.org.ye"],"classification":"review","date":"2026-09-10","event_id":"a505553b162516f19958","field":"mx","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"eb0cde402757524aceec","field":"ns","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"fdf0b483e1b0bfd36169","field":"soa_mname","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"1ce506305e85e853a30d","field":"soa_serial","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"757a3668b591e59a1554","field":"status","hostname":"yementhabat.org.ye","schema_version":1}
+{"after":[],"before":["195.94.13.225"],"classification":"informational","date":"2026-09-10","event_id":"0ff17465d4c07ea2c6b7","field":"a","hostname":"ysrf.org.ye","schema_version":1}
+{"after":[],"before":["10 ty-ax-fe01.ysrf.org.ye"],"classification":"review","date":"2026-09-10","event_id":"37d47a328368e6930f6d","field":"mx","hostname":"ysrf.org.ye","schema_version":1}
+{"after":[],"before":["sah1.ye","sah2.ye","sah3.ye"],"classification":"review","date":"2026-09-10","event_id":"1a265d2da1c8538b4197","field":"ns","hostname":"ysrf.org.ye","schema_version":1}
+{"after":[],"before":["sah1.ye"],"classification":"review","date":"2026-09-10","event_id":"705b7c2af2e1547f0a88","field":"soa_mname","hostname":"ysrf.org.ye","schema_version":1}
+{"after":"","before":"2024102201","classification":"telemetry","date":"2026-09-10","event_id":"f1f747ef088949690729","field":"soa_serial","hostname":"ysrf.org.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-09-10","event_id":"49b4797134bfe17f8bb1","field":"status","hostname":"ysrf.org.ye","schema_version":1}

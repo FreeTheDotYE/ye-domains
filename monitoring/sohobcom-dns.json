@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-09-09",
+  "as_of_date": "2026-09-10",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -705,14 +705,6 @@
     },
     {
       "authority_or_mail_targets": [
-        "sah1.ye"
-      ],
-      "domain": "amte.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
         "sah1.ye",
         "sah2.ye",
         "sah3.ye"
@@ -888,24 +880,6 @@
         "sah3.ye"
       ],
       "domain": "britishcouncil.org.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye"
-      ],
-      "domain": "bstc.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "bugbounty.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1417,16 +1391,6 @@
         "sah2.ye",
         "sah3.ye"
       ],
-      "domain": "griffin.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
       "domain": "gulfnow.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1498,16 +1462,6 @@
         "sah3.ye"
       ],
       "domain": "hocc.gov.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "hoduniv.edu.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1814,16 +1768,6 @@
         "sah2.ye",
         "sah3.ye"
       ],
-      "domain": "marebinsurance.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
       "domain": "mawanisoft.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1983,16 +1927,6 @@
         "sah3.ye"
       ],
       "domain": "natco.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "natec.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2507,27 +2441,7 @@
         "sah2.ye",
         "sah3.ye"
       ],
-      "domain": "shootingbackfromyemen.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
       "domain": "sigmagroup.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "skyinnovation.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -3281,16 +3195,6 @@
         "sah2.ye",
         "sah3.ye"
       ],
-      "domain": "yementhabat.org.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
       "domain": "yementv.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -3500,16 +3404,6 @@
         "sah3.ye"
       ],
       "domain": "ysmo.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "ysrf.org.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
