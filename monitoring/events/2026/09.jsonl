@@ -185,3 +185,5 @@
 {"after":"2026091001","before":"2026090301","classification":"telemetry","date":"2026-09-11","event_id":"52f28006d3c9f2e2b053","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
 {"after":"2026091001","before":"2026090301","classification":"telemetry","date":"2026-09-11","event_id":"71d8f33eb2b04c9ef684","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
 {"after":["www.alamjad.edu.ye.cdn.hstgr.net"],"before":["alamjad.edu.ye"],"classification":"review","date":"2026-09-11","event_id":"16ba678185942e7a50fa","field":"cname","hostname":"www.alamjad.edu.ye","schema_version":1}
+{"after":"2026062149","before":"2026062147","classification":"telemetry","date":"2026-09-12","event_id":"db8e73480fb238fa65d4","field":"soa_serial","hostname":"moe.gov.ye","schema_version":1}
+{"after":"2026091001","before":"2026081901","classification":"telemetry","date":"2026-09-12","event_id":"f966ec608c37815ddec2","field":"soa_serial","hostname":"sofa.ye","schema_version":1}
