@@ -17,5 +17,7 @@
 {"collection":"CC-MAIN-2015-32","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
 {"collection":"CC-MAIN-2015-35","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
 {"collection":"CC-MAIN-2015-40","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
-{"collection":"CC-MAIN-2015-48","complete":false,"completed_suffixes":13,"schema_version":1,"total_suffixes":14}
+{"collection":"CC-MAIN-2015-48","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
+{"collection":"CC-MAIN-2016-07","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
+{"collection":"CC-MAIN-2016-18","complete":false,"completed_suffixes":1,"schema_version":1,"total_suffixes":14}
 {"collection":"CC-MAIN-2026-34","complete":true,"completed_suffixes":14,"schema_version":1,"total_suffixes":14}
