@@ -337,6 +337,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "ahmed.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "aic.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -407,7 +417,27 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "alansar.org.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "alawaelsmart.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "alawaeltec.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -508,6 +538,15 @@
         "sah3.ye"
       ],
       "domain": "almarkazia.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye"
+      ],
+      "domain": "almasirah.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -889,6 +928,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "burncenter.org.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "business.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -990,6 +1039,16 @@
         "sah3.ye"
       ],
       "domain": "ciit.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "citratop.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1179,6 +1238,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "du.edu.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "e-moit.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": [
@@ -1242,6 +1311,16 @@
         "sah3.ye"
       ],
       "domain": "falak.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "flow-tech.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1361,6 +1440,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "futurepowersolar.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "giay.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1432,6 +1521,26 @@
         "sah3.ye"
       ],
       "domain": "hascoshell.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "hashemalzubairi.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "haska.me.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1609,6 +1718,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "jawaliwallet.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "jia-au.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1698,6 +1817,26 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "mada.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "madar.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "madd.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1759,6 +1898,16 @@
         "sah3.ye"
       ],
       "domain": "marassi.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "maridalmisbah.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -1839,6 +1988,16 @@
         "sah3.ye"
       ],
       "domain": "moc.gov.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "moeew.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2036,6 +2195,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "oppenheim3r.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "parliament.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2157,6 +2326,16 @@
         "sah3.ye"
       ],
       "domain": "qr-moit.gov.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "qtech.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2371,6 +2550,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "seet.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "sepoc.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2511,6 +2700,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "sowaid.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "spacelink.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2551,6 +2750,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "sulimanplus.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "survey-authority.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2581,6 +2790,26 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "tabsera.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "tabweeb.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "taizchamber.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2591,7 +2820,57 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "takatuf.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "talalyos.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "tam-group.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "tamkeen.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "tasaheel.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "tasaheelye.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2691,6 +2970,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "toplike.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "towaity.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2702,6 +2991,16 @@
         "sah3.ye"
       ],
       "domain": "toyota.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "trf.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -3008,6 +3307,16 @@
         "sah3.ye"
       ],
       "domain": "ych.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "ycithe.edu.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -3374,6 +3683,16 @@
         "sah3.ye"
       ],
       "domain": "yradio.gov.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "yrsc.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
