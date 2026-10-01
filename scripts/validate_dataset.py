@@ -503,6 +503,16 @@ def expected_sohobcom_view(state_rows: list[dict], as_of_date: str) -> dict:
     }
 
 
+def valid_monitor_mapping(hostname: str, domain: str) -> bool:
+    # Monitoring can include names observed after the fixed historical corpus.
+    return (
+        isinstance(hostname, str) and isinstance(domain, str)
+        and normalize_hostname(hostname) == hostname and hostname.endswith(".ye")
+        and normalize_hostname(domain) == domain and domain.endswith(".ye")
+        and registrable_domain(hostname) == domain
+    )
+
+
 def validate_monitoring(domains: set[str]) -> dict:
     monitoring = ROOT / "monitoring"
     if not monitoring.is_dir():
@@ -519,11 +529,7 @@ def validate_monitoring(domains: set[str]) -> dict:
                 raise ValueError(f"invalid monitor state version at line {line_number}")
             hostname = row["hostname"]
             domain = row["registrable_domain"]
-            if (
-                normalize_hostname(hostname) != hostname or not hostname.endswith(".ye")
-                or normalize_hostname(domain) != domain or not domain.endswith(".ye")
-                or registrable_domain(hostname) != domain or domain not in domains
-            ):
+            if not valid_monitor_mapping(hostname, domain):
                 raise ValueError(f"invalid monitor hostname mapping at line {line_number}")
             dns_state(row["dns"], f"monitor state line {line_number}")
             state_rows.append(row)
@@ -540,11 +546,7 @@ def validate_monitoring(domains: set[str]) -> dict:
         raise ValueError("discovered hostnames must be uniquely sorted")
     for row in discovered:
         hostname, domain = row["hostname"], row["registrable_domain"]
-        if (
-            normalize_hostname(hostname) != hostname or not hostname.endswith(".ye")
-            or normalize_hostname(domain) != domain or not domain.endswith(".ye")
-            or registrable_domain(hostname) != domain or domain not in domains
-        ):
+        if not valid_monitor_mapping(hostname, domain):
             raise ValueError(f"invalid discovered hostname mapping: {hostname}")
 
     latest = json.loads((monitoring / "latest.json").read_text(encoding="utf-8"))
