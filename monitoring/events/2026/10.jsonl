@@ -36,3 +36,11 @@
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-01","event_id":"8a3d0c9424f71730bd6a","field":"status","hostname":"www.mtn.com.ye","schema_version":1}
 {"after":"nxdomain","before":"no_records","classification":"review","date":"2026-10-01","event_id":"bb6c82c1860941006178","field":"status","hostname":"www.mtnplay.com.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-01","event_id":"d836fd34aaebaf336c74","field":"status","hostname":"www.mymtn.mtn.com.ye","schema_version":1}
+{"after":"2416380870","before":"2415435472","classification":"telemetry","date":"2026-10-03","event_id":"71298504537559c4886c","field":"soa_serial","hostname":"alremal.ye","schema_version":1}
+{"after":["91.108.121.229"],"before":["2.57.91.232","88.222.222.57"],"classification":"informational","date":"2026-10-03","event_id":"42698f8bfdec78594bdc","field":"a","hostname":"rw.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:84:78bc:56d5:899f:a88e:8e7d","2a02:4780:84:d9e6:b71f:888e:97ce:86b0"],"classification":"informational","date":"2026-10-03","event_id":"e4c1068124fd3df002e7","field":"aaaa","hostname":"rw.edu.ye","schema_version":1}
+{"after":"2026100104","before":"2026100101","classification":"telemetry","date":"2026-10-03","event_id":"b560f2b1fa93b61ed09b","field":"soa_serial","hostname":"rw.edu.ye","schema_version":1}
+{"after":["91.108.121.229"],"before":["84.32.84.125","88.222.222.207"],"classification":"informational","date":"2026-10-03","event_id":"c6221253f6f89a933b6b","field":"a","hostname":"www.rw.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:25:1fc4:8f64:f941:73ce:7095","2a02:4780:35:dcf1:35ae:d2f0:d934:6854"],"classification":"informational","date":"2026-10-03","event_id":"4dd43bc76c5a76441ffc","field":"aaaa","hostname":"www.rw.edu.ye","schema_version":1}
+{"after":[],"before":["www.rw.edu.ye.cdn.hstgr.net"],"classification":"review","date":"2026-10-03","event_id":"7b6f6346fda87379fd64","field":"cname","hostname":"www.rw.edu.ye","schema_version":1}
+{"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-03","event_id":"d77c2085be1fd7a72220","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
