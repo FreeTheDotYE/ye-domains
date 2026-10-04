@@ -1,7 +1,7 @@
 {
-  "active_edges": 21898,
+  "active_edges": 21891,
   "as_of_date": "2026-10-04",
-  "edges": 22290,
+  "edges": 22306,
   "node_kinds": {
     "asn": 52,
     "dataset": 1,
@@ -23,7 +23,7 @@
     "originated_by": 207,
     "presents_certificate": 982,
     "registered_via": 1376,
-    "resolves_to": 4441,
+    "resolves_to": 4457,
     "soa_authority": 1444
   },
   "schema_version": 1
