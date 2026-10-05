@@ -126,6 +126,36 @@
   "sohobcom_zone_records": [
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "auth.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "az2.cloud.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "195.94.23.17"
         ],
@@ -221,6 +251,21 @@
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "www.az2.cloud.sohobcom.ye"
     },
     {
       "dns": {
