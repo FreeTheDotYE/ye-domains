@@ -260,6 +260,23 @@
     },
     {
       "dns": {
+        "a": [
+          "185.112.202.202"
+        ],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "records_present"
+      },
+      "hostname": "ssp.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [],
         "aaaa": [],
         "cname": [],
@@ -1759,6 +1776,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "jahs.school.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "japanembassy.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2425,6 +2452,16 @@
         "sah2.ye"
       ],
       "domain": "results.edu.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "roots.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -3180,6 +3217,16 @@
         "sah3.ye"
       ],
       "domain": "voyages-au-yemen.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "wahdaclub.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
