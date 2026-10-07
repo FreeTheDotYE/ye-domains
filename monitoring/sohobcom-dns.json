@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-10-06",
+  "as_of_date": "2026-10-07",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -234,6 +234,36 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "ns3.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "ns4.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "185.112.201.30"
         ],
@@ -386,6 +416,16 @@
         "sah3.ye"
       ],
       "domain": "adnanco.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "agust.edu.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -817,6 +857,16 @@
         "sah3.ye"
       ],
       "domain": "ansarollah.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "appcacinsurance.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
