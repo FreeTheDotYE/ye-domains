@@ -3086,6 +3086,15 @@
       "sohobcom_target_hosts": []
     },
     {
+      "authority_or_mail_targets": [],
+      "domain": "testcp.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": [
+        "ns3.sohobcom.ye",
+        "ns4.sohobcom.ye"
+      ]
+    },
+    {
       "authority_or_mail_targets": [
         "sah1.ye",
         "sah2.ye",
