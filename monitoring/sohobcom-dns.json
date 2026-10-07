@@ -234,7 +234,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.23.20"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -243,13 +245,15 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "ns3.sohobcom.ye"
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.23.20"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -258,7 +262,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "ns4.sohobcom.ye"
     },
@@ -1189,6 +1193,15 @@
       "domain": "consumeryemen.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [],
+      "domain": "cpaneltest.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": [
+        "ns3.sohobcom.ye",
+        "ns4.sohobcom.ye"
+      ]
     },
     {
       "authority_or_mail_targets": [
