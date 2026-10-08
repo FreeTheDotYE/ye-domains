@@ -1529,3 +1529,6 @@
 {"after":["74.220.219.171"],"before":[],"classification":"informational","date":"2026-10-07","event_id":"382240424a1349c4ed47","field":"a","hostname":"www.website-9eb0333f.quni.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-07","event_id":"ebad55caaa44620edf34","field":"status","hostname":"www.website-9eb0333f.quni.edu.ye","schema_version":1}
 {"after":["188.114.96.3","188.114.97.3"],"before":["188.114.96.0","188.114.97.0"],"classification":"informational","date":"2026-10-07","event_id":"72e82164f947f7528199","field":"a","hostname":"www.wulingyemen.com.ye","schema_version":1}
+{"after":["195.94.20.115"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"5e114fb867b10356f864","field":"a","hostname":"dashboard.ypl.ye","schema_version":1}
+{"after":["opsdashboardwhitelabel-yemen.shipsy.tech"],"before":[],"classification":"review","date":"2026-10-08","event_id":"a39c543b6f892d424771","field":"cname","hostname":"dashboard.ypl.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-08","event_id":"819fab63c493c5a5bbb8","field":"status","hostname":"dashboard.ypl.ye","schema_version":1}
