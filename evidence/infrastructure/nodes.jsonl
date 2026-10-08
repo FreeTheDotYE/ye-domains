@@ -3676,6 +3676,7 @@
 {"kind":"hostname","node_id":"hostname:lmis-mohp.com.ye","schema_version":1,"value":"lmis-mohp.com.ye"}
 {"kind":"hostname","node_id":"hostname:lmis.com.ye","schema_version":1,"value":"lmis.com.ye"}
 {"kind":"hostname","node_id":"hostname:lms.alraziuni.edu.ye","schema_version":1,"value":"lms.alraziuni.edu.ye"}
+{"kind":"hostname","node_id":"hostname:lms.civilizationuniv.edu.ye","schema_version":1,"value":"lms.civilizationuniv.edu.ye"}
 {"kind":"hostname","node_id":"hostname:lms.eiu.edu.ye","schema_version":1,"value":"lms.eiu.edu.ye"}
 {"kind":"hostname","node_id":"hostname:lms.germancollege.edu.ye","schema_version":1,"value":"lms.germancollege.edu.ye"}
 {"kind":"hostname","node_id":"hostname:lms.ibs.edu.ye","schema_version":1,"value":"lms.ibs.edu.ye"}
@@ -4761,6 +4762,7 @@
 {"kind":"hostname","node_id":"hostname:med.alraziuni.edu.ye","schema_version":1,"value":"med.alraziuni.edu.ye"}
 {"kind":"hostname","node_id":"hostname:med.hoduniv.net.ye","schema_version":1,"value":"med.hoduniv.net.ye"}
 {"kind":"hostname","node_id":"hostname:med.su.edu.ye","schema_version":1,"value":"med.su.edu.ye"}
+{"kind":"hostname","node_id":"hostname:media.21umas.edu.ye","schema_version":1,"value":"media.21umas.edu.ye"}
 {"kind":"hostname","node_id":"hostname:media.almasirah.net.ye","schema_version":1,"value":"media.almasirah.net.ye"}
 {"kind":"hostname","node_id":"hostname:medical.ums.edu.ye","schema_version":1,"value":"medical.ums.edu.ye"}
 {"kind":"hostname","node_id":"hostname:medicate-me.com.ye","schema_version":1,"value":"medicate-me.com.ye"}
@@ -7428,6 +7430,7 @@
 {"kind":"hostname","node_id":"hostname:www.med.alraziuni.edu.ye","schema_version":1,"value":"www.med.alraziuni.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.med.hoduniv.net.ye","schema_version":1,"value":"www.med.hoduniv.net.ye"}
 {"kind":"hostname","node_id":"hostname:www.med.ust.edu.ye","schema_version":1,"value":"www.med.ust.edu.ye"}
+{"kind":"hostname","node_id":"hostname:www.media.21umas.edu.ye","schema_version":1,"value":"www.media.21umas.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.media.almasirah.net.ye","schema_version":1,"value":"www.media.almasirah.net.ye"}
 {"kind":"hostname","node_id":"hostname:www.medical.ums.edu.ye","schema_version":1,"value":"www.medical.ums.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.medicate-me.com.ye","schema_version":1,"value":"www.medicate-me.com.ye"}
