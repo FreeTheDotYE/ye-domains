@@ -1544,6 +1544,8 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-08","event_id":"819fab63c493c5a5bbb8","field":"status","hostname":"dashboard.ypl.ye","schema_version":1}
 {"after":"2026100801","before":"2026100101","classification":"telemetry","date":"2026-10-08","event_id":"21e8f3845f7da23e5741","field":"soa_serial","hostname":"hu.edu.ye","schema_version":1}
 {"after":["195.94.14.40"],"before":["195.94.13.40","195.94.14.40"],"classification":"informational","date":"2026-10-08","event_id":"6de0881012e6602af5dd","field":"a","hostname":"mail.teleyemen.com.ye","schema_version":1}
+{"after":["78.128.81.144"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"ca7f471157e2d9127883","field":"a","hostname":"media.21umas.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-08","event_id":"300c60b330405afaa397","field":"status","hostname":"media.21umas.edu.ye","schema_version":1}
 {"after":["185.11.10.144"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"3e90e34eeaacb474ad1a","field":"a","hostname":"mtc.com.ye","schema_version":1}
 {"after":["10 mail3.yemen.net.ye","20 mail.mtc.com.ye","20 mail5.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-08","event_id":"0ef806e7fe947aad0ced","field":"mx","hostname":"mtc.com.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-08","event_id":"7f00b346ea017a523716","field":"ns","hostname":"mtc.com.ye","schema_version":1}
@@ -1554,13 +1556,19 @@
 {"after":"2026100801","before":"2026080801","classification":"telemetry","date":"2026-10-08","event_id":"026a0425ead42dca92db","field":"soa_serial","hostname":"platform.ye","schema_version":1}
 {"after":"2026100701","before":"2026042902","classification":"telemetry","date":"2026-10-08","event_id":"5e39d2cd64c185f843cc","field":"soa_serial","hostname":"post.ye","schema_version":1}
 {"after":"2026100801","before":"2026100101","classification":"telemetry","date":"2026-10-08","event_id":"fb135a84ac3bd2cc0621","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
+{"after":"2026100800","before":"2026020401","classification":"telemetry","date":"2026-10-08","event_id":"6facb02d803368be3bec","field":"soa_serial","hostname":"quni.edu.ye","schema_version":1}
 {"after":"2026100801","before":"2026100104","classification":"telemetry","date":"2026-10-08","event_id":"a60849989736785633ba","field":"soa_serial","hostname":"rw.edu.ye","schema_version":1}
 {"after":"2026100801","before":"2026100101","classification":"telemetry","date":"2026-10-08","event_id":"b4833e453300f48004f8","field":"soa_serial","hostname":"silo.com.ye","schema_version":1}
+{"after":["ns-1062.awsdns-04.org","ns-1983.awsdns-55.co.uk","ns-871.awsdns-44.net","ns-95.awsdns-11.com"],"before":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"classification":"review","date":"2026-10-08","event_id":"04bf64253087662360b7","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":"2026100801","before":"2026100101","classification":"telemetry","date":"2026-10-08","event_id":"a35615a1c41bc3e9253f","field":"soa_serial","hostname":"teci.edu.ye","schema_version":1}
+{"after":["10 gateway3.teleyemen.com.ye","15 gateway4.teleyemen.com.ye"],"before":["10 gateway3.teleyemen.com.ye","15 gateway4.teleyemen.com.ye","25 gateway.teleyemen.com.ye"],"classification":"review","date":"2026-10-08","event_id":"e92a06ece6c83e69ee98","field":"mx","hostname":"teleyemen.com.ye","schema_version":1}
+{"after":"2026100802","before":"2026093002","classification":"telemetry","date":"2026-10-08","event_id":"6022bf606f99e2eb667d","field":"soa_serial","hostname":"teleyemen.com.ye","schema_version":1}
 {"after":["188.114.96.3","188.114.97.3"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"ac0b0f6a3958983cc890","field":"a","hostname":"test.aylol-uc.edu.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"67a130c80b6322265fa3","field":"aaaa","hostname":"test.aylol-uc.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-08","event_id":"22e72e23c9f89fd8eda9","field":"status","hostname":"test.aylol-uc.edu.ye","schema_version":1}
 {"after":"2026100801","before":"2026100101","classification":"telemetry","date":"2026-10-08","event_id":"e2ad80db7d9d13ecf741","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
+{"after":["78.128.81.144"],"before":[],"classification":"informational","date":"2026-10-08","event_id":"0a4f024802ef0b6803e0","field":"a","hostname":"www.media.21umas.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-08","event_id":"014e203ef10c7fba9826","field":"status","hostname":"www.media.21umas.edu.ye","schema_version":1}
 {"after":["195.94.15.102"],"before":["195.94.19.20"],"classification":"informational","date":"2026-10-08","event_id":"e37a8c5ef847ba10e744","field":"a","hostname":"www.post.ye","schema_version":1}
 {"after":["post.ye"],"before":[],"classification":"review","date":"2026-10-08","event_id":"b8c5319251f36b910ab8","field":"cname","hostname":"www.post.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-08","event_id":"69d5f1445086e898aaa4","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
