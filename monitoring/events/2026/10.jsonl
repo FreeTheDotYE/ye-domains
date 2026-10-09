@@ -1574,3 +1574,6 @@
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-08","event_id":"69d5f1445086e898aaa4","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-08","event_id":"b6d255fc983692e826fd","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"1791417600","before":"1790812800","classification":"telemetry","date":"2026-10-08","event_id":"16529948002e83f9f8d6","field":"soa_serial","hostname":"yang.ye","schema_version":1}
+{"after":"2416958907","before":"2416625540","classification":"telemetry","date":"2026-10-09","event_id":"baeb73a361024657d5ae","field":"soa_serial","hostname":"msu.edu.ye","schema_version":1}
+{"after":"2026100801","before":"2026100501","classification":"telemetry","date":"2026-10-09","event_id":"dde7fe19d56f5f7a5862","field":"soa_serial","hostname":"sofa.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-09","event_id":"8535ae36dc57c5ec5b3c","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
