@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-10-09",
+  "as_of_date": "2026-10-11",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -287,7 +287,7 @@
         "soa_mname": [
           "sah1.ye"
         ],
-        "soa_serial": "2026092201",
+        "soa_serial": "2026101001",
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
@@ -360,6 +360,16 @@
         "sah3.ye"
       ],
       "domain": "3d.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "abuelias.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -480,16 +490,6 @@
         "sah3.ye"
       ],
       "domain": "akgpo.com.ye",
-      "shared_apex_addresses": [],
-      "sohobcom_target_hosts": []
-    },
-    {
-      "authority_or_mail_targets": [
-        "sah1.ye",
-        "sah2.ye",
-        "sah3.ye"
-      ],
-      "domain": "al-dhurasiperfumes.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
@@ -2634,6 +2634,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "saleh.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "sam-bam.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -3051,6 +3061,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "technocare.pro.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "teleyemen.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -3239,6 +3259,16 @@
         "sah3.ye"
       ],
       "domain": "ultimate.edu.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "umbrellasandcanopiesinmedina.me.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
