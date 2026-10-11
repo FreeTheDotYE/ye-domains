@@ -44,6 +44,11 @@ def digest_object(value: object) -> str:
 
 
 def load_jsonl(path: Path) -> list[dict]:
+    if path.name == "captures.jsonl":
+        from capture_storage import read_captures
+        captures = read_captures(path)
+        if captures is not None:
+            return captures
     if not path.exists():
         return []
     rows = []
@@ -63,6 +68,7 @@ def load_jsonl(path: Path) -> list[dict]:
 FIXED_FILES = {
     "README.md",
     "common-crawl/captures.jsonl",
+    "common-crawl/captures.index.json",
     "common-crawl/collections.jsonl",
     "common-crawl/domains.jsonl",
     "common-crawl/hostnames.jsonl",
@@ -202,6 +208,8 @@ def canonical_rows(path: Path) -> list[dict]:
         canonical_json(row) + "\n"
         for row in rows
     ).encode("utf-8")
+    if path.name == "captures.jsonl" and path.with_suffix(".index.json").exists():
+        return rows
     if path.read_bytes() != expected:
         raise ValueError(
             f"non-canonical JSONL: {path}"
@@ -234,6 +242,7 @@ def validate_manifest(root: Path) -> None:
             relative = item.relative_to(root).as_posix()
             if (
                 relative not in FIXED_FILES
+                and not re.fullmatch(r"common-crawl/captures/[0-9a-f]{64}\.jsonl", relative)
                 and not CERTIFICATE_PATH_RE.fullmatch(
                     relative
                 )

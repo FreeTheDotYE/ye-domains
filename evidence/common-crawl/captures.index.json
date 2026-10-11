@@ -1,0 +1,41 @@
+{
+  "parts": [
+    {
+      "path": "captures/7cecd518665412d012cbe78cfa4c065f45db846c0dfa72ddf68c5308d62036ff.jsonl",
+      "rows": 28898,
+      "sha256": "7cecd518665412d012cbe78cfa4c065f45db846c0dfa72ddf68c5308d62036ff"
+    },
+    {
+      "path": "captures/23a216eabea7a2ace7e5e458945c4105f0521062547560337d3195de7dd56be5.jsonl",
+      "rows": 29628,
+      "sha256": "23a216eabea7a2ace7e5e458945c4105f0521062547560337d3195de7dd56be5"
+    },
+    {
+      "path": "captures/dc71734c2d49251ba481221c49a39ec026a3970e70ea7a6b4fa0205d5d16fd57.jsonl",
+      "rows": 29625,
+      "sha256": "dc71734c2d49251ba481221c49a39ec026a3970e70ea7a6b4fa0205d5d16fd57"
+    },
+    {
+      "path": "captures/748686a8d0a1f7295f86a77f4563d3cd0531db2ef204c4268a8cc8d5a2033d17.jsonl",
+      "rows": 29564,
+      "sha256": "748686a8d0a1f7295f86a77f4563d3cd0531db2ef204c4268a8cc8d5a2033d17"
+    },
+    {
+      "path": "captures/1c02163279a3c89dcd7821a3cf6ede42a048ec47b3cf19564fbe157bed494a0b.jsonl",
+      "rows": 29636,
+      "sha256": "1c02163279a3c89dcd7821a3cf6ede42a048ec47b3cf19564fbe157bed494a0b"
+    },
+    {
+      "path": "captures/6aed651228de898e571909dc04631acb8e29474eed03d9494a812dc8cbbecffc.jsonl",
+      "rows": 29573,
+      "sha256": "6aed651228de898e571909dc04631acb8e29474eed03d9494a812dc8cbbecffc"
+    },
+    {
+      "path": "captures/70a4fcad925bc079f4fe0a099da9d063195ec4db6aacc13ace846aecde26dad2.jsonl",
+      "rows": 9172,
+      "sha256": "70a4fcad925bc079f4fe0a099da9d063195ec4db6aacc13ace846aecde26dad2"
+    }
+  ],
+  "rows": 186096,
+  "schema_version": 1
+}
