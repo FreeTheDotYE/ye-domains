@@ -860,6 +860,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "amralaawar.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "ansarollah.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -1988,6 +1998,26 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "mahalli.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "mahally.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "mahattapress.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
@@ -2287,6 +2317,16 @@
         "sah3.ye"
       ],
       "domain": "nic.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "npcsh.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
