@@ -1811,3 +1811,10 @@
 {"after":["umbrellasandcanopiesinmedina.me.ye"],"before":[],"classification":"review","date":"2026-10-11","event_id":"972aaaa7ba3557d05cfb","field":"cname","hostname":"www.umbrellasandcanopiesinmedina.me.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-11","event_id":"edc7be1712ffd1383727","field":"status","hostname":"www.umbrellasandcanopiesinmedina.me.ye","schema_version":1}
 {"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-11","event_id":"899f61470a94a1524d2c","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
+{"after":"2026101106","before":"2026100506","classification":"telemetry","date":"2026-10-12","event_id":"13904e7f92fccf209029","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"e22a99d4b7a904051281","field":"status","hostname":"mocsi4.mocsi.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"5121e5a928956efde1fd","field":"status","hostname":"mocsi5.mocsi.gov.ye","schema_version":1}
+{"after":["208.98.35.135"],"before":[],"classification":"informational","date":"2026-10-12","event_id":"1a59b21321cf3433b991","field":"a","hostname":"portal.syncc.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"c1445cf8840b79322319","field":"status","hostname":"portal.syncc.edu.ye","schema_version":1}
+{"after":["ns-1354.awsdns-41.org"],"before":["ns-95.awsdns-11.com"],"classification":"review","date":"2026-10-12","event_id":"90f54030ab3936d6f47d","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-12","event_id":"9c6ba7c4049999b2e56d","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
