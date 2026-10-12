@@ -1820,6 +1820,8 @@
 {"after":["dns1.idp365.net"],"before":[],"classification":"review","date":"2026-10-12","event_id":"4cd6565b0c33b36cacf6","field":"soa_mname","hostname":"iqvia.ye","schema_version":1}
 {"after":"2019122702","before":"","classification":"telemetry","date":"2026-10-12","event_id":"e797a7b0901659105c2b","field":"soa_serial","hostname":"iqvia.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"33540fa711f81c2cbc57","field":"status","hostname":"iqvia.ye","schema_version":1}
+{"after":[],"before":["78.137.78.4"],"classification":"informational","date":"2026-10-12","event_id":"7f65526ff8872a27f76e","field":"a","hostname":"mail.yrsgisc.gov.ye","schema_version":1}
+{"after":"no_records","before":"records_present","classification":"review","date":"2026-10-12","event_id":"4beffddd3fa911f70a85","field":"status","hostname":"mail.yrsgisc.gov.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"e22a99d4b7a904051281","field":"status","hostname":"mocsi4.mocsi.gov.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"5121e5a928956efde1fd","field":"status","hostname":"mocsi5.mocsi.gov.ye","schema_version":1}
 {"after":["208.98.35.135"],"before":[],"classification":"informational","date":"2026-10-12","event_id":"1a59b21321cf3433b991","field":"a","hostname":"portal.syncc.edu.ye","schema_version":1}
@@ -1830,6 +1832,16 @@
 {"after":["208.98.35.135"],"before":[],"classification":"informational","date":"2026-10-12","event_id":"b7046881cfb628195048","field":"a","hostname":"www.edu.syncc.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-12","event_id":"bfc9b9246973598d3bf4","field":"status","hostname":"www.edu.syncc.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-12","event_id":"d9e54f501ff4748fcc18","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-12","event_id":"a0bc44ab0c04088fb9dd","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-12","event_id":"9c6ba7c4049999b2e56d","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-12","event_id":"e9a2413298b956ddd01d","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-10-12","event_id":"10394493007769b02fe6","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
+{"after":[],"before":["82.114.162.21"],"classification":"informational","date":"2026-10-12","event_id":"224c810438a1852cc5b2","field":"a","hostname":"www.yrsgisc.gov.ye","schema_version":1}
+{"after":[],"before":["yrsgisc.gov.ye"],"classification":"review","date":"2026-10-12","event_id":"9b948dd18f4d44117dec","field":"cname","hostname":"www.yrsgisc.gov.ye","schema_version":1}
+{"after":"no_records","before":"records_present","classification":"review","date":"2026-10-12","event_id":"3c604af13f4b566d9253","field":"status","hostname":"www.yrsgisc.gov.ye","schema_version":1}
+{"after":[],"before":["82.114.162.21"],"classification":"informational","date":"2026-10-12","event_id":"72075cc81c5d6afc0c28","field":"a","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":[],"before":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye","20 mail.yemen.net.ye"],"classification":"review","date":"2026-10-12","event_id":"35b5923fb485c2da5b9f","field":"mx","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":[],"before":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"classification":"review","date":"2026-10-12","event_id":"4176e2dd0b9d7bd13bf5","field":"ns","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":[],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-12","event_id":"5b08a4fa3321f0b70481","field":"soa_mname","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":"","before":"2026031529","classification":"telemetry","date":"2026-10-12","event_id":"5af92bd1a6722d01e5d8","field":"soa_serial","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":"no_records","before":"records_present","classification":"review","date":"2026-10-12","event_id":"5b25113d2b9301336594","field":"status","hostname":"yrsgisc.gov.ye","schema_version":1}
