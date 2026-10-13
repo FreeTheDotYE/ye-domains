@@ -1845,6 +1845,8 @@
 {"after":[],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-12","event_id":"5b08a4fa3321f0b70481","field":"soa_mname","hostname":"yrsgisc.gov.ye","schema_version":1}
 {"after":"","before":"2026031529","classification":"telemetry","date":"2026-10-12","event_id":"5af92bd1a6722d01e5d8","field":"soa_serial","hostname":"yrsgisc.gov.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-10-12","event_id":"5b25113d2b9301336594","field":"status","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":["195.94.15.208"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"a058255c8caaecf67c4e","field":"a","hostname":"acu-hudaydah.bonyan.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"793c4c3004d6b47e4f5a","field":"status","hostname":"acu-hudaydah.bonyan.org.ye","schema_version":1}
 {"after":"2026101200","before":"2026101100","classification":"telemetry","date":"2026-10-13","event_id":"f8960432d82b81c7a4ff","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2417334896","before":"2415249598","classification":"telemetry","date":"2026-10-13","event_id":"83279c4efe1873752514","field":"soa_serial","hostname":"alsaeeda.edu.ye","schema_version":1}
 {"after":["195.94.20.115"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"88168233c6cc3d20b703","field":"a","hostname":"customerportal.ypl.ye","schema_version":1}
@@ -1856,8 +1858,18 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"574b36ed575d5ebe33da","field":"status","hostname":"kurootalshabakah.dev.tabweeb.com.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"4fb404536ba7be537cf7","field":"status","hostname":"mmc.edu.ye","schema_version":1}
 {"after":"2026090742","before":"2026090741","classification":"telemetry","date":"2026-10-13","event_id":"5d241b42fb6116f192a8","field":"soa_serial","hostname":"ptc.gov.ye","schema_version":1}
+{"after":"2026101305","before":"2026100801","classification":"telemetry","date":"2026-10-13","event_id":"296c1e36653428be0220","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"42c991369ea7d9161d67","field":"status","hostname":"sibawaih.com.ye","schema_version":1}
+{"after":["78.128.81.144"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"a6b8fb3dfbae5eef4e26","field":"a","hostname":"spanel.21umas.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"58cfe84ee88087b04500","field":"status","hostname":"spanel.21umas.edu.ye","schema_version":1}
+{"after":["195.94.15.208"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"9bad91f3ebc2d4b32cda","field":"a","hostname":"www.acu-hudaydah.bonyan.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"0cd6b1bb720017b588ec","field":"status","hostname":"www.acu-hudaydah.bonyan.org.ye","schema_version":1}
+{"after":["2a06:98c1:3120::2","2a06:98c1:3121::2"],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-13","event_id":"464ba32aa293ba348e66","field":"aaaa","hostname":"www.masar.eiu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"4fb38ecb75acc87dd2d9","field":"status","hostname":"www.mmc.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-13","event_id":"9ed7b1d2d7892d565b33","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-13","event_id":"32801f17d7cb649d425c","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-13","event_id":"3a0cc4aeb0f9002ee570","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
+{"after":["82.114.162.66"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"b2f72c110f2dcfcb6df3","field":"a","hostname":"www.thabetbros.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"7bcb5fdda2c9b3b4b2b7","field":"status","hostname":"www.thabetbros.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-13","event_id":"227bed1d73c8d1f25dfd","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
 {"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-13","event_id":"352d16ee54b10f01d79b","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
