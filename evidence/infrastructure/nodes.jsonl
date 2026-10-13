@@ -1543,6 +1543,7 @@
 {"kind":"domain","node_id":"domain:wempower.org.ye","schema_version":1,"value":"wempower.org.ye"}
 {"kind":"domain","node_id":"domain:wenet.ye","schema_version":1,"value":"wenet.ye"}
 {"kind":"domain","node_id":"domain:whf.org.ye","schema_version":1,"value":"whf.org.ye"}
+{"kind":"domain","node_id":"domain:whitecloud.com.ye","schema_version":1,"value":"whitecloud.com.ye"}
 {"kind":"domain","node_id":"domain:whitecloud.net.ye","schema_version":1,"value":"whitecloud.net.ye"}
 {"kind":"domain","node_id":"domain:whtapk.com.ye","schema_version":1,"value":"whtapk.com.ye"}
 {"kind":"domain","node_id":"domain:widyan.com.ye","schema_version":1,"value":"widyan.com.ye"}
@@ -6686,6 +6687,7 @@
 {"kind":"hostname","node_id":"hostname:wfm01.yemenmobile.com.ye","schema_version":1,"value":"wfm01.yemenmobile.com.ye"}
 {"kind":"hostname","node_id":"hostname:whatsapp.ebdaasoft.com.ye","schema_version":1,"value":"whatsapp.ebdaasoft.com.ye"}
 {"kind":"hostname","node_id":"hostname:whf.org.ye","schema_version":1,"value":"whf.org.ye"}
+{"kind":"hostname","node_id":"hostname:whitecloud.com.ye","schema_version":1,"value":"whitecloud.com.ye"}
 {"kind":"hostname","node_id":"hostname:whitecloud.net.ye","schema_version":1,"value":"whitecloud.net.ye"}
 {"kind":"hostname","node_id":"hostname:whm.alraziuni.edu.ye","schema_version":1,"value":"whm.alraziuni.edu.ye"}
 {"kind":"hostname","node_id":"hostname:whm.eiu.edu.ye","schema_version":1,"value":"whm.eiu.edu.ye"}
@@ -8181,6 +8183,7 @@
 {"kind":"hostname","node_id":"hostname:www.wempower.org.ye","schema_version":1,"value":"www.wempower.org.ye"}
 {"kind":"hostname","node_id":"hostname:www.wenet.ye","schema_version":1,"value":"www.wenet.ye"}
 {"kind":"hostname","node_id":"hostname:www.whf.org.ye","schema_version":1,"value":"www.whf.org.ye"}
+{"kind":"hostname","node_id":"hostname:www.whitecloud.com.ye","schema_version":1,"value":"www.whitecloud.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.whitecloud.net.ye","schema_version":1,"value":"www.whitecloud.net.ye"}
 {"kind":"hostname","node_id":"hostname:www.widyan.com.ye","schema_version":1,"value":"www.widyan.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.wifi.yemen.net.ye","schema_version":1,"value":"www.wifi.yemen.net.ye"}
@@ -8654,6 +8657,7 @@
 {"kind":"ip_address","node_id":"ip_address:185.11.10.72","schema_version":1,"value":"185.11.10.72"}
 {"kind":"ip_address","node_id":"ip_address:185.11.10.78","schema_version":1,"value":"185.11.10.78"}
 {"kind":"ip_address","node_id":"ip_address:185.11.10.86","schema_version":1,"value":"185.11.10.86"}
+{"kind":"ip_address","node_id":"ip_address:185.11.10.94","schema_version":1,"value":"185.11.10.94"}
 {"kind":"ip_address","node_id":"ip_address:185.11.10.96","schema_version":1,"value":"185.11.10.96"}
 {"kind":"ip_address","node_id":"ip_address:185.11.10.97","schema_version":1,"value":"185.11.10.97"}
 {"kind":"ip_address","node_id":"ip_address:185.11.8.121","schema_version":1,"value":"185.11.8.121"}
@@ -10257,6 +10261,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:c901200f3ec5b60db2b111862ab0a0427fa0026080579df37a97e96c50f72a49","schema_version":1,"value":"c901200f3ec5b60db2b111862ab0a0427fa0026080579df37a97e96c50f72a49"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c9033028571dcbe54cb7bbbf917368f35fd356dc26d1227395744ba5095de56d","schema_version":1,"value":"c9033028571dcbe54cb7bbbf917368f35fd356dc26d1227395744ba5095de56d"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c94fc6c82ca308ef27fdb5af35ec7a1f854a2554de110ce6661fe802e261355d","schema_version":1,"value":"c94fc6c82ca308ef27fdb5af35ec7a1f854a2554de110ce6661fe802e261355d"}
+{"kind":"tls_certificate","node_id":"tls_certificate:c951c5c401f69d27cd468c202bbd0287c0466c691a6038434a582b74f04077f2","schema_version":1,"value":"c951c5c401f69d27cd468c202bbd0287c0466c691a6038434a582b74f04077f2"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c957fbfb13c4e583630459671487985001a417541327d3d7bea7f702111e80c7","schema_version":1,"value":"c957fbfb13c4e583630459671487985001a417541327d3d7bea7f702111e80c7"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c97d3452776511d32936e159b60aff9e1564309a07c45860beb629c826ad9ffe","schema_version":1,"value":"c97d3452776511d32936e159b60aff9e1564309a07c45860beb629c826ad9ffe"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c99c1b4b9e4fef8fdc98bf2211dc5e65e397a427e31f795d2e42ac3cc75532c7","schema_version":1,"value":"c99c1b4b9e4fef8fdc98bf2211dc5e65e397a427e31f795d2e42ac3cc75532c7"}
