@@ -1845,3 +1845,14 @@
 {"after":[],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-12","event_id":"5b08a4fa3321f0b70481","field":"soa_mname","hostname":"yrsgisc.gov.ye","schema_version":1}
 {"after":"","before":"2026031529","classification":"telemetry","date":"2026-10-12","event_id":"5af92bd1a6722d01e5d8","field":"soa_serial","hostname":"yrsgisc.gov.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-10-12","event_id":"5b25113d2b9301336594","field":"status","hostname":"yrsgisc.gov.ye","schema_version":1}
+{"after":["195.94.20.115"],"before":[],"classification":"informational","date":"2026-10-13","event_id":"88168233c6cc3d20b703","field":"a","hostname":"customerportal.ypl.ye","schema_version":1}
+{"after":["customerportalwhitelabel-yemen.shipsy.tech"],"before":[],"classification":"review","date":"2026-10-13","event_id":"1bf8dc113bca2637e3e2","field":"cname","hostname":"customerportal.ypl.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"5ac314cc8f4e7f0dcffd","field":"status","hostname":"customerportal.ypl.ye","schema_version":1}
+{"after":["10 igw15.site4now.net"],"before":["10 igw15.site4now.net","10 smtp.google.com"],"classification":"review","date":"2026-10-13","event_id":"85ac296ae6094787bf59","field":"mx","hostname":"just.edu.ye","schema_version":1}
+{"after":"2026101205","before":"2026101006","classification":"telemetry","date":"2026-10-13","event_id":"4db60374389f6de5a2be","field":"soa_serial","hostname":"just.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"4fb404536ba7be537cf7","field":"status","hostname":"mmc.edu.ye","schema_version":1}
+{"after":"2026090742","before":"2026090741","classification":"telemetry","date":"2026-10-13","event_id":"5d241b42fb6116f192a8","field":"soa_serial","hostname":"ptc.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-13","event_id":"4fb38ecb75acc87dd2d9","field":"status","hostname":"www.mmc.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-13","event_id":"9ed7b1d2d7892d565b33","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-13","event_id":"32801f17d7cb649d425c","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-13","event_id":"352d16ee54b10f01d79b","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
