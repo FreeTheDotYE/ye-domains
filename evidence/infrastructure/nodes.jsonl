@@ -1317,6 +1317,7 @@
 {"kind":"domain","node_id":"domain:shootingbackfromyemen.ye","schema_version":1,"value":"shootingbackfromyemen.ye"}
 {"kind":"domain","node_id":"domain:showlaq.com.ye","schema_version":1,"value":"showlaq.com.ye"}
 {"kind":"domain","node_id":"domain:shu.edu.ye","schema_version":1,"value":"shu.edu.ye"}
+{"kind":"domain","node_id":"domain:sibawaih.com.ye","schema_version":1,"value":"sibawaih.com.ye"}
 {"kind":"domain","node_id":"domain:siemens.com.ye","schema_version":1,"value":"siemens.com.ye"}
 {"kind":"domain","node_id":"domain:sigmagroup.com.ye","schema_version":1,"value":"sigmagroup.com.ye"}
 {"kind":"domain","node_id":"domain:silo.com.ye","schema_version":1,"value":"silo.com.ye"}
@@ -2883,6 +2884,7 @@
 {"kind":"hostname","node_id":"hostname:curevet.com.ye","schema_version":1,"value":"curevet.com.ye"}
 {"kind":"hostname","node_id":"hostname:custom-it.gov.ye","schema_version":1,"value":"custom-it.gov.ye"}
 {"kind":"hostname","node_id":"hostname:customerportal.ypl.ye","schema_version":1,"value":"customerportal.ypl.ye"}
+{"kind":"hostname","node_id":"hostname:customerportalwhitelabel-yemen.shipsy.tech","schema_version":1,"value":"customerportalwhitelabel-yemen.shipsy.tech"}
 {"kind":"hostname","node_id":"hostname:customs.gov.ye","schema_version":1,"value":"customs.gov.ye"}
 {"kind":"hostname","node_id":"hostname:cy.hasti.gov.ye","schema_version":1,"value":"cy.hasti.gov.ye"}
 {"kind":"hostname","node_id":"hostname:cyber.sis.gov.ye","schema_version":1,"value":"cyber.sis.gov.ye"}
@@ -3709,6 +3711,7 @@
 {"kind":"hostname","node_id":"hostname:krmbank.net.ye","schema_version":1,"value":"krmbank.net.ye"}
 {"kind":"hostname","node_id":"hostname:kuraimibank.ye","schema_version":1,"value":"kuraimibank.ye"}
 {"kind":"hostname","node_id":"hostname:kurootalshabakah.api.tabweeb.com.ye","schema_version":1,"value":"kurootalshabakah.api.tabweeb.com.ye"}
+{"kind":"hostname","node_id":"hostname:kurootalshabakah.dev.tabweeb.com.ye","schema_version":1,"value":"kurootalshabakah.dev.tabweeb.com.ye"}
 {"kind":"hostname","node_id":"hostname:kurootalshabakah.tabweeb.com.ye","schema_version":1,"value":"kurootalshabakah.tabweeb.com.ye"}
 {"kind":"hostname","node_id":"hostname:kurootalshabakah.test.tabweeb.com.ye","schema_version":1,"value":"kurootalshabakah.test.tabweeb.com.ye"}
 {"kind":"hostname","node_id":"hostname:lab-ote.y.net.ye","schema_version":1,"value":"lab-ote.y.net.ye"}
@@ -5623,6 +5626,7 @@
 {"kind":"hostname","node_id":"hostname:showlaq.com.ye","schema_version":1,"value":"showlaq.com.ye"}
 {"kind":"hostname","node_id":"hostname:shu-edu-ye.mail.protection.outlook.com","schema_version":1,"value":"shu-edu-ye.mail.protection.outlook.com"}
 {"kind":"hostname","node_id":"hostname:shu.edu.ye","schema_version":1,"value":"shu.edu.ye"}
+{"kind":"hostname","node_id":"hostname:sibawaih.com.ye","schema_version":1,"value":"sibawaih.com.ye"}
 {"kind":"hostname","node_id":"hostname:siemens.com.ye","schema_version":1,"value":"siemens.com.ye"}
 {"kind":"hostname","node_id":"hostname:sigmagroup.com.ye","schema_version":1,"value":"sigmagroup.com.ye"}
 {"kind":"hostname","node_id":"hostname:silo.com.ye","schema_version":1,"value":"silo.com.ye"}
@@ -8064,6 +8068,7 @@
 {"kind":"hostname","node_id":"hostname:www.testplsk.net.ye","schema_version":1,"value":"www.testplsk.net.ye"}
 {"kind":"hostname","node_id":"hostname:www.tests.worldtrust.com.ye","schema_version":1,"value":"www.tests.worldtrust.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.tevt-project.gov.ye","schema_version":1,"value":"www.tevt-project.gov.ye"}
+{"kind":"hostname","node_id":"hostname:www.thabetbros.com.ye","schema_version":1,"value":"www.thabetbros.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.thabetson.com.ye","schema_version":1,"value":"www.thabetson.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.thci.edu.ye","schema_version":1,"value":"www.thci.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.thecheesecakefactory.com.ye","schema_version":1,"value":"www.thecheesecakefactory.com.ye"}
@@ -10218,6 +10223,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:c3f1e22ad3a5d06dae247e7a18b1fb1772125b250f7ec17185cdfd598757811e","schema_version":1,"value":"c3f1e22ad3a5d06dae247e7a18b1fb1772125b250f7ec17185cdfd598757811e"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c491e303e29d04aea7599ee3b8bac316aa9ad7e67eda05127cff4ba58f5015ad","schema_version":1,"value":"c491e303e29d04aea7599ee3b8bac316aa9ad7e67eda05127cff4ba58f5015ad"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c4a01c2ce6f1de69a90f264c50238f6b4717fabee8f92965b139f1b028ae2e98","schema_version":1,"value":"c4a01c2ce6f1de69a90f264c50238f6b4717fabee8f92965b139f1b028ae2e98"}
+{"kind":"tls_certificate","node_id":"tls_certificate:c4d5a5c59f6c9c03f74166a1458c9ab02066e5528cb7cd5527ee235066add396","schema_version":1,"value":"c4d5a5c59f6c9c03f74166a1458c9ab02066e5528cb7cd5527ee235066add396"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c51437715ee40a2491b02377625e639bf5a04b8d05c936be1177e22e58460405","schema_version":1,"value":"c51437715ee40a2491b02377625e639bf5a04b8d05c936be1177e22e58460405"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c5816e6925a5b27165d9ef7beeae4bc84a70149938aed28dfc096e6f92001e76","schema_version":1,"value":"c5816e6925a5b27165d9ef7beeae4bc84a70149938aed28dfc096e6f92001e76"}
 {"kind":"tls_certificate","node_id":"tls_certificate:c5c21d268f9e049f1007d13fe6797bdf6416418ce1da60c608a8c76b58a371f8","schema_version":1,"value":"c5c21d268f9e049f1007d13fe6797bdf6416418ce1da60c608a8c76b58a371f8"}
