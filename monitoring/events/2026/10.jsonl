@@ -1887,9 +1887,13 @@
 {"after":"1765618900","before":"","classification":"telemetry","date":"2026-10-14","event_id":"77485e766cce3a0cee65","field":"soa_serial","hostname":"alaqel.hospital.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"9c1d3dd8d2b3f73a3479","field":"status","hostname":"alaqel.hospital.ye","schema_version":1}
 {"after":"2026101300","before":"2026101200","classification":"telemetry","date":"2026-10-14","event_id":"86dccc7a0d43b0093756","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-14","event_id":"496b1d2b926c12232c92","field":"a","hostname":"de.wasatia.edu.ye","schema_version":1}
+{"after":["185.112.200.124"],"before":[],"classification":"informational","date":"2026-10-14","event_id":"22352fc173d93e65f0f4","field":"a","hostname":"mobile.flow-tech.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"49e28d126b3ac2d48bae","field":"status","hostname":"mobile.flow-tech.com.ye","schema_version":1}
 {"after":["195.94.15.163"],"before":[],"classification":"informational","date":"2026-10-14","event_id":"a4bd5256017ce0f88fbb","field":"a","hostname":"news.su.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"7f8a5ed8530aeeaa6d28","field":"status","hostname":"news.su.edu.ye","schema_version":1}
 {"after":"2417416778","before":"2412857554","classification":"telemetry","date":"2026-10-14","event_id":"0ca3faf97589089d92d6","field":"soa_serial","hostname":"onecash.net.ye","schema_version":1}
+{"after":"2417453910","before":"2414233648","classification":"telemetry","date":"2026-10-14","event_id":"fe4964b50f32fe65be57","field":"soa_serial","hostname":"sanad.com.ye","schema_version":1}
 {"after":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"before":["ns-1333.awsdns-38.org","ns-1615.awsdns-09.co.uk","ns-68.awsdns-08.com","ns-769.awsdns-32.net"],"classification":"review","date":"2026-10-14","event_id":"360c68a6129d481b29f2","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":"2026101401","before":"2026101001","classification":"telemetry","date":"2026-10-14","event_id":"d8619891514999418793","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":["23.88.33.252"],"before":[],"classification":"informational","date":"2026-10-14","event_id":"5ba128c299b6277fc53e","field":"a","hostname":"stud.rw.edu.ye","schema_version":1}
@@ -1906,6 +1910,7 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"e66d449b164ee8114cf4","field":"status","hostname":"www.alaqel.hospital.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::2","2a06:98c1:3121::2"],"classification":"informational","date":"2026-10-14","event_id":"341acb8243f0dcdb9a7c","field":"aaaa","hostname":"www.masar.eiu.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-14","event_id":"3607b493a51464a32aac","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-14","event_id":"589dd67ae21e82466b4f","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-10-14","event_id":"828f079ee86d678f24e7","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"c50c2de9790eb5a33563","field":"status","hostname":"yetoday.net.ye","schema_version":1}
 {"after":"2026101301","before":"2026090501","classification":"telemetry","date":"2026-10-14","event_id":"87731a10900d96c401b6","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}
