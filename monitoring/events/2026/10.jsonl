@@ -1914,6 +1914,7 @@
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-10-14","event_id":"828f079ee86d678f24e7","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-14","event_id":"c50c2de9790eb5a33563","field":"status","hostname":"yetoday.net.ye","schema_version":1}
 {"after":"2026101301","before":"2026090501","classification":"telemetry","date":"2026-10-14","event_id":"87731a10900d96c401b6","field":"soa_serial","hostname":"yrspc.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"16ff1130892e6b6d1f45","field":"status","hostname":"al-ebhar.com.ye","schema_version":1}
 {"after":"2026101501","before":"2026101002","classification":"telemetry","date":"2026-10-15","event_id":"0e0cf8f91cefa8c739c9","field":"soa_serial","hostname":"alamjad.edu.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"aac0de9677b8b54601b3","field":"soa_serial","hostname":"alhamdi.edu.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"45501e9a0d387790d825","field":"soa_serial","hostname":"alnafisuni.edu.ye","schema_version":1}
@@ -1924,11 +1925,14 @@
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"cb9a898bf001dd483c9c","field":"soa_serial","hostname":"borouge.com.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"5436efd8278e3f20518b","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"f5827d642500773f1741","field":"soa_serial","hostname":"civilizationuniv.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"826edb151d16c3a51a35","field":"status","hostname":"hadramoutbts.gov.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"62806ba763dc5aa61f82","field":"soa_serial","hostname":"hu.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"33915f2a1b822a5c767a","field":"status","hostname":"immigrants.gov.ye","schema_version":1}
 {"after":["185.112.200.230"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"1b7aedc025b35df7b90d","field":"a","hostname":"iu.moit.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"ab168c129d4819f8b43c","field":"status","hostname":"iu.moit.gov.ye","schema_version":1}
 {"after":["74.220.219.171"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"694b68b25b0579e68eb2","field":"a","hostname":"journal.quni.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"75b1710a1a85ea382cb0","field":"status","hostname":"journal.quni.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"276a0ddf359d875391f4","field":"status","hostname":"links.yemen.net.ye","schema_version":1}
 {"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"c9f7a5ad3583e43ad7b3","field":"a","hostname":"mazhari-market.com.ye","schema_version":1}
 {"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye","20 mail.mazhari-market.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"8c775ec16630f074cccd","field":"mx","hostname":"mazhari-market.com.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"f2f3ae6ab9b961111ece","field":"ns","hostname":"mazhari-market.com.ye","schema_version":1}
@@ -1946,14 +1950,19 @@
 {"after":"2026101301","before":"","classification":"telemetry","date":"2026-10-15","event_id":"91d87c788ff7d1cc1a2c","field":"soa_serial","hostname":"reebontaalum.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"a035c3aaa6b7bcd09c02","field":"status","hostname":"reebontaalum.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"679349fa8bd2bef81d8e","field":"soa_serial","hostname":"rw.edu.ye","schema_version":1}
+{"after":"2417513782","before":"2417453910","classification":"telemetry","date":"2026-10-15","event_id":"9b9ad4634eb86e083edf","field":"soa_serial","hostname":"sanad.com.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"952b336d6c6a2abfaaeb","field":"soa_serial","hostname":"silo.com.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"cfe772acc4267d35ef72","field":"soa_serial","hostname":"teci.edu.ye","schema_version":1}
 {"after":"2026101501","before":"2026100801","classification":"telemetry","date":"2026-10-15","event_id":"1840b7fc332d9a79e26d","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
 {"after":["74.220.219.171"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"231165a2e7307b583933","field":"a","hostname":"website-a0225d07.quni.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"9bab3f836c4ef4c1c309","field":"status","hostname":"website-a0225d07.quni.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"ce3b9d3f457f86759e55","field":"status","hostname":"www.al-ebhar.com.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"84e08537f383c9946519","field":"a","hostname":"www.and.com.ye","schema_version":1}
 {"after":["and.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"f62dbae0c78de565e8df","field":"cname","hostname":"www.and.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"968c7d34c9080df7dc58","field":"status","hostname":"www.and.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"81a02d0257ac82118ce8","field":"status","hostname":"www.aytta.org.ye","schema_version":1}
+{"after":["82.114.162.66"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"7b7f1d0de73165150887","field":"a","hostname":"www.demcs.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"9f30be96b74c298bf275","field":"status","hostname":"www.demcs.com.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"9b872a17799bc585052c","field":"a","hostname":"www.dodge.com.ye","schema_version":1}
 {"after":["dodge.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"68d79c39be69811b4695","field":"cname","hostname":"www.dodge.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"faf65052a9ba36fc6add","field":"status","hostname":"www.dodge.com.ye","schema_version":1}
@@ -1962,6 +1971,9 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"07237a8a08dd80b25561","field":"status","hostname":"www.eoi.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"df4f243e92731bc9fb7e","field":"a","hostname":"www.geni.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"113e36be4344d3942c9e","field":"status","hostname":"www.geni.com.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"aa6390c762bbf1daa411","field":"a","hostname":"www.humanyemen.org.ye","schema_version":1}
+{"after":["humanyemen.org.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"31044fc34a3621b31a09","field":"cname","hostname":"www.humanyemen.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"2f30a71cf52189b34021","field":"status","hostname":"www.humanyemen.org.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"f8ea8021c9c8025fa46e","field":"a","hostname":"www.ibnzhr.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"187b96790b72797430ea","field":"status","hostname":"www.ibnzhr.com.ye","schema_version":1}
 {"after":["74.220.219.171"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"949ceacdd4194f7ed717","field":"a","hostname":"www.journal.quni.edu.ye","schema_version":1}
@@ -1969,6 +1981,9 @@
 {"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"2c4a47be9d48cedd9a95","field":"a","hostname":"www.mazhari-market.com.ye","schema_version":1}
 {"after":["mazhari-market.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"da3d9f77d82c12c19110","field":"cname","hostname":"www.mazhari-market.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"8858dfebf8ec27fbda33","field":"status","hostname":"www.mazhari-market.com.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"bae76de697fb060e958a","field":"a","hostname":"www.ntelimited.com.ye","schema_version":1}
+{"after":["ntelimited.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"13309b80324baa07a063","field":"cname","hostname":"www.ntelimited.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"7a5907f1bfcf5a429056","field":"status","hostname":"www.ntelimited.com.ye","schema_version":1}
 {"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"78ca423d74b2e0fe1695","field":"a","hostname":"www.oppo-aed.com.ye","schema_version":1}
 {"after":["oppo-aed.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"3af5f5de890d875beb93","field":"cname","hostname":"www.oppo-aed.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"36e4eb104ee197d54ca2","field":"status","hostname":"www.oppo-aed.com.ye","schema_version":1}
@@ -1979,6 +1994,9 @@
 {"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"053de064ef21e3df17a9","field":"a","hostname":"www.safetrack.com.ye","schema_version":1}
 {"after":["safetrack.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"b189bfa7b8b7bf78a704","field":"cname","hostname":"www.safetrack.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"8e0c281ad0524e20f60e","field":"status","hostname":"www.safetrack.com.ye","schema_version":1}
+{"after":["82.114.162.18"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"5dcba45d4265271c6817","field":"a","hostname":"www.shamilbank.com.ye","schema_version":1}
+{"after":["shamilbank.com.ye"],"before":[],"classification":"review","date":"2026-10-15","event_id":"150b352b5ab0c8f8680a","field":"cname","hostname":"www.shamilbank.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"e458dafbc020527b2958","field":"status","hostname":"www.shamilbank.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-15","event_id":"c29b2b4a22320815efd5","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["74.220.219.171"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"92e7c96027d9544b42c4","field":"a","hostname":"www.website-a0225d07.quni.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"4cdfd9350fbe01c2981c","field":"status","hostname":"www.website-a0225d07.quni.edu.ye","schema_version":1}
