@@ -181,6 +181,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "dnsadmin.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "195.94.15.12"
         ],
