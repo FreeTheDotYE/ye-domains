@@ -2010,3 +2010,10 @@
 {"after":"1792022400","before":"1791417600","classification":"telemetry","date":"2026-10-15","event_id":"cdb7aad16377bfbedd04","field":"soa_serial","hostname":"yang.ye","schema_version":1}
 {"after":["195.94.23.13"],"before":[],"classification":"informational","date":"2026-10-15","event_id":"8ca489cb894a7f20d143","field":"a","hostname":"ysat.sohobcom.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-15","event_id":"f4029ee21f8641946781","field":"status","hostname":"ysat.sohobcom.ye","schema_version":1}
+{"after":"2417552742","before":"2413627007","classification":"telemetry","date":"2026-10-16","event_id":"dc95f219ecefb0f95e88","field":"soa_serial","hostname":"alataa.edu.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-16","event_id":"b5f9e24d563b267af93f","field":"a","hostname":"de.wasatia.edu.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-16","event_id":"6be0401420a4a799cc77","field":"a","hostname":"www.digitalcity.com.ye","schema_version":1}
+{"after":["digitalcity.com.ye"],"before":[],"classification":"review","date":"2026-10-16","event_id":"ba8a44a2ee978b9d61fb","field":"cname","hostname":"www.digitalcity.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-16","event_id":"9bef5437d8438ebff10f","field":"status","hostname":"www.digitalcity.com.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-16","event_id":"612ee1210b6d4147dd97","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-16","event_id":"be3d75b55f22670a8546","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
