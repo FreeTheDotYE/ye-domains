@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-10-16",
+  "as_of_date": "2026-10-17",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -190,7 +190,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "no_records"
       },
       "hostname": "dnsadmin.sohobcom.ye"
     },
@@ -302,7 +302,7 @@
         "soa_mname": [
           "sah1.ye"
         ],
-        "soa_serial": "2026101401",
+        "soa_serial": "2026101603",
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
@@ -2191,6 +2191,16 @@
         "sah3.ye"
       ],
       "domain": "moc.gov.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "modern.edu.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
