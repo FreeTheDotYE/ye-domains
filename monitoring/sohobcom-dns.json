@@ -143,7 +143,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.15.13"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -152,7 +154,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "autodiscover.sohobcom.ye"
     },
@@ -273,7 +275,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "no_records"
       },
       "hostname": "imap.sohobcom.ye"
     },

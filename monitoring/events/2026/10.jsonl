@@ -2037,6 +2037,7 @@
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-16","event_id":"1a93d35b7921bdbdc58b","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-16","event_id":"be3d75b55f22670a8546","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["34.251.173.187","40.180.67.161","54.220.65.5"],"before":["34.251.173.187","52.18.249.3","52.30.223.99"],"classification":"informational","date":"2026-10-16","event_id":"8f0b9891fedb63fff0fd","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
+{"after":"2026101701","before":"2026091001","classification":"telemetry","date":"2026-10-17","event_id":"18b57ee37e1133b7d2cd","field":"soa_serial","hostname":"abuelias.com.ye","schema_version":1}
 {"after":[],"before":["82.114.162.10"],"classification":"informational","date":"2026-10-17","event_id":"39b70c7916a021d6c535","field":"a","hostname":"abunabgroup.com.ye","schema_version":1}
 {"after":[],"before":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.abunabgroup.com.ye"],"classification":"review","date":"2026-10-17","event_id":"167f641a372414e3d867","field":"mx","hostname":"abunabgroup.com.ye","schema_version":1}
 {"after":[],"before":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"classification":"review","date":"2026-10-17","event_id":"3c9bdbb5e1259d0b2332","field":"ns","hostname":"abunabgroup.com.ye","schema_version":1}
@@ -2055,6 +2056,7 @@
 {"after":[],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-17","event_id":"e8a96b2857c492443782","field":"soa_mname","hostname":"adengiu.edu.ye","schema_version":1}
 {"after":"","before":"2025110302","classification":"telemetry","date":"2026-10-17","event_id":"a1a715e3fbf543de7b75","field":"soa_serial","hostname":"adengiu.edu.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-10-17","event_id":"2e9037a0be766c97dc72","field":"status","hostname":"adengiu.edu.ye","schema_version":1}
+{"after":"2417706595","before":"2417552742","classification":"telemetry","date":"2026-10-17","event_id":"bbfd855a582ab9aa4e28","field":"soa_serial","hostname":"alataa.edu.ye","schema_version":1}
 {"after":[],"before":["82.114.162.10"],"classification":"informational","date":"2026-10-17","event_id":"e7c4f75f89a685bd6b27","field":"a","hostname":"aljowf-friends.org.ye","schema_version":1}
 {"after":[],"before":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.aljowf-friends.org.ye"],"classification":"review","date":"2026-10-17","event_id":"3fdafaa07dee9cb347fa","field":"mx","hostname":"aljowf-friends.org.ye","schema_version":1}
 {"after":[],"before":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"classification":"review","date":"2026-10-17","event_id":"bc9ce60e93f130561900","field":"ns","hostname":"aljowf-friends.org.ye","schema_version":1}
@@ -2068,12 +2070,15 @@
 {"after":"","before":"2026101500","classification":"telemetry","date":"2026-10-17","event_id":"bb2f2033281aa1511e3e","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-17","event_id":"542d3a7a1a75beabb480","field":"status","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2417667532","before":"2417509071","classification":"telemetry","date":"2026-10-17","event_id":"5f56ea6a0a37014e15ce","field":"soa_serial","hostname":"alremal.ye","schema_version":1}
+{"after":["195.94.15.13"],"before":[],"classification":"informational","date":"2026-10-17","event_id":"459af351caa2871a23b9","field":"a","hostname":"autodiscover.sohobcom.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-17","event_id":"81880b240f680cceeca4","field":"status","hostname":"autodiscover.sohobcom.ye","schema_version":1}
 {"after":"no_records","before":"nxdomain","classification":"review","date":"2026-10-17","event_id":"8a63e01b04d28631b1ad","field":"status","hostname":"cpanel.acf.gov.ye","schema_version":1}
 {"after":"no_records","before":"unobserved","classification":"review","date":"2026-10-17","event_id":"4919f419989f484219ba","field":"status","hostname":"dnsadmin.sohobcom.ye","schema_version":1}
 {"after":["208.98.35.149"],"before":[],"classification":"informational","date":"2026-10-17","event_id":"c8b77b0fe62810e44971","field":"a","hostname":"edu.seiyunu.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-17","event_id":"71360f46764de9f91a69","field":"status","hostname":"edu.seiyunu.edu.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-17","event_id":"b8767dd9513a7396f499","field":"a","hostname":"etmam.pub.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-17","event_id":"831039859ec25120df11","field":"status","hostname":"etmam.pub.ye","schema_version":1}
+{"after":"no_records","before":"unobserved","classification":"review","date":"2026-10-17","event_id":"16df001f6ce1bd6ee707","field":"status","hostname":"imap.sohobcom.ye","schema_version":1}
 {"after":["188.114.96.3","188.114.97.3"],"before":["188.114.96.12","188.114.97.12"],"classification":"informational","date":"2026-10-17","event_id":"921bb02c4753b88cb730","field":"a","hostname":"journals.eiu.edu.ye","schema_version":1}
 {"after":[],"before":["185.11.10.109"],"classification":"informational","date":"2026-10-17","event_id":"3b08467c7202f24cf87c","field":"a","hostname":"maa.gov.ye","schema_version":1}
 {"after":[],"before":["10 mail3.yemen.net.ye","20 mail.yemen.net.ye","20 mail5.yemen.net.ye"],"classification":"review","date":"2026-10-17","event_id":"bac832fd168fba31be06","field":"mx","hostname":"maa.gov.ye","schema_version":1}
@@ -2131,6 +2136,7 @@
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-10-17","event_id":"93d30ac592d21bfafc64","field":"status","hostname":"shabwah.gov.ye","schema_version":1}
 {"after":["ns-1501.awsdns-59.org","ns-1999.awsdns-57.co.uk","ns-278.awsdns-34.com","ns-773.awsdns-32.net"],"before":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"classification":"review","date":"2026-10-17","event_id":"29aeb32cf0946299da35","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["ns-1999.awsdns-57.co.uk"],"before":["ns-1354.awsdns-41.org"],"classification":"review","date":"2026-10-17","event_id":"5ce978d06b0eda47b404","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["ns-1333.awsdns-38.org"],"before":["ns-1999.awsdns-57.co.uk"],"classification":"review","date":"2026-10-17","event_id":"b7be12575a87c0a8618b","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":"2026101603","before":"2026101401","classification":"telemetry","date":"2026-10-17","event_id":"20b3f825b997acc502cf","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":"2026101701","before":"2026101603","classification":"telemetry","date":"2026-10-17","event_id":"7ca0d91d5e02751e4001","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":[],"before":["82.114.162.10"],"classification":"informational","date":"2026-10-17","event_id":"ec5f982b01b8d5cfaffe","field":"a","hostname":"twslc.gov.ye","schema_version":1}
@@ -2190,6 +2196,8 @@
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-17","event_id":"f9ddcdcb5c4db416b04f","field":"status","hostname":"www.rayan.alrayan-university.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-17","event_id":"88acd9d665bf5a09e805","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-17","event_id":"2d9c8a7de9230149b891","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-17","event_id":"d7aee7498c56194e3983","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-17","event_id":"59414c28c2ebc3a6daae","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":[],"before":["82.114.162.10"],"classification":"informational","date":"2026-10-17","event_id":"2e2e71d18f40fd1ce1f0","field":"a","hostname":"www.twslc.gov.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-10-17","event_id":"1436066841fbef6acc9b","field":"status","hostname":"www.twslc.gov.ye","schema_version":1}
 {"after":[],"before":["82.114.162.21"],"classification":"informational","date":"2026-10-17","event_id":"58ac4b03da4c769f0c94","field":"a","hostname":"www.uajnas.gov.ye","schema_version":1}
