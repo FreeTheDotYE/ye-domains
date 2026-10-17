@@ -348,6 +348,7 @@
 {"kind":"domain","node_id":"domain:arts.ye","schema_version":1,"value":"arts.ye"}
 {"kind":"domain","node_id":"domain:arwauniversity.edu.ye","schema_version":1,"value":"arwauniversity.edu.ye"}
 {"kind":"domain","node_id":"domain:asa.com.ye","schema_version":1,"value":"asa.com.ye"}
+{"kind":"domain","node_id":"domain:asfarnna.com.ye","schema_version":1,"value":"asfarnna.com.ye"}
 {"kind":"domain","node_id":"domain:asffor.com.ye","schema_version":1,"value":"asffor.com.ye"}
 {"kind":"domain","node_id":"domain:askmonther.com.ye","schema_version":1,"value":"askmonther.com.ye"}
 {"kind":"domain","node_id":"domain:assalimi.com.ye","schema_version":1,"value":"assalimi.com.ye"}
@@ -2100,6 +2101,7 @@
 {"kind":"hostname","node_id":"hostname:app.jawaliwecash.com.ye","schema_version":1,"value":"app.jawaliwecash.com.ye"}
 {"kind":"hostname","node_id":"hostname:app.jums.edu.ye","schema_version":1,"value":"app.jums.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.mpay.ye","schema_version":1,"value":"app.mpay.ye"}
+{"kind":"hostname","node_id":"hostname:app.qau.edu.ye","schema_version":1,"value":"app.qau.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.tabsera.com.ye","schema_version":1,"value":"app.tabsera.com.ye"}
 {"kind":"hostname","node_id":"hostname:app.uis.edu.ye","schema_version":1,"value":"app.uis.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.wecash.com.ye","schema_version":1,"value":"app.wecash.com.ye"}
@@ -2136,6 +2138,7 @@
 {"kind":"hostname","node_id":"hostname:aryanna.ns.cloudflare.com","schema_version":1,"value":"aryanna.ns.cloudflare.com"}
 {"kind":"hostname","node_id":"hostname:asa.com.ye","schema_version":1,"value":"asa.com.ye"}
 {"kind":"hostname","node_id":"hostname:asa.mmy.ye","schema_version":1,"value":"asa.mmy.ye"}
+{"kind":"hostname","node_id":"hostname:asfarnna.com.ye","schema_version":1,"value":"asfarnna.com.ye"}
 {"kind":"hostname","node_id":"hostname:asffor.com.ye","schema_version":1,"value":"asffor.com.ye"}
 {"kind":"hostname","node_id":"hostname:ash.ums.edu.ye","schema_version":1,"value":"ash.ums.edu.ye"}
 {"kind":"hostname","node_id":"hostname:askmonther.com.ye","schema_version":1,"value":"askmonther.com.ye"}
@@ -5519,6 +5522,7 @@
 {"kind":"hostname","node_id":"hostname:rw-edu-ye.mail.protection.outlook.com","schema_version":1,"value":"rw-edu-ye.mail.protection.outlook.com"}
 {"kind":"hostname","node_id":"hostname:rw.edu.ye","schema_version":1,"value":"rw.edu.ye"}
 {"kind":"hostname","node_id":"hostname:s-tawasul.gov.ye","schema_version":1,"value":"s-tawasul.gov.ye"}
+{"kind":"hostname","node_id":"hostname:s.jia-au.gov.ye","schema_version":1,"value":"s.jia-au.gov.ye"}
 {"kind":"hostname","node_id":"hostname:s.mocsi.gov.ye","schema_version":1,"value":"s.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:s2d.com.ye","schema_version":1,"value":"s2d.com.ye"}
 {"kind":"hostname","node_id":"hostname:sa-portal.ye","schema_version":1,"value":"sa-portal.ye"}
@@ -7026,6 +7030,7 @@
 {"kind":"hostname","node_id":"hostname:www.art.hoduniv.net.ye","schema_version":1,"value":"www.art.hoduniv.net.ye"}
 {"kind":"hostname","node_id":"hostname:www.arwauniversity.edu.ye","schema_version":1,"value":"www.arwauniversity.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.asa.com.ye","schema_version":1,"value":"www.asa.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.asfarnna.com.ye","schema_version":1,"value":"www.asfarnna.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.asffor.com.ye","schema_version":1,"value":"www.asffor.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.ash.ums.edu.ye","schema_version":1,"value":"www.ash.ums.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.askmonther.com.ye","schema_version":1,"value":"www.askmonther.com.ye"}
@@ -8892,6 +8897,7 @@
 {"kind":"ip_address","node_id":"ip_address:195.94.15.112","schema_version":1,"value":"195.94.15.112"}
 {"kind":"ip_address","node_id":"ip_address:195.94.15.12","schema_version":1,"value":"195.94.15.12"}
 {"kind":"ip_address","node_id":"ip_address:195.94.15.124","schema_version":1,"value":"195.94.15.124"}
+{"kind":"ip_address","node_id":"ip_address:195.94.15.13","schema_version":1,"value":"195.94.15.13"}
 {"kind":"ip_address","node_id":"ip_address:195.94.15.135","schema_version":1,"value":"195.94.15.135"}
 {"kind":"ip_address","node_id":"ip_address:195.94.15.138","schema_version":1,"value":"195.94.15.138"}
 {"kind":"ip_address","node_id":"ip_address:195.94.15.14","schema_version":1,"value":"195.94.15.14"}
