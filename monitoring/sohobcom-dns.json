@@ -143,6 +143,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "autodiscover.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "185.112.202.202"
         ],
@@ -249,6 +264,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "imap.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "195.94.23.20"
         ],
@@ -302,7 +332,7 @@
         "soa_mname": [
           "sah1.ye"
         ],
-        "soa_serial": "2026101603",
+        "soa_serial": "2026101701",
         "status": "records_present"
       },
       "hostname": "sohobcom.ye"
