@@ -2224,6 +2224,7 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"7f4dd61513c63c82ffae","field":"status","hostname":"filter.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"004e55f3a371c51022da","field":"a","hostname":"s.jia-au.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"8fffd38179c6ca20d550","field":"status","hostname":"s.jia-au.gov.ye","schema_version":1}
+{"after":["ns-1333.awsdns-38.org","ns-1615.awsdns-09.co.uk","ns-68.awsdns-08.com","ns-769.awsdns-32.net"],"before":["ns-1501.awsdns-59.org","ns-1999.awsdns-57.co.uk","ns-278.awsdns-34.com","ns-773.awsdns-32.net"],"classification":"review","date":"2026-10-18","event_id":"fab3aacc7aa857cb717e","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":"2026101703","before":"2026090401","classification":"telemetry","date":"2026-10-18","event_id":"618a91acf27458eb4829","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
 {"after":[],"before":["82.114.162.240"],"classification":"informational","date":"2026-10-18","event_id":"0cef0ca2f12a40fa1166","field":"a","hostname":"wireless.yemen.net.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"80f593caeadfafa38e0b","field":"status","hostname":"wireless.yemen.net.ye","schema_version":1}
