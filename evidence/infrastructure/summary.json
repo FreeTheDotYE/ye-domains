@@ -1,21 +1,21 @@
 {
-  "active_edges": 24428,
+  "active_edges": 24429,
   "as_of_date": "2026-10-18",
-  "edges": 25241,
+  "edges": 25242,
   "node_kinds": {
     "asn": 57,
     "dataset": 1,
     "domain": 1682,
-    "hostname": 6859,
+    "hostname": 6860,
     "ip_address": 874,
     "network_prefix": 235,
     "registrar": 2,
     "tls_certificate": 892
   },
-  "nodes": 10602,
+  "nodes": 10603,
   "relations": {
     "cname_to": 674,
-    "contains_hostname": 6530,
+    "contains_hostname": 6531,
     "covered_by_prefix": 846,
     "delegated_to": 3454,
     "mail_routed_to": 2928,

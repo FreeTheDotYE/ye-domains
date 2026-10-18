@@ -2098,6 +2098,7 @@
 {"kind":"hostname","node_id":"hostname:app.alhamdi.edu.ye","schema_version":1,"value":"app.alhamdi.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.centralbank.gov.ye","schema_version":1,"value":"app.centralbank.gov.ye"}
 {"kind":"hostname","node_id":"hostname:app.fiu.gov.ye","schema_version":1,"value":"app.fiu.gov.ye"}
+{"kind":"hostname","node_id":"hostname:app.hic.edu.ye","schema_version":1,"value":"app.hic.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.ibs.edu.ye","schema_version":1,"value":"app.ibs.edu.ye"}
 {"kind":"hostname","node_id":"hostname:app.jawali-ye.com.ye","schema_version":1,"value":"app.jawali-ye.com.ye"}
 {"kind":"hostname","node_id":"hostname:app.jawaliwecash.com.ye","schema_version":1,"value":"app.jawaliwecash.com.ye"}
