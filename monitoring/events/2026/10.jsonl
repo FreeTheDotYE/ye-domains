@@ -2205,3 +2205,15 @@
 {"after":["40.180.67.161","52.213.238.75","54.220.65.5"],"before":["34.251.173.187","40.180.67.161","54.220.65.5"],"classification":"informational","date":"2026-10-17","event_id":"4c9d0aae1cb73ce5f710","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
 {"after":[],"before":["192.254.186.141"],"classification":"informational","date":"2026-10-17","event_id":"6f493986418e193c2f7a","field":"a","hostname":"www.website-6078d907.alrayan-university.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-17","event_id":"2c13933af34327b33dc6","field":"status","hostname":"www.website-6078d907.alrayan-university.edu.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"c0505c4a9dcca43bfb61","field":"a","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"1026d0a3eb543dab29f0","field":"ns","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"a934f8361702e6f6e435","field":"soa_mname","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":"2026080101","before":"","classification":"telemetry","date":"2026-10-18","event_id":"6249a4ad98472417f7fa","field":"soa_serial","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"ed3928a9bc7734c2d609","field":"status","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"004e55f3a371c51022da","field":"a","hostname":"s.jia-au.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"8fffd38179c6ca20d550","field":"status","hostname":"s.jia-au.gov.ye","schema_version":1}
+{"after":[],"before":["82.114.162.240"],"classification":"informational","date":"2026-10-18","event_id":"0cef0ca2f12a40fa1166","field":"a","hostname":"wireless.yemen.net.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"80f593caeadfafa38e0b","field":"status","hostname":"wireless.yemen.net.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"5bc0c3a36f17ea9bdbe0","field":"a","hostname":"www.asfarnna.com.ye","schema_version":1}
+{"after":["asfarnna.com.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"11df745ba92784dcccf8","field":"cname","hostname":"www.asfarnna.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"1bbdc6d6d2b0a0c7cbe3","field":"status","hostname":"www.asfarnna.com.ye","schema_version":1}

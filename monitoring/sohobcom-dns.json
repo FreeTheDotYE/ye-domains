@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-10-17",
+  "as_of_date": "2026-10-18",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -965,6 +965,16 @@
         "sah3.ye"
       ],
       "domain": "arcc.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "asfarnna.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
