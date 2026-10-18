@@ -2210,10 +2210,29 @@
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"a934f8361702e6f6e435","field":"soa_mname","hostname":"asfarnna.com.ye","schema_version":1}
 {"after":"2026080101","before":"","classification":"telemetry","date":"2026-10-18","event_id":"6249a4ad98472417f7fa","field":"soa_serial","hostname":"asfarnna.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"ed3928a9bc7734c2d609","field":"status","hostname":"asfarnna.com.ye","schema_version":1}
+{"after":["82.114.162.22"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"5aeda23f42b988c4c518","field":"a","hostname":"e-dafaa.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"7f0869dab6710f7f61d3","field":"mx","hostname":"e-dafaa.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"cc6a9d52a6f1b8326ad4","field":"ns","hostname":"e-dafaa.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"3bf966d86eaec334fffb","field":"soa_mname","hostname":"e-dafaa.ye","schema_version":1}
+{"after":"2026101701","before":"","classification":"telemetry","date":"2026-10-18","event_id":"94cbdbe689899c526095","field":"soa_serial","hostname":"e-dafaa.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"56e0e107f99cde71342e","field":"status","hostname":"e-dafaa.ye","schema_version":1}
+{"after":["78.137.77.144"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"7e7c131fbb06fb697ebd","field":"a","hostname":"filter.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"9ff0b98364072a613a29","field":"mx","hostname":"filter.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"caeeb1aa04ceebd23311","field":"ns","hostname":"filter.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"6adf33f82d20e52a793e","field":"soa_mname","hostname":"filter.ye","schema_version":1}
+{"after":"2026101705","before":"","classification":"telemetry","date":"2026-10-18","event_id":"97395164006e1b511e12","field":"soa_serial","hostname":"filter.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"7f4dd61513c63c82ffae","field":"status","hostname":"filter.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"004e55f3a371c51022da","field":"a","hostname":"s.jia-au.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"8fffd38179c6ca20d550","field":"status","hostname":"s.jia-au.gov.ye","schema_version":1}
+{"after":"2026101703","before":"2026090401","classification":"telemetry","date":"2026-10-18","event_id":"618a91acf27458eb4829","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
 {"after":[],"before":["82.114.162.240"],"classification":"informational","date":"2026-10-18","event_id":"0cef0ca2f12a40fa1166","field":"a","hostname":"wireless.yemen.net.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"80f593caeadfafa38e0b","field":"status","hostname":"wireless.yemen.net.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"5bc0c3a36f17ea9bdbe0","field":"a","hostname":"www.asfarnna.com.ye","schema_version":1}
 {"after":["asfarnna.com.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"11df745ba92784dcccf8","field":"cname","hostname":"www.asfarnna.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"1bbdc6d6d2b0a0c7cbe3","field":"status","hostname":"www.asfarnna.com.ye","schema_version":1}
+{"after":["82.114.162.22"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"257485a6c4992da8f1a1","field":"a","hostname":"www.e-dafaa.ye","schema_version":1}
+{"after":["e-dafaa.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"6c22c832b7dd868e9e65","field":"cname","hostname":"www.e-dafaa.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"40af323f11b9e1cac613","field":"status","hostname":"www.e-dafaa.ye","schema_version":1}
+{"after":["78.137.77.144"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"b696bc1050bdc37369bb","field":"a","hostname":"www.filter.ye","schema_version":1}
+{"after":["filter.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"580a597cce55dd891f5b","field":"cname","hostname":"www.filter.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"72dc897a487a47c1fce8","field":"status","hostname":"www.filter.ye","schema_version":1}
