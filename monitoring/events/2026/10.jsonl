@@ -2205,6 +2205,9 @@
 {"after":["40.180.67.161","52.213.238.75","54.220.65.5"],"before":["34.251.173.187","40.180.67.161","54.220.65.5"],"classification":"informational","date":"2026-10-17","event_id":"4c9d0aae1cb73ce5f710","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
 {"after":[],"before":["192.254.186.141"],"classification":"informational","date":"2026-10-17","event_id":"6f493986418e193c2f7a","field":"a","hostname":"www.website-6078d907.alrayan-university.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-17","event_id":"2c13933af34327b33dc6","field":"status","hostname":"www.website-6078d907.alrayan-university.edu.ye","schema_version":1}
+{"after":"2417793005","before":"2417667532","classification":"telemetry","date":"2026-10-18","event_id":"e55dd3824065b66d3e56","field":"soa_serial","hostname":"alremal.ye","schema_version":1}
+{"after":["188.114.96.3","188.114.97.3"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"e0ea6c6d977250686642","field":"a","hostname":"app.hic.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"a5114f3d1a68305bdd9b","field":"status","hostname":"app.hic.edu.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"c0505c4a9dcca43bfb61","field":"a","hostname":"asfarnna.com.ye","schema_version":1}
 {"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"1026d0a3eb543dab29f0","field":"ns","hostname":"asfarnna.com.ye","schema_version":1}
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"a934f8361702e6f6e435","field":"soa_mname","hostname":"asfarnna.com.ye","schema_version":1}
@@ -2222,10 +2225,23 @@
 {"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"6adf33f82d20e52a793e","field":"soa_mname","hostname":"filter.ye","schema_version":1}
 {"after":"2026101705","before":"","classification":"telemetry","date":"2026-10-18","event_id":"97395164006e1b511e12","field":"soa_serial","hostname":"filter.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"7f4dd61513c63c82ffae","field":"status","hostname":"filter.ye","schema_version":1}
+{"after":"2417801950","before":"2417539461","classification":"telemetry","date":"2026-10-18","event_id":"7edd31401d406c307d4c","field":"soa_serial","hostname":"hic.edu.ye","schema_version":1}
+{"after":["185.112.201.232"],"before":["195.94.23.20"],"classification":"informational","date":"2026-10-18","event_id":"2cfc0103391bd5af8077","field":"a","hostname":"ns3.sohobcom.ye","schema_version":1}
+{"after":["185.112.201.233"],"before":["195.94.23.20"],"classification":"informational","date":"2026-10-18","event_id":"c5bb387b72004b5054d1","field":"a","hostname":"ns4.sohobcom.ye","schema_version":1}
+{"after":[],"before":["188.114.96.3","188.114.97.3"],"classification":"informational","date":"2026-10-18","event_id":"bb80d5484958a619acce","field":"a","hostname":"old.hic.edu.ye","schema_version":1}
+{"after":[],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-18","event_id":"d625913a6b01bfc17d44","field":"aaaa","hostname":"old.hic.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"f322788dc2ddde148cf9","field":"status","hostname":"old.hic.edu.ye","schema_version":1}
+{"after":["188.114.96.3","188.114.97.3"],"before":["104.219.248.3"],"classification":"informational","date":"2026-10-18","event_id":"e81b0e0821d6873c213c","field":"a","hostname":"rhc.com.ye","schema_version":1}
+{"after":["0 mail.rhc.com.ye"],"before":["0 rhc.com.ye"],"classification":"review","date":"2026-10-18","event_id":"78a3737e5ae624dfc2a0","field":"mx","hostname":"rhc.com.ye","schema_version":1}
+{"after":["haley.ns.cloudflare.com","joel.ns.cloudflare.com"],"before":["ns1.salsabeelsoft.com","ns2.salsabeelsoft.com"],"classification":"review","date":"2026-10-18","event_id":"7029d9650a6e52d39f82","field":"ns","hostname":"rhc.com.ye","schema_version":1}
+{"after":["haley.ns.cloudflare.com"],"before":["ns1.salsabeelsoft.com"],"classification":"review","date":"2026-10-18","event_id":"e6b59e855d40d8bae79a","field":"soa_mname","hostname":"rhc.com.ye","schema_version":1}
+{"after":"2417800912","before":"2026090203","classification":"telemetry","date":"2026-10-18","event_id":"d87401e8b67e88b0d9ed","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"004e55f3a371c51022da","field":"a","hostname":"s.jia-au.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"8fffd38179c6ca20d550","field":"status","hostname":"s.jia-au.gov.ye","schema_version":1}
 {"after":["ns-1333.awsdns-38.org","ns-1615.awsdns-09.co.uk","ns-68.awsdns-08.com","ns-769.awsdns-32.net"],"before":["ns-1501.awsdns-59.org","ns-1999.awsdns-57.co.uk","ns-278.awsdns-34.com","ns-773.awsdns-32.net"],"classification":"review","date":"2026-10-18","event_id":"fab3aacc7aa857cb717e","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":"2026101802","before":"2026101701","classification":"telemetry","date":"2026-10-18","event_id":"c82f059e3c44265666c0","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":"2026101703","before":"2026090401","classification":"telemetry","date":"2026-10-18","event_id":"618a91acf27458eb4829","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
+{"after":[],"before":["0 testcp.com.ye"],"classification":"review","date":"2026-10-18","event_id":"39efaf52f8eb4f7ee8e2","field":"mx","hostname":"testcp.com.ye","schema_version":1}
 {"after":[],"before":["82.114.162.240"],"classification":"informational","date":"2026-10-18","event_id":"0cef0ca2f12a40fa1166","field":"a","hostname":"wireless.yemen.net.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"80f593caeadfafa38e0b","field":"status","hostname":"wireless.yemen.net.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"5bc0c3a36f17ea9bdbe0","field":"a","hostname":"www.asfarnna.com.ye","schema_version":1}
@@ -2237,3 +2253,11 @@
 {"after":["78.137.77.144"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"b696bc1050bdc37369bb","field":"a","hostname":"www.filter.ye","schema_version":1}
 {"after":["filter.ye"],"before":[],"classification":"review","date":"2026-10-18","event_id":"580a597cce55dd891f5b","field":"cname","hostname":"www.filter.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-18","event_id":"72dc897a487a47c1fce8","field":"status","hostname":"www.filter.ye","schema_version":1}
+{"after":["188.114.96.3","188.114.97.3"],"before":["104.219.248.3"],"classification":"informational","date":"2026-10-18","event_id":"408b3179ff70e37591f5","field":"a","hostname":"www.rhc.com.ye","schema_version":1}
+{"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":[],"classification":"informational","date":"2026-10-18","event_id":"c0e2b2b75104e95bab8e","field":"aaaa","hostname":"www.rhc.com.ye","schema_version":1}
+{"after":[],"before":["rhc.com.ye"],"classification":"review","date":"2026-10-18","event_id":"62bfa9d82c77fb1b63c8","field":"cname","hostname":"www.rhc.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-18","event_id":"11ea9b91b31a2e02e5f9","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
+{"after":[],"before":["195.94.23.20"],"classification":"informational","date":"2026-10-18","event_id":"fae65603201446cf2a25","field":"a","hostname":"www.testcp.com.ye","schema_version":1}
+{"after":[],"before":["testcp.com.ye"],"classification":"review","date":"2026-10-18","event_id":"70cacaed648d6a208149","field":"cname","hostname":"www.testcp.com.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-18","event_id":"19de66dbe84b823eb620","field":"status","hostname":"www.testcp.com.ye","schema_version":1}
+{"after":"2026101801","before":"2024102201","classification":"telemetry","date":"2026-10-18","event_id":"457609c60504c39f411b","field":"soa_serial","hostname":"yemeniapps.ye","schema_version":1}
