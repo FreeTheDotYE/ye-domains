@@ -247,7 +247,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.23.13"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -256,7 +258,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "host-test.sohobcom.ye"
     },
@@ -296,7 +298,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.15.13"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -305,7 +309,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "mail.sohobcom.ye"
     },
