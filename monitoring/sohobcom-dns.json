@@ -1529,6 +1529,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "ehsaan.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "eman-univ.edu.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
