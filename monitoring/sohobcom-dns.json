@@ -247,6 +247,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "host-test.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "195.94.23.13"
         ],
@@ -278,6 +293,21 @@
         "status": "no_records"
       },
       "hostname": "imap.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "mail.sohobcom.ye"
     },
     {
       "dns": {
@@ -2846,6 +2876,16 @@
         "sah3.ye"
       ],
       "domain": "sccholding.net.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "sciyyp.gov.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
