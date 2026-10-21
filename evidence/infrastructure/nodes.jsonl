@@ -1391,6 +1391,7 @@
 {"kind":"domain","node_id":"domain:swf.gov.ye","schema_version":1,"value":"swf.gov.ye"}
 {"kind":"domain","node_id":"domain:swslc-yemen.com.ye","schema_version":1,"value":"swslc-yemen.com.ye"}
 {"kind":"domain","node_id":"domain:syepco.com.ye","schema_version":1,"value":"syepco.com.ye"}
+{"kind":"domain","node_id":"domain:sykespumps.ye","schema_version":1,"value":"sykespumps.ye"}
 {"kind":"domain","node_id":"domain:syncc.edu.ye","schema_version":1,"value":"syncc.edu.ye"}
 {"kind":"domain","node_id":"domain:szi.com.ye","schema_version":1,"value":"szi.com.ye"}
 {"kind":"domain","node_id":"domain:tabibi.ye","schema_version":1,"value":"tabibi.ye"}
@@ -5809,6 +5810,7 @@
 {"kind":"hostname","node_id":"hostname:swf.gov.ye","schema_version":1,"value":"swf.gov.ye"}
 {"kind":"hostname","node_id":"hostname:swslc-yemen.com.ye","schema_version":1,"value":"swslc-yemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:syepco.com.ye","schema_version":1,"value":"syepco.com.ye"}
+{"kind":"hostname","node_id":"hostname:sykespumps.ye","schema_version":1,"value":"sykespumps.ye"}
 {"kind":"hostname","node_id":"hostname:sync.ebdaasoft.com.ye","schema_version":1,"value":"sync.ebdaasoft.com.ye"}
 {"kind":"hostname","node_id":"hostname:syncc-edu-ye.mail.protection.outlook.com","schema_version":1,"value":"syncc-edu-ye.mail.protection.outlook.com"}
 {"kind":"hostname","node_id":"hostname:syncc.edu.ye","schema_version":1,"value":"syncc.edu.ye"}
@@ -7703,6 +7705,7 @@
 {"kind":"hostname","node_id":"hostname:www.millennum.com.ye","schema_version":1,"value":"www.millennum.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.millionaire.mtn.com.ye","schema_version":1,"value":"www.millionaire.mtn.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.mineaction.ye","schema_version":1,"value":"www.mineaction.ye"}
+{"kind":"hostname","node_id":"hostname:www.mit.com.ye","schema_version":1,"value":"www.mit.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.miticti.alraziuni.edu.ye","schema_version":1,"value":"www.miticti.alraziuni.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.mitopro.gia.gov.ye","schema_version":1,"value":"www.mitopro.gia.gov.ye"}
 {"kind":"hostname","node_id":"hostname:www.mmc.edu.ye","schema_version":1,"value":"www.mmc.edu.ye"}
@@ -8125,6 +8128,7 @@
 {"kind":"hostname","node_id":"hostname:www.swf.gov.ye","schema_version":1,"value":"www.swf.gov.ye"}
 {"kind":"hostname","node_id":"hostname:www.swslc-yemen.com.ye","schema_version":1,"value":"www.swslc-yemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.syepco.com.ye","schema_version":1,"value":"www.syepco.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.sykespumps.ye","schema_version":1,"value":"www.sykespumps.ye"}
 {"kind":"hostname","node_id":"hostname:www.syncc.edu.ye","schema_version":1,"value":"www.syncc.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.szi.com.ye","schema_version":1,"value":"www.szi.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.tabibi.ye","schema_version":1,"value":"www.tabibi.ye"}
