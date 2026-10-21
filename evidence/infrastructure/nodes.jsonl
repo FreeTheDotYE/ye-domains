@@ -2077,6 +2077,7 @@
 {"kind":"hostname","node_id":"hostname:amte.com.ye","schema_version":1,"value":"amte.com.ye"}
 {"kind":"hostname","node_id":"hostname:amu.edu.ye","schema_version":1,"value":"amu.edu.ye"}
 {"kind":"hostname","node_id":"hostname:ana.com.ye","schema_version":1,"value":"ana.com.ye"}
+{"kind":"hostname","node_id":"hostname:analytics.qtech.com.ye","schema_version":1,"value":"analytics.qtech.com.ye"}
 {"kind":"hostname","node_id":"hostname:anas.y.net.ye","schema_version":1,"value":"anas.y.net.ye"}
 {"kind":"hostname","node_id":"hostname:and.com.ye","schema_version":1,"value":"and.com.ye"}
 {"kind":"hostname","node_id":"hostname:annajm.com.ye","schema_version":1,"value":"annajm.com.ye"}
@@ -5656,6 +5657,7 @@
 {"kind":"hostname","node_id":"hostname:selam-world.com.ye","schema_version":1,"value":"selam-world.com.ye"}
 {"kind":"hostname","node_id":"hostname:selamworld.com.ye","schema_version":1,"value":"selamworld.com.ye"}
 {"kind":"hostname","node_id":"hostname:sensetrading.com.ye","schema_version":1,"value":"sensetrading.com.ye"}
+{"kind":"hostname","node_id":"hostname:sentrys.sofa.ye","schema_version":1,"value":"sentrys.sofa.ye"}
 {"kind":"hostname","node_id":"hostname:sepoc.ye","schema_version":1,"value":"sepoc.ye"}
 {"kind":"hostname","node_id":"hostname:sepocye.com.ye","schema_version":1,"value":"sepocye.com.ye"}
 {"kind":"hostname","node_id":"hostname:sepp.com.ye","schema_version":1,"value":"sepp.com.ye"}
@@ -6779,6 +6781,7 @@
 {"kind":"hostname","node_id":"hostname:wkalh-almizan.com.ye","schema_version":1,"value":"wkalh-almizan.com.ye"}
 {"kind":"hostname","node_id":"hostname:wncyemen.com.ye","schema_version":1,"value":"wncyemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:wolflubes.ye","schema_version":1,"value":"wolflubes.ye"}
+{"kind":"hostname","node_id":"hostname:worker.analytics.qtech.com.ye","schema_version":1,"value":"worker.analytics.qtech.com.ye"}
 {"kind":"hostname","node_id":"hostname:workflow.yemenmobile.com.ye","schema_version":1,"value":"workflow.yemenmobile.com.ye"}
 {"kind":"hostname","node_id":"hostname:worldline.com.ye","schema_version":1,"value":"worldline.com.ye"}
 {"kind":"hostname","node_id":"hostname:worldtrust.com.ye","schema_version":1,"value":"worldtrust.com.ye"}
@@ -8565,6 +8568,7 @@
 {"kind":"hostname","node_id":"hostname:ygsmrb.org.ye","schema_version":1,"value":"ygsmrb.org.ye"}
 {"kind":"hostname","node_id":"hostname:ygsmrbmail.ygsmrb.org.ye","schema_version":1,"value":"ygsmrbmail.ygsmrb.org.ye"}
 {"kind":"hostname","node_id":"hostname:ygu.edu.ye","schema_version":1,"value":"ygu.edu.ye"}
+{"kind":"hostname","node_id":"hostname:yhis.moh.gov.ye","schema_version":1,"value":"yhis.moh.gov.ye"}
 {"kind":"hostname","node_id":"hostname:yiic.com.ye","schema_version":1,"value":"yiic.com.ye"}
 {"kind":"hostname","node_id":"hostname:yiig.gov.ye","schema_version":1,"value":"yiig.gov.ye"}
 {"kind":"hostname","node_id":"hostname:yinor.com.ye","schema_version":1,"value":"yinor.com.ye"}
