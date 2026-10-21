@@ -2387,14 +2387,26 @@
 {"after":[],"before":["ns1.bdm.microsoftonline.com"],"classification":"review","date":"2026-10-21","event_id":"08e4f65419898da27139","field":"soa_mname","hostname":"altaf.org.ye","schema_version":1}
 {"after":"","before":"1","classification":"telemetry","date":"2026-10-21","event_id":"b4cf659bbaddf237e4d9","field":"soa_serial","hostname":"altaf.org.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"5a377e67d9aa09c66c5c","field":"status","hostname":"altaf.org.ye","schema_version":1}
+{"after":[],"before":["89.116.109.210","91.108.103.178"],"classification":"informational","date":"2026-10-21","event_id":"1ffdeff92e654df251b5","field":"a","hostname":"alumni.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:26:bd28:59eb:3cd1:7677:2f3a","2a02:4780:35:4fed:f467:3fbf:6785:ef2f"],"classification":"informational","date":"2026-10-21","event_id":"e0eaae8856aeb639dabe","field":"aaaa","hostname":"alumni.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"62efc24ceba2c8e10137","field":"status","hostname":"alumni.qau.edu.ye","schema_version":1}
 {"after":[],"before":["84.247.178.100"],"classification":"informational","date":"2026-10-21","event_id":"50528bb435c8e47ae235","field":"a","hostname":"ammma.edu.ye","schema_version":1}
 {"after":[],"before":["0 ammma.edu.ye"],"classification":"review","date":"2026-10-21","event_id":"ce45286ba6f8a8f69fc5","field":"mx","hostname":"ammma.edu.ye","schema_version":1}
 {"after":[],"before":["cp1.privatesystems.net","cp2.privatesystems.net","cp3.privatesystems.net","cp4.privatesystems.net"],"classification":"review","date":"2026-10-21","event_id":"b3eab46756a6bbbadb58","field":"ns","hostname":"ammma.edu.ye","schema_version":1}
 {"after":[],"before":["cp1.privatesystems.net"],"classification":"review","date":"2026-10-21","event_id":"215874b39111147aed8a","field":"soa_mname","hostname":"ammma.edu.ye","schema_version":1}
 {"after":"","before":"2026082603","classification":"telemetry","date":"2026-10-21","event_id":"76aed4a4152b55522dbc","field":"soa_serial","hostname":"ammma.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"1095407a9636ac87c2c2","field":"status","hostname":"ammma.edu.ye","schema_version":1}
+{"after":"2418040270","before":"2417162016","classification":"telemetry","date":"2026-10-21","event_id":"7fb7238d169d392119a7","field":"soa_serial","hostname":"ams.com.ye","schema_version":1}
 {"after":["178.238.229.139"],"before":[],"classification":"informational","date":"2026-10-21","event_id":"03d21ea1b161814c9204","field":"a","hostname":"analytics.qtech.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"1e9e8597f31061a485d7","field":"status","hostname":"analytics.qtech.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"0b44bcacbcf91f95fd0a","field":"status","hostname":"app.qau.edu.ye","schema_version":1}
+{"after":[],"before":["82.180.168.144"],"classification":"informational","date":"2026-10-21","event_id":"457599b9a1a4d4702c7a","field":"a","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:b:1647:0:9d4:9347:3"],"classification":"informational","date":"2026-10-21","event_id":"96401055fb892bcb88c3","field":"aaaa","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["1 smtp.google.com","10 mx1.titan.email","20 mx2.titan.email"],"classification":"review","date":"2026-10-21","event_id":"5c2ce629792e7731a72a","field":"mx","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["ns1.dns-parking.com","ns2.dns-parking.com"],"classification":"review","date":"2026-10-21","event_id":"6f7e9c2175370c836dbe","field":"ns","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["ns1.dns-parking.com"],"classification":"review","date":"2026-10-21","event_id":"e0c5592527171c8cba62","field":"soa_mname","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":"","before":"2026101501","classification":"telemetry","date":"2026-10-21","event_id":"d9b7eead3ab548810933","field":"soa_serial","hostname":"arwauniversity.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"79d80db28fa29b2443e5","field":"status","hostname":"arwauniversity.edu.ye","schema_version":1}
 {"after":[],"before":["72.52.135.56"],"classification":"informational","date":"2026-10-21","event_id":"69e89edd53a463c0e6be","field":"a","hostname":"autoconfig.gwm.com.ye","schema_version":1}
 {"after":[],"before":["gwm.com.ye"],"classification":"review","date":"2026-10-21","event_id":"d0a50e1413d535550d87","field":"cname","hostname":"autoconfig.gwm.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"43a14c29cc4a663e1617","field":"status","hostname":"autoconfig.gwm.com.ye","schema_version":1}
@@ -2411,6 +2423,7 @@
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"0c5814d0027fd0a57624","field":"status","hostname":"autodiscover.niu.edu.ye","schema_version":1}
 {"after":[],"before":["178.238.227.11"],"classification":"informational","date":"2026-10-21","event_id":"19f83aed77f2ba33a593","field":"a","hostname":"autodiscover.smc.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"51dbead7624773d84d3f","field":"status","hostname":"autodiscover.smc.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"2f20a855cf83bf924c21","field":"status","hostname":"books.qau.edu.ye","schema_version":1}
 {"after":[],"before":["188.114.96.3","188.114.97.3"],"classification":"informational","date":"2026-10-21","event_id":"e66fafa6e33aa602e44a","field":"a","hostname":"cdn.rbt.unicell.com.ye","schema_version":1}
 {"after":[],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-21","event_id":"80598a32521dccafb7cf","field":"aaaa","hostname":"cdn.rbt.unicell.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"00a095e7db9216545bf7","field":"status","hostname":"cdn.rbt.unicell.com.ye","schema_version":1}
@@ -2433,8 +2446,13 @@
 {"after":[],"before":["ns1.site4now.net"],"classification":"review","date":"2026-10-21","event_id":"2630b7dc63051cff2c9d","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"","before":"2024100517","classification":"telemetry","date":"2026-10-21","event_id":"d05565757d3fa4c504cb","field":"soa_serial","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"61d8e051663dd7592b2b","field":"status","hostname":"daralmustafa.edu.ye","schema_version":1}
+{"after":[],"before":["185.77.97.137","91.108.103.169"],"classification":"informational","date":"2026-10-21","event_id":"babd91f7bb676b0783a3","field":"a","hostname":"elearning.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:25:182a:bbd8:f3c8:e2e3:193f","2a02:4780:26:572e:fdf4:2b83:1627:41c4"],"classification":"informational","date":"2026-10-21","event_id":"3c00520ad836b3cc0fd6","field":"aaaa","hostname":"elearning.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"f0b9d08dfd8fed3072a0","field":"status","hostname":"elearning.qau.edu.ye","schema_version":1}
 {"after":[],"before":["40.69.214.182"],"classification":"informational","date":"2026-10-21","event_id":"ad6058771b036c5ec98b","field":"a","hostname":"erp.altaf.org.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"b1298d506da1fa7c3cd8","field":"status","hostname":"erp.altaf.org.ye","schema_version":1}
+{"after":[],"before":["82.180.168.144"],"classification":"informational","date":"2026-10-21","event_id":"42a134c204a8ddd460c0","field":"a","hostname":"erp.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"20a2ad3c600b41845d85","field":"status","hostname":"erp.qau.edu.ye","schema_version":1}
 {"after":[],"before":["72.52.135.56"],"classification":"informational","date":"2026-10-21","event_id":"52777767959aba97ddf8","field":"a","hostname":"gwm.com.ye","schema_version":1}
 {"after":[],"before":["10 gwm.com.ye"],"classification":"review","date":"2026-10-21","event_id":"5c24e3f720813cbde8fd","field":"mx","hostname":"gwm.com.ye","schema_version":1}
 {"after":[],"before":["ns.liquidweb.com","ns1.liquidweb.com"],"classification":"review","date":"2026-10-21","event_id":"a040f3c387a78ec6771a","field":"ns","hostname":"gwm.com.ye","schema_version":1}
@@ -2446,6 +2464,16 @@
 {"after":[],"before":["dns1.safenames.com"],"classification":"review","date":"2026-10-21","event_id":"499c533a1e40c932e89a","field":"soa_mname","hostname":"haleon.com.ye","schema_version":1}
 {"after":"","before":"2022042202","classification":"telemetry","date":"2026-10-21","event_id":"ed3e9c85b847f22f021f","field":"soa_serial","hostname":"haleon.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"22045f43d9d38f0e3b9f","field":"status","hostname":"haleon.com.ye","schema_version":1}
+{"after":[],"before":["195.200.9.27","91.108.103.62"],"classification":"informational","date":"2026-10-21","event_id":"59c235799c5849f209f1","field":"a","hostname":"journal.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:26:ff41:6e46:bf8d:4f13:8a8b","2a02:4780:35:ff01:ea9f:b0e4:162c:2e8a"],"classification":"informational","date":"2026-10-21","event_id":"ec3c7a9811acb08040b2","field":"aaaa","hostname":"journal.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"291a9ecb1bd0f4cb146b","field":"status","hostname":"journal.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"6304d9c553585b0a7f90","field":"status","hostname":"journals.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"8ed7201341aa71c99ed3","field":"status","hostname":"libraries.qau.edu.ye","schema_version":1}
+{"after":[],"before":["82.180.168.144"],"classification":"informational","date":"2026-10-21","event_id":"1e7988748b185be5f0de","field":"a","hostname":"lms.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:26:f6e4:181e:1ba2:4b73:e573","2a02:4780:35:1fd2:fa4a:b4a6:107b:9c03"],"classification":"informational","date":"2026-10-21","event_id":"64127b257cc2947a0cc1","field":"aaaa","hostname":"lms.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"c45cd3b518649cc06a3c","field":"status","hostname":"lms.qau.edu.ye","schema_version":1}
+{"after":["104.21.59.31","172.67.211.238"],"before":["135.181.209.51"],"classification":"informational","date":"2026-10-21","event_id":"04e06fa2a3ec34912e9d","field":"a","hostname":"mail.ams.com.ye","schema_version":1}
+{"after":["2606:4700:3030::ac43:d3ee","2606:4700:3032::6815:3b1f"],"before":[],"classification":"informational","date":"2026-10-21","event_id":"3a3a5a9ae70b456b95d3","field":"aaaa","hostname":"mail.ams.com.ye","schema_version":1}
 {"after":[],"before":["72.52.135.56"],"classification":"informational","date":"2026-10-21","event_id":"ca1c12ec7dfa0a71f309","field":"a","hostname":"mail.gwm.com.ye","schema_version":1}
 {"after":[],"before":["gwm.com.ye"],"classification":"review","date":"2026-10-21","event_id":"35b2facb314b3b9f0419","field":"cname","hostname":"mail.gwm.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"748967a551187eb7d79b","field":"status","hostname":"mail.gwm.com.ye","schema_version":1}
@@ -2460,13 +2488,27 @@
 {"after":[],"before":["82.114.162.12"],"classification":"informational","date":"2026-10-21","event_id":"14571a47fc06b97bea78","field":"a","hostname":"mail.unicell.com.ye","schema_version":1}
 {"after":[],"before":["unicell.com.ye"],"classification":"review","date":"2026-10-21","event_id":"97cf721ed45b5562d83e","field":"cname","hostname":"mail.unicell.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"2c78e9eb77b837fbef56","field":"status","hostname":"mail.unicell.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"1bff0c2d01486d9b6214","field":"status","hostname":"new.qau.edu.ye","schema_version":1}
 {"after":[],"before":["192.250.235.94"],"classification":"informational","date":"2026-10-21","event_id":"6c90652d6ebcffe1bc0a","field":"a","hostname":"niu.edu.ye","schema_version":1}
 {"after":[],"before":["0 mail.niu.edu.ye"],"classification":"review","date":"2026-10-21","event_id":"964499962327ecda330f","field":"mx","hostname":"niu.edu.ye","schema_version":1}
 {"after":[],"before":["ns1.mysecurecloudhost.com","ns2.mysecurecloudhost.com","ns3.mysecurecloudhost.com","ns4.mysecurecloudhost.com"],"classification":"review","date":"2026-10-21","event_id":"b1115d05a8fc26003c7f","field":"ns","hostname":"niu.edu.ye","schema_version":1}
 {"after":[],"before":["ns1.mysecurecloudhost.com"],"classification":"review","date":"2026-10-21","event_id":"6ac3b1b5edcf4112234f","field":"soa_mname","hostname":"niu.edu.ye","schema_version":1}
 {"after":"","before":"2026100301","classification":"telemetry","date":"2026-10-21","event_id":"f0fd46a969e43dad9b35","field":"soa_serial","hostname":"niu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"09027ed8efd69bc87252","field":"status","hostname":"niu.edu.ye","schema_version":1}
+{"after":[],"before":["185.77.97.193","89.116.109.62"],"classification":"informational","date":"2026-10-21","event_id":"56dc2930a29839569c17","field":"a","hostname":"old.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:25:28ac:86ee:5618:fd76:977e","2a02:4780:35:2175:3935:b920:4481:4e71"],"classification":"informational","date":"2026-10-21","event_id":"e2a58fa38538b7b7fdec","field":"aaaa","hostname":"old.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"5c609ed8940405015a7a","field":"status","hostname":"old.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"13ddfdc39bc285fabe21","field":"status","hostname":"projects.qau.edu.ye","schema_version":1}
+{"after":[],"before":["185.77.97.229","195.200.9.195"],"classification":"informational","date":"2026-10-21","event_id":"9971ec1a1d214d27bed5","field":"a","hostname":"qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:25:30a9:41b:80:67f0:f19a","2a02:4780:35:674d:73a1:f103:fc61:ed5d"],"classification":"informational","date":"2026-10-21","event_id":"4e37a10da536daaa2c85","field":"aaaa","hostname":"qau.edu.ye","schema_version":1}
+{"after":[],"before":["0 qau-edu-ye.mail.protection.outlook.com"],"classification":"review","date":"2026-10-21","event_id":"ea74b10b1b9a9ea6a105","field":"mx","hostname":"qau.edu.ye","schema_version":1}
+{"after":[],"before":["ns1.dns-parking.com","ns2.dns-parking.com"],"classification":"review","date":"2026-10-21","event_id":"d5502c474f1619e91835","field":"ns","hostname":"qau.edu.ye","schema_version":1}
+{"after":[],"before":["ns1.dns-parking.com"],"classification":"review","date":"2026-10-21","event_id":"75f4cb3c377a7ece88c4","field":"soa_mname","hostname":"qau.edu.ye","schema_version":1}
+{"after":"","before":"2026101501","classification":"telemetry","date":"2026-10-21","event_id":"7039633aebd8afc81b2e","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"1e0acd1b44895398e5dc","field":"status","hostname":"qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"a1909df5ef140ad5f9b4","field":"status","hostname":"request.qau.edu.ye","schema_version":1}
 {"after":"2418009376","before":"2417868473","classification":"telemetry","date":"2026-10-21","event_id":"5a529d9e93db7077bbfb","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"acfc2fd46b796b04fd20","field":"status","hostname":"ror.qau.edu.ye","schema_version":1}
 {"after":[],"before":["188.114.96.3","188.114.97.3"],"classification":"informational","date":"2026-10-21","event_id":"8e73a86a5715dae6cade","field":"a","hostname":"ru.edu.ye","schema_version":1}
 {"after":[],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-21","event_id":"9678bce5e9a922fb8d8c","field":"aaaa","hostname":"ru.edu.ye","schema_version":1}
 {"after":[],"before":["10 igw05.site4now.net"],"classification":"review","date":"2026-10-21","event_id":"783e5c5e0416608d5f34","field":"mx","hostname":"ru.edu.ye","schema_version":1}
@@ -2477,6 +2519,7 @@
 {"after":"2026102008","before":"2026100206","classification":"telemetry","date":"2026-10-21","event_id":"c9d05654580e09fcb077","field":"soa_serial","hostname":"sbiyemen.com.ye","schema_version":1}
 {"after":["82.114.181.151"],"before":[],"classification":"informational","date":"2026-10-21","event_id":"7af02ce42d812386d1f5","field":"a","hostname":"sentrys.sofa.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"e2fe3dabac6df2455177","field":"status","hostname":"sentrys.sofa.ye","schema_version":1}
+{"after":"2026102101","before":"2026100501","classification":"telemetry","date":"2026-10-21","event_id":"9a53873d507c79cbfb63","field":"soa_serial","hostname":"sheba.com.ye","schema_version":1}
 {"after":[],"before":["82.114.162.21"],"classification":"informational","date":"2026-10-21","event_id":"41d8a5721ce9e989a851","field":"a","hostname":"shohadaa.gov.ye","schema_version":1}
 {"after":[],"before":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye","20 mail.shohadaa.gov.ye"],"classification":"review","date":"2026-10-21","event_id":"10ab4c3b383a21f205aa","field":"mx","hostname":"shohadaa.gov.ye","schema_version":1}
 {"after":[],"before":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"classification":"review","date":"2026-10-21","event_id":"838042bbf618ff9ef02e","field":"ns","hostname":"shohadaa.gov.ye","schema_version":1}
@@ -2505,6 +2548,9 @@
 {"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":["cash.ns.cloudflare.com","delilah.ns.cloudflare.com"],"classification":"review","date":"2026-10-21","event_id":"12a927e36cbdec2d74d6","field":"ns","hostname":"unicell.com.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye"],"before":["cash.ns.cloudflare.com"],"classification":"review","date":"2026-10-21","event_id":"fe1dbc47de6415e361e8","field":"soa_mname","hostname":"unicell.com.ye","schema_version":1}
 {"after":"2026102009","before":"2417240346","classification":"telemetry","date":"2026-10-21","event_id":"7c304e7351d16431b846","field":"soa_serial","hostname":"unicell.com.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"e3709ddc5091c1e4c736","field":"status","hostname":"unirank.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"86d186edaa87794f04db","field":"status","hostname":"waheeba.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"4462b6808dea10aa1029","field":"status","hostname":"web.qau.edu.ye","schema_version":1}
 {"after":[],"before":["192.250.235.94"],"classification":"informational","date":"2026-10-21","event_id":"67cbf48a35fd5d1e47be","field":"a","hostname":"webdisk.niu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"b49f3695454429a85e3b","field":"status","hostname":"webdisk.niu.edu.ye","schema_version":1}
 {"after":[],"before":["72.52.135.56"],"classification":"informational","date":"2026-10-21","event_id":"8926a9d98fabb93ff9df","field":"a","hostname":"webmail.gwm.com.ye","schema_version":1}
@@ -2524,6 +2570,10 @@
 {"after":[],"before":["84.247.178.100"],"classification":"informational","date":"2026-10-21","event_id":"5675237023bd525ee7f5","field":"a","hostname":"www.ammma.edu.ye","schema_version":1}
 {"after":[],"before":["ammma.edu.ye"],"classification":"review","date":"2026-10-21","event_id":"e353b89ce284416c571c","field":"cname","hostname":"www.ammma.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"f86b705d0041a28e3301","field":"status","hostname":"www.ammma.edu.ye","schema_version":1}
+{"after":[],"before":["82.180.168.144"],"classification":"informational","date":"2026-10-21","event_id":"f0f1cfdfeb5545e24eed","field":"a","hostname":"www.arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:b:1647:0:9d4:9347:3"],"classification":"informational","date":"2026-10-21","event_id":"1d478fd99aa0291e76f5","field":"aaaa","hostname":"www.arwauniversity.edu.ye","schema_version":1}
+{"after":[],"before":["arwauniversity.edu.ye"],"classification":"review","date":"2026-10-21","event_id":"5009f12cd43e68b277a8","field":"cname","hostname":"www.arwauniversity.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"c93150e71199e01d0db7","field":"status","hostname":"www.arwauniversity.edu.ye","schema_version":1}
 {"after":[],"before":["208.98.35.76"],"classification":"informational","date":"2026-10-21","event_id":"cbbd2aa8667571375b55","field":"a","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"7123d98b0a64507b74a3","field":"status","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":[],"before":["82.114.162.12"],"classification":"informational","date":"2026-10-21","event_id":"2e2ff4c499a923d1267e","field":"a","hostname":"www.dua.unicell.com.ye","schema_version":1}
@@ -2533,6 +2583,7 @@
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"3a51ee7bdb1df196fbaa","field":"status","hostname":"www.gwm.com.ye","schema_version":1}
 {"after":[],"before":["217.19.248.132"],"classification":"informational","date":"2026-10-21","event_id":"7bc2717028f292a764bf","field":"a","hostname":"www.haleon.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"5b6bec199eff667543f7","field":"status","hostname":"www.haleon.com.ye","schema_version":1}
+{"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-10-21","event_id":"dd2361011bf3cd02b3a4","field":"aaaa","hostname":"www.hic.edu.ye","schema_version":1}
 {"after":[],"before":["192.250.235.94"],"classification":"informational","date":"2026-10-21","event_id":"484f50fc4f5003534939","field":"a","hostname":"www.lms.niu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"c87c95a233e2c55c87c1","field":"status","hostname":"www.lms.niu.edu.ye","schema_version":1}
 {"after":[],"before":["192.250.235.94"],"classification":"informational","date":"2026-10-21","event_id":"1720ad98624b15ad01b4","field":"a","hostname":"www.moodle.niu.edu.ye","schema_version":1}
@@ -2540,6 +2591,10 @@
 {"after":[],"before":["192.250.235.94"],"classification":"informational","date":"2026-10-21","event_id":"8a8bc4c1ce52a6c5cf8d","field":"a","hostname":"www.niu.edu.ye","schema_version":1}
 {"after":[],"before":["niu.edu.ye"],"classification":"review","date":"2026-10-21","event_id":"7169a48d0721ace3aa42","field":"cname","hostname":"www.niu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"bcf692c452e198823639","field":"status","hostname":"www.niu.edu.ye","schema_version":1}
+{"after":[],"before":["195.200.9.200","89.116.109.55"],"classification":"informational","date":"2026-10-21","event_id":"7e15ea092d94809c68ee","field":"a","hostname":"www.qau.edu.ye","schema_version":1}
+{"after":[],"before":["2a02:4780:26:3925:56f0:5ba0:d0a:99c8","2a02:4780:35:5923:cec8:aec7:f08a:a02b"],"classification":"informational","date":"2026-10-21","event_id":"669bcf1e8c146ff5aca9","field":"aaaa","hostname":"www.qau.edu.ye","schema_version":1}
+{"after":[],"before":["www.qau.edu.ye.cdn.hstgr.net"],"classification":"review","date":"2026-10-21","event_id":"500ac55507b51665f40e","field":"cname","hostname":"www.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"b479afd1adea7f90f891","field":"status","hostname":"www.qau.edu.ye","schema_version":1}
 {"after":[],"before":["82.114.162.12"],"classification":"informational","date":"2026-10-21","event_id":"c4b7939af1e10fb1f4a6","field":"a","hostname":"www.rbt.unicell.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"07511e15fe97a25a9409","field":"status","hostname":"www.rbt.unicell.com.ye","schema_version":1}
 {"after":[],"before":["82.114.162.12"],"classification":"informational","date":"2026-10-21","event_id":"adaef1322fc07608bc89","field":"a","hostname":"www.rd.unicell.com.ye","schema_version":1}
@@ -2548,6 +2603,7 @@
 {"after":[],"before":["188.114.96.3","188.114.97.3"],"classification":"informational","date":"2026-10-21","event_id":"dbbb3db919028f8a6a0a","field":"a","hostname":"www.ru.edu.ye","schema_version":1}
 {"after":[],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-21","event_id":"07c71559aeb00571cfd1","field":"aaaa","hostname":"www.ru.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"39c3773d0dc89f0719f3","field":"status","hostname":"www.ru.edu.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-21","event_id":"884bb8790d5cda3a986e","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-21","event_id":"4cf96442708161f9e95b","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-21","event_id":"8dea3942e82601079222","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":[],"before":["178.238.227.11"],"classification":"informational","date":"2026-10-21","event_id":"2ca92f752a1db9d8b5a5","field":"a","hostname":"www.smc.com.ye","schema_version":1}
@@ -2559,6 +2615,8 @@
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"729b2edfd0ce96f7eaf3","field":"status","hostname":"www.test.unicell.com.ye","schema_version":1}
 {"after":[],"before":["82.114.162.12"],"classification":"informational","date":"2026-10-21","event_id":"59e44cd002e4c0acb2d4","field":"a","hostname":"www.tones.unicell.com.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"e97706a932afd62aef93","field":"status","hostname":"www.tones.unicell.com.ye","schema_version":1}
+{"after":[],"before":["www.waheeba.qau.edu.ye.cdn.hstgr.net"],"classification":"review","date":"2026-10-21","event_id":"894e1cf6e3a29010a270","field":"cname","hostname":"www.waheeba.qau.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-21","event_id":"4db995e98d13b2738659","field":"status","hostname":"www.waheeba.qau.edu.ye","schema_version":1}
 {"after":"2026102006","before":"2025103105","classification":"telemetry","date":"2026-10-21","event_id":"a872e87df29b82536f1c","field":"soa_serial","hostname":"yemen.com.ye","schema_version":1}
 {"after":"2026091802","before":"2026091801","classification":"telemetry","date":"2026-10-21","event_id":"e267b99df0af4d48785b","field":"soa_serial","hostname":"yemen.net.ye","schema_version":1}
 {"after":["78.137.73.18"],"before":[],"classification":"informational","date":"2026-10-21","event_id":"bc6c0064c25aa4f90334","field":"a","hostname":"yhis.moh.gov.ye","schema_version":1}
