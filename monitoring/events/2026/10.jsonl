@@ -2372,3 +2372,6 @@
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-20","event_id":"a22ce22063c1592df77a","field":"status","hostname":"www.website-6078d907.alrayan-university.edu.ye","schema_version":1}
 {"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-20","event_id":"fbe934e54f5ba12dacbc","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"2026101940","before":"2026101840","classification":"telemetry","date":"2026-10-20","event_id":"9681b69e660d08b0d858","field":"soa_serial","hostname":"yemenia.com.ye","schema_version":1}
+{"after":[],"before":["78.137.78.4"],"classification":"informational","date":"2026-10-21","event_id":"3493faed4f14b5db0d60","field":"a","hostname":"mail.shohadaa.gov.ye","schema_version":1}
+{"after":"no_records","before":"records_present","classification":"review","date":"2026-10-21","event_id":"b05031b55513a8334a94","field":"status","hostname":"mail.shohadaa.gov.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-21","event_id":"8dea3942e82601079222","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
