@@ -2653,6 +2653,11 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"111ec330102d04397a37","field":"status","hostname":"alhuda-mk.me.ye","schema_version":1}
 {"after":"2026102100","before":"2026102000","classification":"telemetry","date":"2026-10-22","event_id":"7c67fb5e8011240b9195","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2026102201","before":"2026101501","classification":"telemetry","date":"2026-10-22","event_id":"3a397388f8676392c21b","field":"soa_serial","hostname":"alrowaduni.edu.ye","schema_version":1}
+{"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-10-22","event_id":"182953ccaa029fdb7e4d","field":"a","hostname":"bennoman.com.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"c18e511a44fed47f9829","field":"ns","hostname":"bennoman.com.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"7ce376d9ed93aad6e8a9","field":"soa_mname","hostname":"bennoman.com.ye","schema_version":1}
+{"after":"2026102002","before":"","classification":"telemetry","date":"2026-10-22","event_id":"a1582ad80ff27d28c654","field":"soa_serial","hostname":"bennoman.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"6644148424beab98a23a","field":"status","hostname":"bennoman.com.ye","schema_version":1}
 {"after":"2026102201","before":"2026101501","classification":"telemetry","date":"2026-10-22","event_id":"21523d7731455f1dfe48","field":"soa_serial","hostname":"borouge.com.ye","schema_version":1}
 {"after":"2026102201","before":"2026101501","classification":"telemetry","date":"2026-10-22","event_id":"2fbf11e9902aaa64e611","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
 {"after":"2026102201","before":"2026101501","classification":"telemetry","date":"2026-10-22","event_id":"06d28e43df1e46a738ed","field":"soa_serial","hostname":"hu.edu.ye","schema_version":1}
@@ -2670,6 +2675,9 @@
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"a8e6633119b5bd908b6f","field":"soa_mname","hostname":"vitaspharmacy.com.ye","schema_version":1}
 {"after":"2026042101","before":"","classification":"telemetry","date":"2026-10-22","event_id":"668b1ab6dc0d64290afd","field":"soa_serial","hostname":"vitaspharmacy.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"8e14ba1ab5c5fc542932","field":"status","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-22","event_id":"f54e7f4df721de5d5283","field":"a","hostname":"www.ikea.com.ye","schema_version":1}
+{"after":["ikea.com.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"e6b8f67dfbbe2cfdbd94","field":"cname","hostname":"www.ikea.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"fad387ec3743ded62c7c","field":"status","hostname":"www.ikea.com.ye","schema_version":1}
 {"after":["78.137.73.16"],"before":[],"classification":"informational","date":"2026-10-22","event_id":"42244317e5144ab7833b","field":"a","hostname":"www.mmdrive.ye","schema_version":1}
 {"after":["mmdrive.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"dca87a519f54a90c9799","field":"cname","hostname":"www.mmdrive.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"6e544104a97337219d6b","field":"status","hostname":"www.mmdrive.ye","schema_version":1}
