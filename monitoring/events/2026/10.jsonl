@@ -2644,3 +2644,12 @@
 {"after":"2026091802","before":"2026091801","classification":"telemetry","date":"2026-10-21","event_id":"e267b99df0af4d48785b","field":"soa_serial","hostname":"yemen.net.ye","schema_version":1}
 {"after":["78.137.73.18"],"before":[],"classification":"informational","date":"2026-10-21","event_id":"bc6c0064c25aa4f90334","field":"a","hostname":"yhis.moh.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-21","event_id":"47ab81b1bfa9e511b313","field":"status","hostname":"yhis.moh.gov.ye","schema_version":1}
+{"after":"2026102109","before":"","classification":"telemetry","date":"2026-10-22","event_id":"6bc1766f2474f037e7ee","field":"soa_serial","hostname":"sykespumps.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-22","event_id":"c5e2222ef5a7ae58ab35","field":"a","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"c8cfe66e29533103df62","field":"ns","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"a8e6633119b5bd908b6f","field":"soa_mname","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":"2026042101","before":"","classification":"telemetry","date":"2026-10-22","event_id":"668b1ab6dc0d64290afd","field":"soa_serial","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"8e14ba1ab5c5fc542932","field":"status","hostname":"vitaspharmacy.com.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-22","event_id":"0ecd5f28c9337f34ee66","field":"a","hostname":"www.vitaspharmacy.com.ye","schema_version":1}
+{"after":["vitaspharmacy.com.ye"],"before":[],"classification":"review","date":"2026-10-22","event_id":"b81180d54a24ddff1101","field":"cname","hostname":"www.vitaspharmacy.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-22","event_id":"ae2a198496a0f549b43d","field":"status","hostname":"www.vitaspharmacy.com.ye","schema_version":1}

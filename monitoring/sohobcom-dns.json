@@ -2,7 +2,7 @@
   "apex_addresses": [
     "185.112.201.30"
   ],
-  "as_of_date": "2026-10-21",
+  "as_of_date": "2026-10-22",
   "authoritative_mail_targets": [
     "gateway.sohobcom.ye",
     "gateway2.sohobcom.ye",
@@ -3532,6 +3532,16 @@
         "sah3.ye"
       ],
       "domain": "vertexlifts.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "vitaspharmacy.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
