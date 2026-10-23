@@ -2776,6 +2776,7 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"7cae6aa661e89df49c3f","field":"a","hostname":"slo.gov.ye","schema_version":1}
 {"after":"2026102306","before":"2025120105","classification":"telemetry","date":"2026-10-23","event_id":"4aa5b89a4fad296e5ede","field":"soa_serial","hostname":"slo.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"be1ce575bd593c75f611","field":"a","hostname":"smc.gov.ye","schema_version":1}
+{"after":"2026102226","before":"2025122725","classification":"telemetry","date":"2026-10-23","event_id":"d6ace83a08d9f46cd9fc","field":"soa_serial","hostname":"smc.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"ac0a7013d146ea5aa468","field":"a","hostname":"snacc.gov.ye","schema_version":1}
 {"after":"2026102323","before":"2026031322","classification":"telemetry","date":"2026-10-23","event_id":"97162840dfefe33d04b4","field":"soa_serial","hostname":"snacc.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"cd5d47b9fd59d5e3fd3a","field":"a","hostname":"svoc.ye","schema_version":1}
@@ -2800,6 +2801,7 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"83b5e465d39345f7a816","field":"a","hostname":"www.sadah.gov.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-23","event_id":"e2567df265f0c5f0e3d7","field":"status","hostname":"www.sbc.hsa.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"c736e9ba453f8452d2bc","field":"a","hostname":"www.scc.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-23","event_id":"2fb0b9d9fe77994a2878","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-23","event_id":"b9e6588ec83a5bcc9e1e","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"37effa11724c0d9231b0","field":"a","hostname":"www.slo.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"2f012408fc4d50660618","field":"a","hostname":"www.smc.gov.ye","schema_version":1}
@@ -2818,4 +2820,5 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"55984c60c7d20ee2a8c9","field":"a","hostname":"yemenvision.gov.ye","schema_version":1}
 {"after":"2026102324","before":"2025110223","classification":"telemetry","date":"2026-10-23","event_id":"b2a8009d55beddf123ad","field":"soa_serial","hostname":"yemenvision.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"9e152c7e7605be4a4385","field":"a","hostname":"yiig.gov.ye","schema_version":1}
+{"after":"2026102321","before":"2025102820","classification":"telemetry","date":"2026-10-23","event_id":"2736825bfe2df5f716d8","field":"soa_serial","hostname":"yiig.gov.ye","schema_version":1}
 {"after":"2026102208","before":"2026081005","classification":"telemetry","date":"2026-10-23","event_id":"ea95dc7496abfc01890a","field":"soa_serial","hostname":"ymail.ye","schema_version":1}
