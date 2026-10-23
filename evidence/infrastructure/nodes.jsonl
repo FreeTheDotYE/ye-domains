@@ -4,6 +4,7 @@
 {"kind":"asn","node_id":"asn:14061","schema_version":1,"value":"14061"}
 {"kind":"asn","node_id":"asn:14948","schema_version":1,"value":"14948"}
 {"kind":"asn","node_id":"asn:15169","schema_version":1,"value":"15169"}
+{"kind":"asn","node_id":"asn:15557","schema_version":1,"value":"15557"}
 {"kind":"asn","node_id":"asn:16276","schema_version":1,"value":"16276"}
 {"kind":"asn","node_id":"asn:16509","schema_version":1,"value":"16509"}
 {"kind":"asn","node_id":"asn:19318","schema_version":1,"value":"19318"}
@@ -9317,6 +9318,7 @@
 {"kind":"ip_address","node_id":"ip_address:77.237.241.197","schema_version":1,"value":"77.237.241.197"}
 {"kind":"ip_address","node_id":"ip_address:77.42.21.11","schema_version":1,"value":"77.42.21.11"}
 {"kind":"ip_address","node_id":"ip_address:77.90.8.230","schema_version":1,"value":"77.90.8.230"}
+{"kind":"ip_address","node_id":"ip_address:78.127.77.146","schema_version":1,"value":"78.127.77.146"}
 {"kind":"ip_address","node_id":"ip_address:78.128.81.144","schema_version":1,"value":"78.128.81.144"}
 {"kind":"ip_address","node_id":"ip_address:78.137.73.10","schema_version":1,"value":"78.137.73.10"}
 {"kind":"ip_address","node_id":"ip_address:78.137.73.11","schema_version":1,"value":"78.137.73.11"}
@@ -9766,6 +9768,7 @@
 {"kind":"network_prefix","node_id":"network_prefix:77.237.240.0/21","schema_version":1,"value":"77.237.240.0/21"}
 {"kind":"network_prefix","node_id":"network_prefix:77.42.0.0/17","schema_version":1,"value":"77.42.0.0/17"}
 {"kind":"network_prefix","node_id":"network_prefix:77.90.8.0/24","schema_version":1,"value":"77.90.8.0/24"}
+{"kind":"network_prefix","node_id":"network_prefix:78.112.0.0/12","schema_version":1,"value":"78.112.0.0/12"}
 {"kind":"network_prefix","node_id":"network_prefix:78.128.81.0/24","schema_version":1,"value":"78.128.81.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:78.137.72.0/21","schema_version":1,"value":"78.137.72.0/21"}
 {"kind":"network_prefix","node_id":"network_prefix:78.140.143.0/24","schema_version":1,"value":"78.140.143.0/24"}
@@ -10307,6 +10310,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:860d370386be33d47fd324126b832b3ba00ebb8f3d6115e8550423809fb42a0f","schema_version":1,"value":"860d370386be33d47fd324126b832b3ba00ebb8f3d6115e8550423809fb42a0f"}
 {"kind":"tls_certificate","node_id":"tls_certificate:862a7fc19b1c22a354d3b7981fcc174cc7aa079ed21220623592e31d804d6730","schema_version":1,"value":"862a7fc19b1c22a354d3b7981fcc174cc7aa079ed21220623592e31d804d6730"}
 {"kind":"tls_certificate","node_id":"tls_certificate:86a26834703325cfcde8a9ca41ee06f6d3b09581980f59afb21434a2473c5ee3","schema_version":1,"value":"86a26834703325cfcde8a9ca41ee06f6d3b09581980f59afb21434a2473c5ee3"}
+{"kind":"tls_certificate","node_id":"tls_certificate:86a6b368180ab1265f7f252c6ba121174fea126671f26f8e9eef524b15530fc0","schema_version":1,"value":"86a6b368180ab1265f7f252c6ba121174fea126671f26f8e9eef524b15530fc0"}
 {"kind":"tls_certificate","node_id":"tls_certificate:87037f8f3a274d830982525d14a4cda6a95cf2f63b236656c6ce8a7b4ba6c126","schema_version":1,"value":"87037f8f3a274d830982525d14a4cda6a95cf2f63b236656c6ce8a7b4ba6c126"}
 {"kind":"tls_certificate","node_id":"tls_certificate:8714ae7c29e7fa7960afe1ed989744fe18bf5596dc40a2c435f4897739fd934a","schema_version":1,"value":"8714ae7c29e7fa7960afe1ed989744fe18bf5596dc40a2c435f4897739fd934a"}
 {"kind":"tls_certificate","node_id":"tls_certificate:87204d328fb5859dc0c0bf10a1ed427417beb2b7e4105fa18a977290d49e03c6","schema_version":1,"value":"87204d328fb5859dc0c0bf10a1ed427417beb2b7e4105fa18a977290d49e03c6"}
