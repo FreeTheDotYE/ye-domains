@@ -3,10 +3,10 @@
     "discovered-hostnames.csv": "a25b0487e4bf679d30e8fc74259b322a25384888e8ace6c683a993195fb76d20",
     "events/2026/08.jsonl": "775e5c6896d32b54aabf47922b2edae3c62ad238f0f109f4a41b76da2ac14553",
     "events/2026/09.jsonl": "96f84d2d26f8b24055678073a367ecec6a7afedca164361255fc35e5b8f9b03b",
-    "events/2026/10.jsonl": "71bc29927650264fd2da76cd71f4ff97d72c636af87125a440c618243a359c1e",
-    "latest.json": "cc839390ebe700dcafb072c794ae1b2c7ff6dfb2fed292af8848ab35011a517f",
-    "sohobcom-dns.json": "6306c8bad9c61a57de5485746c0cd8356903add95bacac6f08762ea167f3348b",
-    "state.jsonl": "3ad8a3fe3d6c0ea12afb6fb8880e2a7d3c15259198e7dbf06e6d2e5ee6b56a44"
+    "events/2026/10.jsonl": "f1d47d7a907acd506a10eb23c2462dce7db22b66ae0b63ae8d1a0378c56385b6",
+    "latest.json": "7bbcc204e7b14bea1252c4dfe6499ac5c0b7de18957e291396534d0a45ab2228",
+    "sohobcom-dns.json": "d1ef4cb2a5029cbe65fef1ff003fc3b8ace8c47df54cf80feda8fd798c1da10d",
+    "state.jsonl": "481fb08fb4380bbc0094842fd0aff2e252c8caf219f23b08d1513f736eda043e"
   },
   "schema_version": 1
 }

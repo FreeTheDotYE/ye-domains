@@ -2831,6 +2831,8 @@
 {"after":"2026102321","before":"2025102820","classification":"telemetry","date":"2026-10-23","event_id":"2736825bfe2df5f716d8","field":"soa_serial","hostname":"yiig.gov.ye","schema_version":1}
 {"after":"2026102208","before":"2026081005","classification":"telemetry","date":"2026-10-23","event_id":"ea95dc7496abfc01890a","field":"soa_serial","hostname":"ymail.ye","schema_version":1}
 {"after":"2026102300","before":"2026102200","classification":"telemetry","date":"2026-10-24","event_id":"6dbc9d6ccb6f38c3ded7","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
+{"after":["195.94.15.30"],"before":[],"classification":"informational","date":"2026-10-24","event_id":"1a64a051c8e01958cee5","field":"a","hostname":"bookings.almasirah.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-24","event_id":"e223ba28ad4f78ac52de","field":"status","hostname":"bookings.almasirah.com.ye","schema_version":1}
 {"after":["104.21.3.114","172.67.130.167"],"before":[],"classification":"informational","date":"2026-10-24","event_id":"0790c0639a798d6cf759","field":"a","hostname":"cdn.mersalmygoods.com.ye","schema_version":1}
 {"after":["2606:4700:3033::ac43:82a7","2606:4700:3036::6815:372"],"before":[],"classification":"informational","date":"2026-10-24","event_id":"840776ff427019061e87","field":"aaaa","hostname":"cdn.mersalmygoods.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-24","event_id":"0a1ea0800b7f19ba2df3","field":"status","hostname":"cdn.mersalmygoods.com.ye","schema_version":1}
@@ -2839,6 +2841,8 @@
 {"after":"2418244479","before":"2413675483","classification":"telemetry","date":"2026-10-24","event_id":"16f5f42d4934e0829d00","field":"soa_serial","hostname":"mersalmygoods.com.ye","schema_version":1}
 {"after":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"before":["ns-1501.awsdns-59.org","ns-1999.awsdns-57.co.uk","ns-278.awsdns-34.com","ns-773.awsdns-32.net"],"classification":"review","date":"2026-10-24","event_id":"b1509fe1421cfc223d11","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["ns-1354.awsdns-41.org"],"before":["ns-1333.awsdns-38.org"],"classification":"review","date":"2026-10-24","event_id":"3f885103a58c4636db1c","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["195.94.23.15"],"before":[],"classification":"informational","date":"2026-10-24","event_id":"1703521a07ba18c22ed1","field":"a","hostname":"speed.sohobcom.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-24","event_id":"3136b74873a36b6bfd82","field":"status","hostname":"speed.sohobcom.ye","schema_version":1}
 {"after":"2026102307","before":"2026101806","classification":"telemetry","date":"2026-10-24","event_id":"d9ed739771651bbd6452","field":"soa_serial","hostname":"usr.edu.ye","schema_version":1}
 {"after":[],"before":["185.250.37.31"],"classification":"informational","date":"2026-10-24","event_id":"70e4b41557d7991fdb5c","field":"a","hostname":"www.ctp.usr.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-24","event_id":"6627f24ea542a35e8a22","field":"status","hostname":"www.ctp.usr.edu.ye","schema_version":1}
@@ -2846,6 +2850,7 @@
 {"after":["rasidyonline.com.ye"],"before":[],"classification":"review","date":"2026-10-24","event_id":"82242c3a1c6762bbdb80","field":"cname","hostname":"www.rasidyonline.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-24","event_id":"d81c58cdef08b7b4f4ef","field":"status","hostname":"www.rasidyonline.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-24","event_id":"343e0c62610f925522ce","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-24","event_id":"574dfabba73fca4e4ddf","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-24","event_id":"b81e804779c3dc4d9e82","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-24","event_id":"709c9149f19e1e406034","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-24","event_id":"874f1c9107f61e0b663a","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}

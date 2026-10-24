@@ -426,7 +426,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.23.15"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -435,7 +437,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "speed.sohobcom.ye"
     },
