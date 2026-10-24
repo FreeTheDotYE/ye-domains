@@ -426,6 +426,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "speed.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "185.112.202.202"
         ],
