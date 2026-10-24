@@ -2830,3 +2830,9 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-23","event_id":"9e152c7e7605be4a4385","field":"a","hostname":"yiig.gov.ye","schema_version":1}
 {"after":"2026102321","before":"2025102820","classification":"telemetry","date":"2026-10-23","event_id":"2736825bfe2df5f716d8","field":"soa_serial","hostname":"yiig.gov.ye","schema_version":1}
 {"after":"2026102208","before":"2026081005","classification":"telemetry","date":"2026-10-23","event_id":"ea95dc7496abfc01890a","field":"soa_serial","hostname":"ymail.ye","schema_version":1}
+{"after":[],"before":["185.250.37.31"],"classification":"informational","date":"2026-10-24","event_id":"eeb0a19d40b1a151f55a","field":"a","hostname":"ctp.usr.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-24","event_id":"17bfc745171d329f53f9","field":"status","hostname":"ctp.usr.edu.ye","schema_version":1}
+{"after":"2418244479","before":"2413675483","classification":"telemetry","date":"2026-10-24","event_id":"16f5f42d4934e0829d00","field":"soa_serial","hostname":"mersalmygoods.com.ye","schema_version":1}
+{"after":[],"before":["185.250.37.31"],"classification":"informational","date":"2026-10-24","event_id":"70e4b41557d7991fdb5c","field":"a","hostname":"www.ctp.usr.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-24","event_id":"6627f24ea542a35e8a22","field":"status","hostname":"www.ctp.usr.edu.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-24","event_id":"343e0c62610f925522ce","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
