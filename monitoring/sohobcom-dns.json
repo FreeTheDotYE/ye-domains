@@ -1944,6 +1944,16 @@
     },
     {
       "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "hussam.me.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
         "sah1.ye"
       ],
       "domain": "hust.edu.ye",
@@ -3566,6 +3576,16 @@
         "sah3.ye"
       ],
       "domain": "unitedpharmacy.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
+      "domain": "universityguide.me.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
     },
