@@ -774,6 +774,7 @@
 {"kind":"domain","node_id":"domain:huawei.com.ye","schema_version":1,"value":"huawei.com.ye"}
 {"kind":"domain","node_id":"domain:hucom.edu.ye","schema_version":1,"value":"hucom.edu.ye"}
 {"kind":"domain","node_id":"domain:humanyemen.org.ye","schema_version":1,"value":"humanyemen.org.ye"}
+{"kind":"domain","node_id":"domain:hussam.me.ye","schema_version":1,"value":"hussam.me.ye"}
 {"kind":"domain","node_id":"domain:hust.edu.ye","schema_version":1,"value":"hust.edu.ye"}
 {"kind":"domain","node_id":"domain:hy-ye.com.ye","schema_version":1,"value":"hy-ye.com.ye"}
 {"kind":"domain","node_id":"domain:hypercall.com.ye","schema_version":1,"value":"hypercall.com.ye"}
@@ -1528,6 +1529,7 @@
 {"kind":"domain","node_id":"domain:unitedsoft.com.ye","schema_version":1,"value":"unitedsoft.com.ye"}
 {"kind":"domain","node_id":"domain:unitel-group.com.ye","schema_version":1,"value":"unitel-group.com.ye"}
 {"kind":"domain","node_id":"domain:uniten.com.ye","schema_version":1,"value":"uniten.com.ye"}
+{"kind":"domain","node_id":"domain:universityguide.me.ye","schema_version":1,"value":"universityguide.me.ye"}
 {"kind":"domain","node_id":"domain:updat-cor.com.ye","schema_version":1,"value":"updat-cor.com.ye"}
 {"kind":"domain","node_id":"domain:update.com.ye","schema_version":1,"value":"update.com.ye"}
 {"kind":"domain","node_id":"domain:updc.ye","schema_version":1,"value":"updc.ye"}
@@ -2376,6 +2378,7 @@
 {"kind":"hostname","node_id":"hostname:cert.mhru.edu.ye","schema_version":1,"value":"cert.mhru.edu.ye"}
 {"kind":"hostname","node_id":"hostname:cggyemen.com.ye","schema_version":1,"value":"cggyemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:championlubes.ye","schema_version":1,"value":"championlubes.ye"}
+{"kind":"hostname","node_id":"hostname:chatbot.futureuniversity.edu.ye","schema_version":1,"value":"chatbot.futureuniversity.edu.ye"}
 {"kind":"hostname","node_id":"hostname:chemico.com.ye","schema_version":1,"value":"chemico.com.ye"}
 {"kind":"hostname","node_id":"hostname:chicco.com.ye","schema_version":1,"value":"chicco.com.ye"}
 {"kind":"hostname","node_id":"hostname:childhome.org.ye","schema_version":1,"value":"childhome.org.ye"}
@@ -3558,6 +3561,7 @@
 {"kind":"hostname","node_id":"hostname:hucom.edu.ye","schema_version":1,"value":"hucom.edu.ye"}
 {"kind":"hostname","node_id":"hostname:hudaallah.tabsera.com.ye","schema_version":1,"value":"hudaallah.tabsera.com.ye"}
 {"kind":"hostname","node_id":"hostname:humanyemen.org.ye","schema_version":1,"value":"humanyemen.org.ye"}
+{"kind":"hostname","node_id":"hostname:hussam.me.ye","schema_version":1,"value":"hussam.me.ye"}
 {"kind":"hostname","node_id":"hostname:hust.edu.ye","schema_version":1,"value":"hust.edu.ye"}
 {"kind":"hostname","node_id":"hostname:hy-ye.com.ye","schema_version":1,"value":"hy-ye.com.ye"}
 {"kind":"hostname","node_id":"hostname:hydrogen.ns.hetzner.com","schema_version":1,"value":"hydrogen.ns.hetzner.com"}
@@ -6210,6 +6214,7 @@
 {"kind":"hostname","node_id":"hostname:unitedsoft.com.ye","schema_version":1,"value":"unitedsoft.com.ye"}
 {"kind":"hostname","node_id":"hostname:unitel-group.com.ye","schema_version":1,"value":"unitel-group.com.ye"}
 {"kind":"hostname","node_id":"hostname:uniten.com.ye","schema_version":1,"value":"uniten.com.ye"}
+{"kind":"hostname","node_id":"hostname:universityguide.me.ye","schema_version":1,"value":"universityguide.me.ye"}
 {"kind":"hostname","node_id":"hostname:univey.y.net.ye","schema_version":1,"value":"univey.y.net.ye"}
 {"kind":"hostname","node_id":"hostname:updat-cor.com.ye","schema_version":1,"value":"updat-cor.com.ye"}
 {"kind":"hostname","node_id":"hostname:update.com.ye","schema_version":1,"value":"update.com.ye"}
@@ -7189,6 +7194,7 @@
 {"kind":"hostname","node_id":"hostname:www.centralbank.gov.ye","schema_version":1,"value":"www.centralbank.gov.ye"}
 {"kind":"hostname","node_id":"hostname:www.cggyemen.com.ye","schema_version":1,"value":"www.cggyemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.championlubes.ye","schema_version":1,"value":"www.championlubes.ye"}
+{"kind":"hostname","node_id":"hostname:www.chatbot.futureuniversity.edu.ye","schema_version":1,"value":"www.chatbot.futureuniversity.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.chicco.com.ye","schema_version":1,"value":"www.chicco.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.chrysler.com.ye","schema_version":1,"value":"www.chrysler.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.ciit.com.ye","schema_version":1,"value":"www.ciit.com.ye"}
@@ -7525,6 +7531,7 @@
 {"kind":"hostname","node_id":"hostname:www.hucom.edu.ye","schema_version":1,"value":"www.hucom.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.hudaallah.tabsera.com.ye","schema_version":1,"value":"www.hudaallah.tabsera.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.humanyemen.org.ye","schema_version":1,"value":"www.humanyemen.org.ye"}
+{"kind":"hostname","node_id":"hostname:www.hussam.me.ye","schema_version":1,"value":"www.hussam.me.ye"}
 {"kind":"hostname","node_id":"hostname:www.hust.edu.ye","schema_version":1,"value":"www.hust.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.hy-ye.com.ye","schema_version":1,"value":"www.hy-ye.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.ibb-wslc.gov.ye","schema_version":1,"value":"www.ibb-wslc.gov.ye"}
@@ -8295,6 +8302,7 @@
 {"kind":"hostname","node_id":"hostname:www.unitedsoft.com.ye","schema_version":1,"value":"www.unitedsoft.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.unitel-group.com.ye","schema_version":1,"value":"www.unitel-group.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.uniten.com.ye","schema_version":1,"value":"www.uniten.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.universityguide.me.ye","schema_version":1,"value":"www.universityguide.me.ye"}
 {"kind":"hostname","node_id":"hostname:www.updat-cor.com.ye","schema_version":1,"value":"www.updat-cor.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.update.com.ye","schema_version":1,"value":"www.update.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.uptech.com.ye","schema_version":1,"value":"www.uptech.com.ye"}
@@ -8463,7 +8471,9 @@
 {"kind":"hostname","node_id":"hostname:www.yos.org.ye","schema_version":1,"value":"www.yos.org.ye"}
 {"kind":"hostname","node_id":"hostname:www.yostours.com.ye","schema_version":1,"value":"www.yostours.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.you-tele.com.ye","schema_version":1,"value":"www.you-tele.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.you-vtu.you.com.ye","schema_version":1,"value":"www.you-vtu.you.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.you.com.ye","schema_version":1,"value":"www.you.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.youapp.you.com.ye","schema_version":1,"value":"www.youapp.you.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.ypg.com.ye","schema_version":1,"value":"www.ypg.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.ypl.ye","schema_version":1,"value":"www.ypl.ye"}
 {"kind":"hostname","node_id":"hostname:www.ypo.gov.ye","schema_version":1,"value":"www.ypo.gov.ye"}
@@ -8637,7 +8647,9 @@
 {"kind":"hostname","node_id":"hostname:yos.org.ye","schema_version":1,"value":"yos.org.ye"}
 {"kind":"hostname","node_id":"hostname:yostours.com.ye","schema_version":1,"value":"yostours.com.ye"}
 {"kind":"hostname","node_id":"hostname:you-tele.com.ye","schema_version":1,"value":"you-tele.com.ye"}
+{"kind":"hostname","node_id":"hostname:you-vtu.you.com.ye","schema_version":1,"value":"you-vtu.you.com.ye"}
 {"kind":"hostname","node_id":"hostname:you.com.ye","schema_version":1,"value":"you.com.ye"}
+{"kind":"hostname","node_id":"hostname:youapp.you.com.ye","schema_version":1,"value":"youapp.you.com.ye"}
 {"kind":"hostname","node_id":"hostname:yp-trading.com.ye","schema_version":1,"value":"yp-trading.com.ye"}
 {"kind":"hostname","node_id":"hostname:ypc.gov.ye","schema_version":1,"value":"ypc.gov.ye"}
 {"kind":"hostname","node_id":"hostname:ypg.com.ye","schema_version":1,"value":"ypg.com.ye"}
@@ -10212,6 +10224,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:6bac29ac29f9dd95f87e4162da9d97052d5ef6eb71ff385d308458ab4061d3ad","schema_version":1,"value":"6bac29ac29f9dd95f87e4162da9d97052d5ef6eb71ff385d308458ab4061d3ad"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6bd218dce5daadcdfa4b22be63a2e21df428aa45b33de0207a333c50403567e1","schema_version":1,"value":"6bd218dce5daadcdfa4b22be63a2e21df428aa45b33de0207a333c50403567e1"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6be8323ef515fa2c045568813e09f9bd33681486fb9568fa6d6fa5a0c3ab3eb4","schema_version":1,"value":"6be8323ef515fa2c045568813e09f9bd33681486fb9568fa6d6fa5a0c3ab3eb4"}
+{"kind":"tls_certificate","node_id":"tls_certificate:6bfe41d2a023ea2a9f16b37779cab8cc25ec0503684f291149f94a1d1c77a2bd","schema_version":1,"value":"6bfe41d2a023ea2a9f16b37779cab8cc25ec0503684f291149f94a1d1c77a2bd"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6c28b6170bec14975b07c6ece239188cf5bb5e487e8e1fdc3540832042405ca6","schema_version":1,"value":"6c28b6170bec14975b07c6ece239188cf5bb5e487e8e1fdc3540832042405ca6"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6c7eaa51374c300e3e26088746d4c2ab7db4f268708dba9a68632baa896669c3","schema_version":1,"value":"6c7eaa51374c300e3e26088746d4c2ab7db4f268708dba9a68632baa896669c3"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6c8e35a335caeb8bf2212feb507c358d1fc722cc5284da74937a1e65931cf089","schema_version":1,"value":"6c8e35a335caeb8bf2212feb507c358d1fc722cc5284da74937a1e65931cf089"}
@@ -10223,6 +10236,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:6d44b65821d78c20dac4d65193c2cda0fcd6268b9609af5502887a05fb35b099","schema_version":1,"value":"6d44b65821d78c20dac4d65193c2cda0fcd6268b9609af5502887a05fb35b099"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6d48cfeebd3312340cfdefa63e28f9ac73d2e8475aacb666b19c331008e69601","schema_version":1,"value":"6d48cfeebd3312340cfdefa63e28f9ac73d2e8475aacb666b19c331008e69601"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6d73b9a8f2f3743e2525a694a8ade08b9db22991cea4421e07a678a1593df0be","schema_version":1,"value":"6d73b9a8f2f3743e2525a694a8ade08b9db22991cea4421e07a678a1593df0be"}
+{"kind":"tls_certificate","node_id":"tls_certificate:6d9e9d4fb114da1bfbfa69225769d5f4f342471557f1bde51fea942d1d4e1010","schema_version":1,"value":"6d9e9d4fb114da1bfbfa69225769d5f4f342471557f1bde51fea942d1d4e1010"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6dd81750647e2fabc0f2d90f5f617e98b654fc4e128f068d7f5197ead6483f70","schema_version":1,"value":"6dd81750647e2fabc0f2d90f5f617e98b654fc4e128f068d7f5197ead6483f70"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6e1a1d34683c6349e44b8fa0e968c10754a146163a72f86a2433bf724ba74d22","schema_version":1,"value":"6e1a1d34683c6349e44b8fa0e968c10754a146163a72f86a2433bf724ba74d22"}
 {"kind":"tls_certificate","node_id":"tls_certificate:6e4c8709414e6847380aaccb23c02f8c632c607fd96ec23928ca8cd941f100e1","schema_version":1,"value":"6e4c8709414e6847380aaccb23c02f8c632c607fd96ec23928ca8cd941f100e1"}
