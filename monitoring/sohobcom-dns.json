@@ -906,6 +906,16 @@
         "sah2.ye",
         "sah3.ye"
       ],
+      "domain": "alredacenter.com.ye",
+      "shared_apex_addresses": [],
+      "sohobcom_target_hosts": []
+    },
+    {
+      "authority_or_mail_targets": [
+        "sah1.ye",
+        "sah2.ye",
+        "sah3.ye"
+      ],
       "domain": "alsaeed.com.ye",
       "shared_apex_addresses": [],
       "sohobcom_target_hosts": []
