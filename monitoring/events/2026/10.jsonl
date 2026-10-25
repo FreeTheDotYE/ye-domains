@@ -2888,14 +2888,27 @@
 {"after":"2026102427","before":"2026030726","classification":"telemetry","date":"2026-10-25","event_id":"0bf04a01beac91a7c0d0","field":"soa_serial","hostname":"capitalsanaa.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"6f975e304e27c20443d4","field":"a","hostname":"cso.gov.ye","schema_version":1}
 {"after":"2026102421","before":"2025102820","classification":"telemetry","date":"2026-10-25","event_id":"6d0fc2d8aa840d0e0df3","field":"soa_serial","hostname":"cso.gov.ye","schema_version":1}
+{"after":"2418377233","before":"2416559613","classification":"telemetry","date":"2026-10-25","event_id":"423a7fa6500651c47f5e","field":"soa_serial","hostname":"eiu.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"fb1cfe5c389588f69d77","field":"a","hostname":"garwsp.org.ye","schema_version":1}
 {"after":"2026102406","before":"2026092705","classification":"telemetry","date":"2026-10-25","event_id":"5039148aca898deb7385","field":"soa_serial","hostname":"garwsp.org.ye","schema_version":1}
 {"after":"2418341819","before":"2414771142","classification":"telemetry","date":"2026-10-25","event_id":"4d182b9079b69c71b559","field":"soa_serial","hostname":"geedo.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"86c35712896b6288efbd","field":"a","hostname":"gspr.gov.ye","schema_version":1}
 {"after":"2026102403","before":"2025102902","classification":"telemetry","date":"2026-10-25","event_id":"f762baaf355a6c0761e7","field":"soa_serial","hostname":"gspr.gov.ye","schema_version":1}
 {"after":"2026102405","before":"2026101106","classification":"telemetry","date":"2026-10-25","event_id":"ac981349c8f78b44691b","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
+{"after":["82.114.162.55"],"before":[],"classification":"informational","date":"2026-10-25","event_id":"1bc982daefccc0f2bf3b","field":"a","hostname":"jobs.ptc.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-25","event_id":"3cd84bf43159f4ebe806","field":"status","hostname":"jobs.ptc.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"41335880dd56c60ca331","field":"a","hostname":"ltaa.gov.ye","schema_version":1}
 {"after":"2026102444","before":"2026092243","classification":"telemetry","date":"2026-10-25","event_id":"536778b38c12cca463d7","field":"soa_serial","hostname":"ltaa.gov.ye","schema_version":1}
+{"after":["78.137.78.4"],"before":[],"classification":"informational","date":"2026-10-25","event_id":"e7031e2d98304ff0f6d4","field":"a","hostname":"mail.shohadaa.gov.ye","schema_version":1}
+{"after":"records_present","before":"no_records","classification":"review","date":"2026-10-25","event_id":"3412e3da564226723d3c","field":"status","hostname":"mail.shohadaa.gov.ye","schema_version":1}
+{"after":["195.94.15.216"],"before":[],"classification":"informational","date":"2026-10-25","event_id":"e87fd400e978a6af05ae","field":"a","hostname":"sanctionssearch.hocc.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-25","event_id":"4d38c7480163238c31fd","field":"status","hostname":"sanctionssearch.hocc.gov.ye","schema_version":1}
+{"after":["82.114.162.21"],"before":[],"classification":"informational","date":"2026-10-25","event_id":"7d6031dc5cf87a06b09e","field":"a","hostname":"shohadaa.gov.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye","20 mail.shohadaa.gov.ye"],"before":[],"classification":"review","date":"2026-10-25","event_id":"02b9c9166913338cbaf9","field":"mx","hostname":"shohadaa.gov.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-25","event_id":"73f223d864eb377f462d","field":"ns","hostname":"shohadaa.gov.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-25","event_id":"3a1a4d8aee70bdf33295","field":"soa_mname","hostname":"shohadaa.gov.ye","schema_version":1}
+{"after":"2026102101","before":"","classification":"telemetry","date":"2026-10-25","event_id":"6fff828494e1a5d5a3be","field":"soa_serial","hostname":"shohadaa.gov.ye","schema_version":1}
+{"after":"records_present","before":"no_records","classification":"review","date":"2026-10-25","event_id":"bb094300a277f31476af","field":"status","hostname":"shohadaa.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"027cafadd04739aa5da7","field":"a","hostname":"trye.gov.ye","schema_version":1}
 {"after":"2026102428","before":"2026091226","classification":"telemetry","date":"2026-10-25","event_id":"bf7c8a027ef75edc9583","field":"soa_serial","hostname":"trye.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"424008ee2749dc230089","field":"a","hostname":"www.aghhajjah.gov.ye","schema_version":1}
@@ -2907,3 +2920,4 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"2d057272adeb7c409f90","field":"a","hostname":"www.ltaa.gov.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-25","event_id":"72666344bfbf49b67c65","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"4b71788799ca5b523fbc","field":"a","hostname":"www.trye.gov.ye","schema_version":1}
+{"after":["34.248.253.245","40.180.67.161","52.213.238.75"],"before":["40.180.67.161","52.213.238.75","54.220.65.5"],"classification":"informational","date":"2026-10-25","event_id":"5038d0f5ca86d100df0c","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
