@@ -2881,6 +2881,7 @@
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-24","event_id":"6376f328e5cd270f7af8","field":"status","hostname":"youapp.you.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"42ac9b4532ebff36cc63","field":"a","hostname":"aghhajjah.gov.ye","schema_version":1}
 {"after":"2026102423","before":"2025102922","classification":"telemetry","date":"2026-10-25","event_id":"16d06343e9eaaa84ae53","field":"soa_serial","hostname":"aghhajjah.gov.ye","schema_version":1}
+{"after":"2026102400","before":"2026102300","classification":"telemetry","date":"2026-10-25","event_id":"cdd8865f2ad6f5f18b0a","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"f3b0847c69cc4855a3f7","field":"a","hostname":"authmohe.gov.ye","schema_version":1}
 {"after":"2026102422","before":"2025102921","classification":"telemetry","date":"2026-10-25","event_id":"cc596b8983e624e9b526","field":"soa_serial","hostname":"authmohe.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"cc51b86b76079a7545dd","field":"a","hostname":"capitalsanaa.gov.ye","schema_version":1}
@@ -2904,4 +2905,5 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"3ea38b133beaf42bc0b8","field":"a","hostname":"www.garwsp.org.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"d8ee2d2351c37aba7658","field":"a","hostname":"www.gspr.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"2d057272adeb7c409f90","field":"a","hostname":"www.ltaa.gov.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-25","event_id":"72666344bfbf49b67c65","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"4b71788799ca5b523fbc","field":"a","hostname":"www.trye.gov.ye","schema_version":1}
