@@ -150,6 +150,7 @@
 {"kind":"domain","node_id":"domain:alaman.org.ye","schema_version":1,"value":"alaman.org.ye"}
 {"kind":"domain","node_id":"domain:alameen.ye","schema_version":1,"value":"alameen.ye"}
 {"kind":"domain","node_id":"domain:alamjad.edu.ye","schema_version":1,"value":"alamjad.edu.ye"}
+{"kind":"domain","node_id":"domain:alandalus.edu.ye","schema_version":1,"value":"alandalus.edu.ye"}
 {"kind":"domain","node_id":"domain:alanqa.com.ye","schema_version":1,"value":"alanqa.com.ye"}
 {"kind":"domain","node_id":"domain:alansar.org.ye","schema_version":1,"value":"alansar.org.ye"}
 {"kind":"domain","node_id":"domain:alaqel.hospital.ye","schema_version":1,"value":"alaqel.hospital.ye"}
@@ -227,6 +228,7 @@
 {"kind":"domain","node_id":"domain:alkirshi.com.ye","schema_version":1,"value":"alkirshi.com.ye"}
 {"kind":"domain","node_id":"domain:almadar.ye","schema_version":1,"value":"almadar.ye"}
 {"kind":"domain","node_id":"domain:almajara.com.ye","schema_version":1,"value":"almajara.com.ye"}
+{"kind":"domain","node_id":"domain:almansoob-trading.com.ye","schema_version":1,"value":"almansoob-trading.com.ye"}
 {"kind":"domain","node_id":"domain:almansoob.com.ye","schema_version":1,"value":"almansoob.com.ye"}
 {"kind":"domain","node_id":"domain:almarkazia.com.ye","schema_version":1,"value":"almarkazia.com.ye"}
 {"kind":"domain","node_id":"domain:almasirah.com.ye","schema_version":1,"value":"almasirah.com.ye"}
@@ -1888,6 +1890,7 @@
 {"kind":"hostname","node_id":"hostname:alaman.org.ye","schema_version":1,"value":"alaman.org.ye"}
 {"kind":"hostname","node_id":"hostname:alameen.ye","schema_version":1,"value":"alameen.ye"}
 {"kind":"hostname","node_id":"hostname:alamjad.edu.ye","schema_version":1,"value":"alamjad.edu.ye"}
+{"kind":"hostname","node_id":"hostname:alandalus.edu.ye","schema_version":1,"value":"alandalus.edu.ye"}
 {"kind":"hostname","node_id":"hostname:alanqa.com.ye","schema_version":1,"value":"alanqa.com.ye"}
 {"kind":"hostname","node_id":"hostname:alansar.org.ye","schema_version":1,"value":"alansar.org.ye"}
 {"kind":"hostname","node_id":"hostname:alaqel.hospital.ye","schema_version":1,"value":"alaqel.hospital.ye"}
@@ -1970,6 +1973,7 @@
 {"kind":"hostname","node_id":"hostname:almadar.ye","schema_version":1,"value":"almadar.ye"}
 {"kind":"hostname","node_id":"hostname:almajara.com.ye","schema_version":1,"value":"almajara.com.ye"}
 {"kind":"hostname","node_id":"hostname:almanhal.hsa.com.ye","schema_version":1,"value":"almanhal.hsa.com.ye"}
+{"kind":"hostname","node_id":"hostname:almansoob-trading.com.ye","schema_version":1,"value":"almansoob-trading.com.ye"}
 {"kind":"hostname","node_id":"hostname:almansoob.com.ye","schema_version":1,"value":"almansoob.com.ye"}
 {"kind":"hostname","node_id":"hostname:almarkazia.com.ye","schema_version":1,"value":"almarkazia.com.ye"}
 {"kind":"hostname","node_id":"hostname:almasirah.com.ye","schema_version":1,"value":"almasirah.com.ye"}
@@ -2366,6 +2370,7 @@
 {"kind":"hostname","node_id":"hostname:cash.ye","schema_version":1,"value":"cash.ye"}
 {"kind":"hostname","node_id":"hostname:cashub01.cacbank.com.ye","schema_version":1,"value":"cashub01.cacbank.com.ye"}
 {"kind":"hostname","node_id":"hostname:catyemen.ye","schema_version":1,"value":"catyemen.ye"}
+{"kind":"hostname","node_id":"hostname:cba.su.edu.ye","schema_version":1,"value":"cba.su.edu.ye"}
 {"kind":"hostname","node_id":"hostname:cby-ex01.centralbank.gov.ye","schema_version":1,"value":"cby-ex01.centralbank.gov.ye"}
 {"kind":"hostname","node_id":"hostname:cby.gov.ye","schema_version":1,"value":"cby.gov.ye"}
 {"kind":"hostname","node_id":"hostname:cby.ye","schema_version":1,"value":"cby.ye"}
