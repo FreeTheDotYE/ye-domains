@@ -2953,6 +2953,7 @@
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-25","event_id":"72666344bfbf49b67c65","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-25","event_id":"4b71788799ca5b523fbc","field":"a","hostname":"www.trye.gov.ye","schema_version":1}
 {"after":["34.248.253.245","40.180.67.161","52.213.238.75"],"before":["40.180.67.161","52.213.238.75","54.220.65.5"],"classification":"informational","date":"2026-10-25","event_id":"5038d0f5ca86d100df0c","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
+{"after":"2026102500","before":"2026102400","classification":"telemetry","date":"2026-10-26","event_id":"6866ca755d6e8e1c448d","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-26","event_id":"1ec85f7990d90539da90","field":"a","hostname":"carzone.me.ye","schema_version":1}
 {"after":["10 mail.carzone.me.ye"],"before":[],"classification":"review","date":"2026-10-26","event_id":"96023bdd53ff3ac21cb4","field":"mx","hostname":"carzone.me.ye","schema_version":1}
 {"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-26","event_id":"5fe8cdf1ba881fabe25a","field":"ns","hostname":"carzone.me.ye","schema_version":1}
@@ -2968,3 +2969,4 @@
 {"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-26","event_id":"fc89cebbe3bee4dfa707","field":"a","hostname":"www.carzone.me.ye","schema_version":1}
 {"after":["carzone.me.ye"],"before":[],"classification":"review","date":"2026-10-26","event_id":"12fc5d3172ae4836384b","field":"cname","hostname":"www.carzone.me.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-26","event_id":"9636fa1160e107a172f5","field":"status","hostname":"www.carzone.me.ye","schema_version":1}
+{"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-26","event_id":"d30dc2649eaf39e9de7f","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
