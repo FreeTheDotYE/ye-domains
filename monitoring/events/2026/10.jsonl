@@ -3013,10 +3013,16 @@
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-27","event_id":"46d4adfa97cafd20ec1d","field":"status","hostname":"dashboard.ibs.edu.ye","schema_version":1}
 {"after":"2026102655","before":"2026102253","classification":"telemetry","date":"2026-10-27","event_id":"0516fc95696938087d3c","field":"soa_serial","hostname":"hau.edu.ye","schema_version":1}
 {"after":["82.114.162.19"],"before":["78.137.77.146"],"classification":"informational","date":"2026-10-27","event_id":"aa1b293fd22fdf6b5bb5","field":"a","hostname":"journal.hau.edu.ye","schema_version":1}
+{"after":"2418575907","before":"2416958907","classification":"telemetry","date":"2026-10-27","event_id":"6104986b3b105176e461","field":"soa_serial","hostname":"msu.edu.ye","schema_version":1}
+{"after":"2418580512","before":"2417604734","classification":"telemetry","date":"2026-10-27","event_id":"88db157f7bcff1b1d68e","field":"soa_serial","hostname":"sanad.com.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"9cc9161cf71b9ebc1207","field":"a","hostname":"www.cs.gov.ye","schema_version":1}
 {"after":["cs.gov.ye"],"before":[],"classification":"review","date":"2026-10-27","event_id":"841a9056522006ae84c2","field":"cname","hostname":"www.cs.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-27","event_id":"d2a7990e486e884edb2f","field":"status","hostname":"www.cs.gov.ye","schema_version":1}
 {"after":["208.98.35.76"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"9e33f7a1f53decaaebe5","field":"a","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-27","event_id":"0b71dffe25bb9fcec2de","field":"status","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-27","event_id":"297d17a2f992692af692","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-27","event_id":"50d20be6179c1a1fc994","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":"2418546558","before":"2418478353","classification":"telemetry","date":"2026-10-27","event_id":"728aed3b489dae89bbd5","field":"soa_serial","hostname":"yementrack.com.ye","schema_version":1}
+{"after":"2026102702","before":"2026051001","classification":"telemetry","date":"2026-10-27","event_id":"0a6507b91463951725e9","field":"soa_serial","hostname":"you.com.ye","schema_version":1}
+{"after":["82.114.166.237"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"08b4c17afb0a89209109","field":"a","hostname":"youapp.you.com.ye","schema_version":1}
+{"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-27","event_id":"d5b338a9dd7ada83ddd8","field":"status","hostname":"youapp.you.com.ye","schema_version":1}
