@@ -3009,6 +3009,8 @@
 {"after":["ns1.site4now.net"],"before":[],"classification":"review","date":"2026-10-27","event_id":"f1adcabc592573436688","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"2024100517","before":"","classification":"telemetry","date":"2026-10-27","event_id":"1dc26a08d2589b00342f","field":"soa_serial","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-27","event_id":"9a07638cbeaeaf4d2b1e","field":"status","hostname":"daralmustafa.edu.ye","schema_version":1}
+{"after":["195.94.24.53"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"b63103a80200d272dfff","field":"a","hostname":"dashboard.ibs.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-27","event_id":"46d4adfa97cafd20ec1d","field":"status","hostname":"dashboard.ibs.edu.ye","schema_version":1}
 {"after":"2026102655","before":"2026102253","classification":"telemetry","date":"2026-10-27","event_id":"0516fc95696938087d3c","field":"soa_serial","hostname":"hau.edu.ye","schema_version":1}
 {"after":["82.114.162.19"],"before":["78.137.77.146"],"classification":"informational","date":"2026-10-27","event_id":"aa1b293fd22fdf6b5bb5","field":"a","hostname":"journal.hau.edu.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"9cc9161cf71b9ebc1207","field":"a","hostname":"www.cs.gov.ye","schema_version":1}
@@ -3017,3 +3019,4 @@
 {"after":["208.98.35.76"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"9e33f7a1f53decaaebe5","field":"a","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-27","event_id":"0b71dffe25bb9fcec2de","field":"status","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-27","event_id":"297d17a2f992692af692","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
+{"after":"2418546558","before":"2418478353","classification":"telemetry","date":"2026-10-27","event_id":"728aed3b489dae89bbd5","field":"soa_serial","hostname":"yementrack.com.ye","schema_version":1}
