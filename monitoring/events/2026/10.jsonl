@@ -3026,3 +3026,7 @@
 {"after":"2026102702","before":"2026051001","classification":"telemetry","date":"2026-10-27","event_id":"0a6507b91463951725e9","field":"soa_serial","hostname":"you.com.ye","schema_version":1}
 {"after":["82.114.166.237"],"before":[],"classification":"informational","date":"2026-10-27","event_id":"08b4c17afb0a89209109","field":"a","hostname":"youapp.you.com.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-10-27","event_id":"d5b338a9dd7ada83ddd8","field":"status","hostname":"youapp.you.com.ye","schema_version":1}
+{"after":["89.117.61.233"],"before":["5.189.151.137"],"classification":"informational","date":"2026-10-28","event_id":"fd30b1526ec19e44b494","field":"a","hostname":"bonyan.edu.ye","schema_version":1}
+{"after":"2026102721","before":"2023111418","classification":"telemetry","date":"2026-10-28","event_id":"4978b3e1d60f1e2569c1","field":"soa_serial","hostname":"bonyan.edu.ye","schema_version":1}
+{"after":["89.117.61.233"],"before":["5.189.151.137"],"classification":"informational","date":"2026-10-28","event_id":"b024cf9fe0bd16992d8a","field":"a","hostname":"www.bonyan.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-28","event_id":"7d5a5e0d420030700a92","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
