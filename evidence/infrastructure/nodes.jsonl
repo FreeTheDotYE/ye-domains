@@ -2334,6 +2334,7 @@
 {"kind":"hostname","node_id":"hostname:brit.ns.cloudflare.com","schema_version":1,"value":"brit.ns.cloudflare.com"}
 {"kind":"hostname","node_id":"hostname:britishcouncil.org.ye","schema_version":1,"value":"britishcouncil.org.ye"}
 {"kind":"hostname","node_id":"hostname:britishembassy.yemen.com.ye","schema_version":1,"value":"britishembassy.yemen.com.ye"}
+{"kind":"hostname","node_id":"hostname:bscx.moit.gov.ye","schema_version":1,"value":"bscx.moit.gov.ye"}
 {"kind":"hostname","node_id":"hostname:bst.ye","schema_version":1,"value":"bst.ye"}
 {"kind":"hostname","node_id":"hostname:bstc.com.ye","schema_version":1,"value":"bstc.com.ye"}
 {"kind":"hostname","node_id":"hostname:bugbounty.com.ye","schema_version":1,"value":"bugbounty.com.ye"}
