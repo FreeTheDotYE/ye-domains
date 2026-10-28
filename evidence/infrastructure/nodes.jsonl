@@ -9594,6 +9594,7 @@
 {"kind":"ip_address","node_id":"ip_address:89.116.109.55","schema_version":1,"value":"89.116.109.55"}
 {"kind":"ip_address","node_id":"ip_address:89.116.109.62","schema_version":1,"value":"89.116.109.62"}
 {"kind":"ip_address","node_id":"ip_address:89.116.109.76","schema_version":1,"value":"89.116.109.76"}
+{"kind":"ip_address","node_id":"ip_address:89.117.61.233","schema_version":1,"value":"89.117.61.233"}
 {"kind":"ip_address","node_id":"ip_address:91.108.103.109","schema_version":1,"value":"91.108.103.109"}
 {"kind":"ip_address","node_id":"ip_address:91.108.103.111","schema_version":1,"value":"91.108.103.111"}
 {"kind":"ip_address","node_id":"ip_address:91.108.103.135","schema_version":1,"value":"91.108.103.135"}
@@ -9860,6 +9861,7 @@
 {"kind":"network_prefix","node_id":"network_prefix:85.121.215.0/24","schema_version":1,"value":"85.121.215.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:88.222.222.0/24","schema_version":1,"value":"88.222.222.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:89.116.109.0/24","schema_version":1,"value":"89.116.109.0/24"}
+{"kind":"network_prefix","node_id":"network_prefix:89.117.48.0/20","schema_version":1,"value":"89.117.48.0/20"}
 {"kind":"network_prefix","node_id":"network_prefix:91.108.103.0/24","schema_version":1,"value":"91.108.103.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:91.108.121.0/24","schema_version":1,"value":"91.108.121.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:91.233.227.0/24","schema_version":1,"value":"91.233.227.0/24"}
