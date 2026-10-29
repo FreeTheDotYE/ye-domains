@@ -460,7 +460,9 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "195.94.23.14"
+        ],
         "aaaa": [],
         "cname": [],
         "dnskey": [],
@@ -469,7 +471,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "wiki.sohobcom.ye"
     },
