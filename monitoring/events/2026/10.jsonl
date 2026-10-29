@@ -3061,9 +3061,13 @@
 {"after":"2026102901","before":"2026102201","classification":"telemetry","date":"2026-10-29","event_id":"d8e58b9397d3b763b6fd","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
 {"after":"2026102901","before":"2026102601","classification":"telemetry","date":"2026-10-29","event_id":"4da1b73d84d40783a826","field":"soa_serial","hostname":"civilizationuniv.edu.ye","schema_version":1}
 {"after":["ns1.site4now.net"],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-29","event_id":"c551d40bf70667115600","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":["ns1.site4now.net"],"classification":"review","date":"2026-10-29","event_id":"d34377a3fe0a28b32f80","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"2024100517","before":"2026102403","classification":"telemetry","date":"2026-10-29","event_id":"936d987abe8a0bbb43cb","field":"soa_serial","hostname":"daralmustafa.edu.ye","schema_version":1}
+{"after":"2026102403","before":"2024100517","classification":"telemetry","date":"2026-10-29","event_id":"cdb1c0421d1ad0e8f86e","field":"soa_serial","hostname":"daralmustafa.edu.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-10-29","event_id":"8e793e8dd7ca04586d8e","field":"status","hostname":"ecc.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"a7c27c0fa669cb450d39","field":"a","hostname":"ees.amu.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"0727539ef552456a2422","field":"a","hostname":"eis.amu.edu.ye","schema_version":1}
+{"after":"2418734347","before":"2415708402","classification":"telemetry","date":"2026-10-29","event_id":"e4c9c605b07f07f0f7b4","field":"soa_serial","hostname":"elleen.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"f68d4eabe18fd94aeb85","field":"a","hostname":"eps.amu.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"9e7a5880ae2670245382","field":"a","hostname":"ftp.amu.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"5452e599fd29919a079e","field":"a","hostname":"ftp.nic.gov.ye","schema_version":1}
@@ -3075,6 +3079,7 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"4a163daed622a6844d1e","field":"a","hostname":"journal.hau.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"67526af8b76129e21b1a","field":"a","hostname":"lib.amu.edu.ye","schema_version":1}
 {"after":["82.114.162.19"],"before":["78.137.78.4"],"classification":"informational","date":"2026-10-29","event_id":"2e7c4372798f5c1d0992","field":"a","hostname":"mail.hoduniv.net.ye","schema_version":1}
+{"after":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"before":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"classification":"informational","date":"2026-10-29","event_id":"309e9fd18a5f6a077ab5","field":"aaaa","hostname":"mail.impact.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"78d08d59be0779ceefbc","field":"a","hostname":"nic.gov.ye","schema_version":1}
 {"after":"2026102820","before":"2025030719","classification":"telemetry","date":"2026-10-29","event_id":"f379d23c51e14cdab4d4","field":"soa_serial","hostname":"nic.gov.ye","schema_version":1}
 {"after":"2026102901","before":"2026102201","classification":"telemetry","date":"2026-10-29","event_id":"a4954b21a56e3d049b2a","field":"soa_serial","hostname":"pepa.com.ye","schema_version":1}
@@ -3094,12 +3099,15 @@
 {"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-10-29","event_id":"e3a7ffba9f84487ea43d","field":"a","hostname":"wiki.sohobcom.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-29","event_id":"a1d6774f8b9d16a1bb3c","field":"status","hostname":"wiki.sohobcom.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"9acb63a96fd6ba379003","field":"a","hostname":"www.amu.edu.ye","schema_version":1}
+{"after":["198.38.82.22"],"before":[],"classification":"informational","date":"2026-10-29","event_id":"6eabc7596592780322c0","field":"a","hostname":"www.healtheye.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-29","event_id":"5d6abf93f9e07a1ea33a","field":"status","hostname":"www.healtheye.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"583c9e56e18831bd1126","field":"a","hostname":"www.nic.gov.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-29","event_id":"66c4fd4483ae07b5ba09","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-10-29","event_id":"c4efda7cb5329651f793","field":"a","hostname":"www.shein.com.ye","schema_version":1}
 {"after":["shein.com.ye"],"before":[],"classification":"review","date":"2026-10-29","event_id":"04c954556abe28a42037","field":"cname","hostname":"www.shein.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-29","event_id":"8a54fe440058e176f894","field":"status","hostname":"www.shein.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"df53cdb4b2e4694ddfa3","field":"a","hostname":"www.yeco.com.ye","schema_version":1}
+{"after":["13.248.160.137","76.223.34.124"],"before":["75.2.43.150","99.83.186.106"],"classification":"informational","date":"2026-10-29","event_id":"f3f20df0196cdc255b64","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"1793232000","before":"1792627200","classification":"telemetry","date":"2026-10-29","event_id":"08953a8c5f30c71cccf3","field":"soa_serial","hostname":"yang.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"4ad2f9af94152c96f23a","field":"a","hostname":"yeco.com.ye","schema_version":1}
 {"after":"2026102824","before":"2025103023","classification":"telemetry","date":"2026-10-29","event_id":"83d04089928c821a1578","field":"soa_serial","hostname":"yeco.com.ye","schema_version":1}
