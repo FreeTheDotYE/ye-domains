@@ -3060,6 +3060,7 @@
 {"after":"2026102901","before":"2026102201","classification":"telemetry","date":"2026-10-29","event_id":"bdf71d049efc41613943","field":"soa_serial","hostname":"borouge.com.ye","schema_version":1}
 {"after":"2026102901","before":"2026102201","classification":"telemetry","date":"2026-10-29","event_id":"d8e58b9397d3b763b6fd","field":"soa_serial","hostname":"cacservices.com.ye","schema_version":1}
 {"after":"2026102901","before":"2026102601","classification":"telemetry","date":"2026-10-29","event_id":"4da1b73d84d40783a826","field":"soa_serial","hostname":"civilizationuniv.edu.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns3.site4now.net"],"before":["ns1.site4now.net","ns2.site4now.net","ns3.site4now.net"],"classification":"review","date":"2026-10-29","event_id":"d7c1deef2f4299313a9e","field":"ns","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":["ns1.site4now.net"],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-29","event_id":"c551d40bf70667115600","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":["ns1.yemen.net.ye"],"before":["ns1.site4now.net"],"classification":"review","date":"2026-10-29","event_id":"d34377a3fe0a28b32f80","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":"2024100517","before":"2026102403","classification":"telemetry","date":"2026-10-29","event_id":"936d987abe8a0bbb43cb","field":"soa_serial","hostname":"daralmustafa.edu.ye","schema_version":1}
