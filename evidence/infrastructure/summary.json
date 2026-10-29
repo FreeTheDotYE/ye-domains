@@ -1,7 +1,7 @@
 {
   "active_edges": 24666,
   "as_of_date": "2026-10-29",
-  "edges": 25906,
+  "edges": 25908,
   "node_kinds": {
     "asn": 59,
     "dataset": 1,
@@ -17,11 +17,11 @@
     "cname_to": 699,
     "contains_hostname": 6639,
     "covered_by_prefix": 879,
-    "delegated_to": 3505,
+    "delegated_to": 3506,
     "mail_routed_to": 2933,
     "observed_in_web_archive": 680,
     "originated_by": 246,
-    "presents_certificate": 1791,
+    "presents_certificate": 1792,
     "registered_via": 1376,
     "resolves_to": 5660,
     "soa_authority": 1498
