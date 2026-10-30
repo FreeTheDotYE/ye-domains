@@ -315,6 +315,7 @@
 {"kind":"domain","node_id":"domain:alzubairiaa.com.ye","schema_version":1,"value":"alzubairiaa.com.ye"}
 {"kind":"domain","node_id":"domain:amadeus.com.ye","schema_version":1,"value":"amadeus.com.ye"}
 {"kind":"domain","node_id":"domain:amalikgc.com.ye","schema_version":1,"value":"amalikgc.com.ye"}
+{"kind":"domain","node_id":"domain:amamas.edu.ye","schema_version":1,"value":"amamas.edu.ye"}
 {"kind":"domain","node_id":"domain:aman.hospital.ye","schema_version":1,"value":"aman.hospital.ye"}
 {"kind":"domain","node_id":"domain:amana.ye","schema_version":1,"value":"amana.ye"}
 {"kind":"domain","node_id":"domain:amanaedu.gov.ye","schema_version":1,"value":"amanaedu.gov.ye"}
@@ -2084,6 +2085,7 @@
 {"kind":"hostname","node_id":"hostname:amadeus-com-ye.mail.protection.outlook.com","schema_version":1,"value":"amadeus-com-ye.mail.protection.outlook.com"}
 {"kind":"hostname","node_id":"hostname:amadeus.com.ye","schema_version":1,"value":"amadeus.com.ye"}
 {"kind":"hostname","node_id":"hostname:amalikgc.com.ye","schema_version":1,"value":"amalikgc.com.ye"}
+{"kind":"hostname","node_id":"hostname:amamas.edu.ye","schema_version":1,"value":"amamas.edu.ye"}
 {"kind":"hostname","node_id":"hostname:aman.hospital.ye","schema_version":1,"value":"aman.hospital.ye"}
 {"kind":"hostname","node_id":"hostname:amana.ye","schema_version":1,"value":"amana.ye"}
 {"kind":"hostname","node_id":"hostname:amanaedu.gov.ye","schema_version":1,"value":"amanaedu.gov.ye"}
@@ -7079,6 +7081,7 @@
 {"kind":"hostname","node_id":"hostname:www.alzuhra.bonyan.org.ye","schema_version":1,"value":"www.alzuhra.bonyan.org.ye"}
 {"kind":"hostname","node_id":"hostname:www.amadeus.com.ye","schema_version":1,"value":"www.amadeus.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.amalikgc.com.ye","schema_version":1,"value":"www.amalikgc.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.amamas.edu.ye","schema_version":1,"value":"www.amamas.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.aman.hospital.ye","schema_version":1,"value":"www.aman.hospital.ye"}
 {"kind":"hostname","node_id":"hostname:www.amanaedu.gov.ye","schema_version":1,"value":"www.amanaedu.gov.ye"}
 {"kind":"hostname","node_id":"hostname:www.amb.com.ye","schema_version":1,"value":"www.amb.com.ye"}
