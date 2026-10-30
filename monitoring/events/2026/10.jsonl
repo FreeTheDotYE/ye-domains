@@ -3112,3 +3112,6 @@
 {"after":"1793232000","before":"1792627200","classification":"telemetry","date":"2026-10-29","event_id":"08953a8c5f30c71cccf3","field":"soa_serial","hostname":"yang.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-10-29","event_id":"4ad2f9af94152c96f23a","field":"a","hostname":"yeco.com.ye","schema_version":1}
 {"after":"2026102824","before":"2025103023","classification":"telemetry","date":"2026-10-29","event_id":"83d04089928c821a1578","field":"soa_serial","hostname":"yeco.com.ye","schema_version":1}
+{"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-10-30","event_id":"58805d4f1ed1dbb32071","field":"aaaa","hostname":"mail.impact.com.ye","schema_version":1}
+{"after":["ns-1333.awsdns-38.org"],"before":["ns-1354.awsdns-41.org"],"classification":"review","date":"2026-10-30","event_id":"6126a3e8b60bacc0ad48","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-30","event_id":"007b5f2ea58472827fd4","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
