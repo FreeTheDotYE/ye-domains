@@ -3123,6 +3123,8 @@
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-30","event_id":"1a874e041ac8cd9e324a","field":"soa_mname","hostname":"amamas.edu.ye","schema_version":1}
 {"after":"2026102702","before":"","classification":"telemetry","date":"2026-10-30","event_id":"b8a36e49376bf5ed5b10","field":"soa_serial","hostname":"amamas.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-30","event_id":"3a96ddb8fc6d823afcbd","field":"status","hostname":"amamas.edu.ye","schema_version":1}
+{"after":["195.94.15.208"],"before":[],"classification":"informational","date":"2026-10-30","event_id":"091c6e55e73cdb57f900","field":"a","hostname":"baitalfaqeeh.bonyan.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-30","event_id":"a10dd50fb1e37af9fff6","field":"status","hostname":"baitalfaqeeh.bonyan.org.ye","schema_version":1}
 {"after":["208.98.35.76"],"before":["205.144.171.154"],"classification":"informational","date":"2026-10-30","event_id":"a95fb57b689c78eafb42","field":"a","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":["ns1.site4now.net","ns2.site4now.net","ns3.site4now.net"],"before":["ns1.yemen.net.ye","ns3.site4now.net"],"classification":"review","date":"2026-10-30","event_id":"a1ec0110dc1c18cf89ac","field":"ns","hostname":"daralmustafa.edu.ye","schema_version":1}
 {"after":["ns1.site4now.net"],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-10-30","event_id":"36d15bca3d3f86e5c1e4","field":"soa_mname","hostname":"daralmustafa.edu.ye","schema_version":1}
@@ -3130,6 +3132,8 @@
 {"after":["162.0.211.19"],"before":["216.158.231.74"],"classification":"informational","date":"2026-10-30","event_id":"b2dfd4b16e6911f3df8b","field":"a","hostname":"mail.aau.edu.ye","schema_version":1}
 {"after":["aau.edu.ye"],"before":[],"classification":"review","date":"2026-10-30","event_id":"970299309fa9d72825e7","field":"cname","hostname":"mail.aau.edu.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-10-30","event_id":"58805d4f1ed1dbb32071","field":"aaaa","hostname":"mail.impact.com.ye","schema_version":1}
+{"after":"2418809300","before":"2418575907","classification":"telemetry","date":"2026-10-30","event_id":"8d520618a3ab45ee0260","field":"soa_serial","hostname":"msu.edu.ye","schema_version":1}
+{"after":"2026103006","before":"2026102901","classification":"telemetry","date":"2026-10-30","event_id":"1ed9c129f5b7e1869b51","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
 {"after":["ns-1333.awsdns-38.org"],"before":["ns-1354.awsdns-41.org"],"classification":"review","date":"2026-10-30","event_id":"6126a3e8b60bacc0ad48","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["82.180.168.144"],"before":[],"classification":"informational","date":"2026-10-30","event_id":"aa60de78459233559dcf","field":"a","hostname":"waheeba.qau.edu.ye","schema_version":1}
 {"after":["2a02:4780:b:1647:0:9d4:9347:6"],"before":[],"classification":"informational","date":"2026-10-30","event_id":"81cf1aec05033ecdf05e","field":"aaaa","hostname":"waheeba.qau.edu.ye","schema_version":1}
@@ -3138,7 +3142,11 @@
 {"after":["185.112.200.247"],"before":[],"classification":"informational","date":"2026-10-30","event_id":"0ec73cbc833ec309dcc6","field":"a","hostname":"www.amamas.edu.ye","schema_version":1}
 {"after":["amamas.edu.ye"],"before":[],"classification":"review","date":"2026-10-30","event_id":"528d56b29b4948566a3d","field":"cname","hostname":"www.amamas.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-30","event_id":"2e20559182ef7b4db0cb","field":"status","hostname":"www.amamas.edu.ye","schema_version":1}
+{"after":["195.94.15.208"],"before":[],"classification":"informational","date":"2026-10-30","event_id":"e6bd90a856df19be9221","field":"a","hostname":"www.baitalfaqeeh.bonyan.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-30","event_id":"cc394454b4710b9d2e4d","field":"status","hostname":"www.baitalfaqeeh.bonyan.org.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-30","event_id":"7c8604599320b18846f4","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-30","event_id":"ed21388a2e4755ce1122","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-30","event_id":"47e3a6f02b3584e64da1","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":[],"before":["www.waheeba.qau.edu.ye.cdn.hstgr.net"],"classification":"review","date":"2026-10-30","event_id":"00dfec728507ad4d5ca6","field":"cname","hostname":"www.waheeba.qau.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-30","event_id":"d25517868a267296aefe","field":"status","hostname":"www.waheeba.qau.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-30","event_id":"007b5f2ea58472827fd4","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
