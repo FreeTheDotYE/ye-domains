@@ -3155,4 +3155,19 @@
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-10-30","event_id":"f160c5fc83462fe7d184","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
 {"after":"2026103000","before":"2026102900","classification":"telemetry","date":"2026-10-31","event_id":"0c0e0bf8c293ecb71534","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2026103005","before":"2026102405","classification":"telemetry","date":"2026-10-31","event_id":"9e510d2a1dc4c01aa979","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-31","event_id":"a2e290eec1099ac7831e","field":"a","hostname":"mail.sabex.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-31","event_id":"758d4487bd1005d4a0a3","field":"status","hostname":"mail.sabex.com.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-31","event_id":"459d332e248b139fee8d","field":"a","hostname":"sabex.com.ye","schema_version":1}
+{"after":["10 mail.sabex.com.ye"],"before":[],"classification":"review","date":"2026-10-31","event_id":"81becb4e0a90ac9d2cae","field":"mx","hostname":"sabex.com.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-10-31","event_id":"312c860f3ecb0e4501bd","field":"ns","hostname":"sabex.com.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-10-31","event_id":"3a1366b229db9af84204","field":"soa_mname","hostname":"sabex.com.ye","schema_version":1}
+{"after":"2026041803","before":"","classification":"telemetry","date":"2026-10-31","event_id":"8bfeaeb3b82f7faee7b2","field":"soa_serial","hostname":"sabex.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-31","event_id":"9e0620cbf0991b5b5715","field":"status","hostname":"sabex.com.ye","schema_version":1}
 {"after":["ns-1999.awsdns-57.co.uk"],"before":["ns-1333.awsdns-38.org"],"classification":"review","date":"2026-10-31","event_id":"0bc96de63d809c39be11","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["82.114.162.66"],"before":[],"classification":"informational","date":"2026-10-31","event_id":"a1e324ed55d5051609e0","field":"a","hostname":"www.awareness.org.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-31","event_id":"ff8b87ef09816eb50917","field":"status","hostname":"www.awareness.org.ye","schema_version":1}
+{"after":["205.144.171.154"],"before":["208.98.35.76"],"classification":"informational","date":"2026-10-31","event_id":"ebb638bbbbbea06fef10","field":"a","hostname":"www.daralmustafa.edu.ye","schema_version":1}
+{"after":["195.94.23.17"],"before":[],"classification":"informational","date":"2026-10-31","event_id":"ca3f85c24c5dddb8ec7c","field":"a","hostname":"www.sabex.com.ye","schema_version":1}
+{"after":["sabex.com.ye"],"before":[],"classification":"review","date":"2026-10-31","event_id":"71c0452ce6fac4cb742e","field":"cname","hostname":"www.sabex.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-10-31","event_id":"fcb57ac0ccecd7d99292","field":"status","hostname":"www.sabex.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-10-31","event_id":"592f427d9805ba3fe078","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
