@@ -1,9 +1,9 @@
 {
-  "confirmed_changes": 2,
-  "date": "2026-10-30",
-  "definitive": 6135,
+  "confirmed_changes": 1,
+  "date": "2026-10-31",
+  "definitive": 6146,
   "hostnames_checked": 6644,
-  "inconclusive": 509,
+  "inconclusive": 498,
   "new_dns_discoveries": 0,
   "pending_hostnames": 70,
   "schema_version": 1,

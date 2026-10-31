@@ -3153,3 +3153,4 @@
 {"after":"nxdomain","before":"records_present","classification":"review","date":"2026-10-30","event_id":"d25517868a267296aefe","field":"status","hostname":"www.waheeba.qau.edu.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-10-30","event_id":"007b5f2ea58472827fd4","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-10-30","event_id":"f160c5fc83462fe7d184","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
+{"after":"2026103005","before":"2026102405","classification":"telemetry","date":"2026-10-31","event_id":"9e510d2a1dc4c01aa979","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
