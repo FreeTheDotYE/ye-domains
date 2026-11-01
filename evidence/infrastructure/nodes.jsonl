@@ -2941,6 +2941,7 @@
 {"kind":"hostname","node_id":"hostname:crystal.ns.cloudflare.com","schema_version":1,"value":"crystal.ns.cloudflare.com"}
 {"kind":"hostname","node_id":"hostname:cs.gov.ye","schema_version":1,"value":"cs.gov.ye"}
 {"kind":"hostname","node_id":"hostname:csae.hoduniv.net.ye","schema_version":1,"value":"csae.hoduniv.net.ye"}
+{"kind":"hostname","node_id":"hostname:csea.hoduniv.net.ye","schema_version":1,"value":"csea.hoduniv.net.ye"}
 {"kind":"hostname","node_id":"hostname:csit.iutt.edu.ye","schema_version":1,"value":"csit.iutt.edu.ye"}
 {"kind":"hostname","node_id":"hostname:csit.std.iutt.edu.ye","schema_version":1,"value":"csit.std.iutt.edu.ye"}
 {"kind":"hostname","node_id":"hostname:csky.com.ye","schema_version":1,"value":"csky.com.ye"}
