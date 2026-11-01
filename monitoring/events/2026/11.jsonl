@@ -1,6 +1,7 @@
 {"after":["89.117.61.233"],"before":[],"classification":"informational","date":"2026-11-01","event_id":"03c4e2f2eb14d38bf135","field":"a","hostname":"admin.bonyan.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-01","event_id":"a99caffab5c7b6767dff","field":"status","hostname":"admin.bonyan.edu.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"ac0d92e32c50831d77db","field":"a","hostname":"admin.cra.gov.ye","schema_version":1}
+{"after":"2026103100","before":"2026103000","classification":"telemetry","date":"2026-11-01","event_id":"6aa50356307683c3d2e8","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":["10 server01.bonyan.edu.ye"],"before":["10 mail.bonyan.edu.ye"],"classification":"review","date":"2026-11-01","event_id":"a717851a312d8960f544","field":"mx","hostname":"bonyan.edu.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"88ead281efde6e9aff70","field":"a","hostname":"con.ygc.gov.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"2ba24646f22b0ff19e30","field":"a","hostname":"cra.gov.ye","schema_version":1}
@@ -13,10 +14,12 @@
 {"after":"2418940467","before":"2418093534","classification":"telemetry","date":"2026-11-01","event_id":"f65f9da2c4a48420403c","field":"soa_serial","hostname":"rhc.com.ye","schema_version":1}
 {"after":["89.117.61.233"],"before":[],"classification":"informational","date":"2026-11-01","event_id":"11fd59af95bffe85d53e","field":"a","hostname":"server01.bonyan.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-01","event_id":"56f54e7c6fc6d98b8a9e","field":"status","hostname":"server01.bonyan.edu.ye","schema_version":1}
+{"after":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"before":["ns-1062.awsdns-04.org","ns-1983.awsdns-55.co.uk","ns-871.awsdns-44.net","ns-95.awsdns-11.com"],"classification":"review","date":"2026-11-01","event_id":"b429bb1cf519e9a2ada4","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"1eb5efec93cb00bd6844","field":"a","hostname":"staticmohe.gov.ye","schema_version":1}
 {"after":"2026103123","before":"2024060822","classification":"telemetry","date":"2026-11-01","event_id":"3a08b760faa7d38e9ec3","field":"soa_serial","hostname":"staticmohe.gov.ye","schema_version":1}
 {"after":["89.117.61.233"],"before":[],"classification":"informational","date":"2026-11-01","event_id":"2e516b96aa9235bbc005","field":"a","hostname":"webmail.bonyan.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-01","event_id":"8bcef0348fe1bf7b6216","field":"status","hostname":"webmail.bonyan.edu.ye","schema_version":1}
+{"after":["107.154.148.117"],"before":["107.154.146.117"],"classification":"informational","date":"2026-11-01","event_id":"3587d9043a0cf67780bf","field":"a","hostname":"www.alsaeeduni.edu.ye","schema_version":1}
 {"after":[],"before":["bonyan.edu.ye"],"classification":"review","date":"2026-11-01","event_id":"26e135815cb0fd3cc1b9","field":"cname","hostname":"www.bonyan.edu.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"0750e5a8e6bff4fd38e4","field":"a","hostname":"www.cra.gov.ye","schema_version":1}
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"270214a53f258cded87a","field":"a","hostname":"www.ghosanaa.gov.ye","schema_version":1}
