@@ -58,6 +58,8 @@
 {"after":["78.137.77.148"],"before":["82.114.162.12"],"classification":"informational","date":"2026-11-01","event_id":"6640931e10b414d2812d","field":"a","hostname":"ygc.gov.ye","schema_version":1}
 {"after":"2026103131","before":"2026020130","classification":"telemetry","date":"2026-11-01","event_id":"52460ee0a3978be0e02f","field":"soa_serial","hostname":"ygc.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"48e2af1cce5f2c35e5fd","field":"a","hostname":"akram.hoduniv.net.ye","schema_version":1}
+{"after":"2419076055","before":"2418798780","classification":"telemetry","date":"2026-11-02","event_id":"cb1d0969b24b8969d717","field":"soa_serial","hostname":"alataa.edu.ye","schema_version":1}
+{"after":"2026110200","before":"2026103100","classification":"telemetry","date":"2026-11-02","event_id":"13fa46e4e749ae768d70","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2419056003","before":"2417047323","classification":"telemetry","date":"2026-11-02","event_id":"1f90f78857f9d27acf66","field":"soa_serial","hostname":"alraziuni.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"5b7b5e454e97ba2f2aff","field":"a","hostname":"arg.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"d5a76c1dc7bdb2b81306","field":"a","hostname":"art.hoduniv.net.ye","schema_version":1}
@@ -90,6 +92,7 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"aeb0d650d85e4b6dee73","field":"a","hostname":"law.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"a8a2a6dda2de724b7ab3","field":"a","hostname":"mail.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"88eb049d7f08a43bec10","field":"a","hostname":"med.hoduniv.net.ye","schema_version":1}
+{"after":"2026110224","before":"2025121023","classification":"telemetry","date":"2026-11-02","event_id":"5d43cd1d9841f31d2688","field":"soa_serial","hostname":"meetingyemen.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"557a132ec84b873f5bb8","field":"a","hostname":"mocsi.gov.ye","schema_version":1}
 {"after":"2026110136","before":"2025102835","classification":"telemetry","date":"2026-11-02","event_id":"5a39c6c2b7a864f54497","field":"soa_serial","hostname":"mocsi.gov.ye","schema_version":1}
 {"after":"2419032509","before":"2418809300","classification":"telemetry","date":"2026-11-02","event_id":"148e296e7fd2ad375eab","field":"soa_serial","hostname":"msu.edu.ye","schema_version":1}
@@ -100,12 +103,15 @@
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"2d664db3b5a76870b0cd","field":"a","hostname":"s.mocsi.gov.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"644849d1f2bfeb99e86f","field":"a","hostname":"scif.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"c9ed63b2f7d137ab0fae","field":"a","hostname":"sea.hoduniv.net.ye","schema_version":1}
+{"after":["ns-1062.awsdns-04.org","ns-1983.awsdns-55.co.uk","ns-871.awsdns-44.net","ns-95.awsdns-11.com"],"before":["ns-1333.awsdns-38.org","ns-1615.awsdns-09.co.uk","ns-68.awsdns-08.com","ns-769.awsdns-32.net"],"classification":"review","date":"2026-11-02","event_id":"107d1a3bd65d345695ea","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["ns-1333.awsdns-38.org","ns-1615.awsdns-09.co.uk","ns-68.awsdns-08.com","ns-769.awsdns-32.net"],"before":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"classification":"review","date":"2026-11-02","event_id":"712012a5aea8a157e09b","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
+{"after":["ns-95.awsdns-11.com"],"before":["ns-1999.awsdns-57.co.uk"],"classification":"review","date":"2026-11-02","event_id":"0cebba02d44bf096e2af","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"15abb69463b82537cb4d","field":"a","hostname":"spam.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"1f15442659098dad5ed2","field":"a","hostname":"spo.hoduniv.net.ye","schema_version":1}
 {"after":["104.21.74.205","172.67.162.220"],"before":[],"classification":"informational","date":"2026-11-02","event_id":"40d474e4d5b5ff01b7d0","field":"a","hostname":"test-last.alraziuni.edu.ye","schema_version":1}
 {"after":["2606:4700:3033::6815:4acd","2606:4700:3034::ac43:a2dc"],"before":[],"classification":"informational","date":"2026-11-02","event_id":"f5b2f7cd2d09acfad7b6","field":"aaaa","hostname":"test-last.alraziuni.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-02","event_id":"16cc0908a7bbddf4460b","field":"status","hostname":"test-last.alraziuni.edu.ye","schema_version":1}
+{"after":"2026110202","before":"2026102008","classification":"telemetry","date":"2026-11-02","event_id":"e05fbc75817822c39974","field":"soa_serial","hostname":"testcp.com.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"28f1e5599644915af636","field":"a","hostname":"webdisk.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"4bf8d477c7a8154e62fc","field":"a","hostname":"webmail.hoduniv.net.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-02","event_id":"fbfacc402f6f8ee2146a","field":"a","hostname":"www.akram.hoduniv.net.ye","schema_version":1}
