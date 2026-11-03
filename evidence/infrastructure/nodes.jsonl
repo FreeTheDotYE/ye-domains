@@ -3030,6 +3030,7 @@
 {"kind":"hostname","node_id":"hostname:dnb.com.ye","schema_version":1,"value":"dnb.com.ye"}
 {"kind":"hostname","node_id":"hostname:dnoyemen.com.ye","schema_version":1,"value":"dnoyemen.com.ye"}
 {"kind":"hostname","node_id":"hostname:dns-ote.y.net.ye","schema_version":1,"value":"dns-ote.y.net.ye"}
+{"kind":"hostname","node_id":"hostname:dns.deepsafer.ye","schema_version":1,"value":"dns.deepsafer.ye"}
 {"kind":"hostname","node_id":"hostname:dns.ye","schema_version":1,"value":"dns.ye"}
 {"kind":"hostname","node_id":"hostname:dns1.easydns.com","schema_version":1,"value":"dns1.easydns.com"}
 {"kind":"hostname","node_id":"hostname:dns1.idp365.net","schema_version":1,"value":"dns1.idp365.net"}
@@ -8975,6 +8976,7 @@
 {"kind":"ip_address","node_id":"ip_address:185.112.200.54","schema_version":1,"value":"185.112.200.54"}
 {"kind":"ip_address","node_id":"ip_address:185.112.200.65","schema_version":1,"value":"185.112.200.65"}
 {"kind":"ip_address","node_id":"ip_address:185.112.200.96","schema_version":1,"value":"185.112.200.96"}
+{"kind":"ip_address","node_id":"ip_address:185.112.201.109","schema_version":1,"value":"185.112.201.109"}
 {"kind":"ip_address","node_id":"ip_address:185.112.201.112","schema_version":1,"value":"185.112.201.112"}
 {"kind":"ip_address","node_id":"ip_address:185.112.201.113","schema_version":1,"value":"185.112.201.113"}
 {"kind":"ip_address","node_id":"ip_address:185.112.201.117","schema_version":1,"value":"185.112.201.117"}
@@ -10325,6 +10327,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:5612ccb322d5f10d49c401589cc75280bb1f2f401cb1e00d1f21a93ff7fd9182","schema_version":1,"value":"5612ccb322d5f10d49c401589cc75280bb1f2f401cb1e00d1f21a93ff7fd9182"}
 {"kind":"tls_certificate","node_id":"tls_certificate:563c11c515c241023980139cea014bfa771741952e36ab2d425f87fa622a074d","schema_version":1,"value":"563c11c515c241023980139cea014bfa771741952e36ab2d425f87fa622a074d"}
 {"kind":"tls_certificate","node_id":"tls_certificate:563f302205a04d58af9c18804fb1f894ac9444cd9ab78916c589d4b7bd090cff","schema_version":1,"value":"563f302205a04d58af9c18804fb1f894ac9444cd9ab78916c589d4b7bd090cff"}
+{"kind":"tls_certificate","node_id":"tls_certificate:57188b1f41cf5e775e98c076aa93300a70ee255df2f1cce5605f6fa20e47f299","schema_version":1,"value":"57188b1f41cf5e775e98c076aa93300a70ee255df2f1cce5605f6fa20e47f299"}
 {"kind":"tls_certificate","node_id":"tls_certificate:5732ab25847c3129e9232a5b5205d2588ee4acb313cd598e8b9acbf23d4fd7bc","schema_version":1,"value":"5732ab25847c3129e9232a5b5205d2588ee4acb313cd598e8b9acbf23d4fd7bc"}
 {"kind":"tls_certificate","node_id":"tls_certificate:5738605cf60fa8ca4ba24363700451160d07256801d54ff03a40a59bb57934d2","schema_version":1,"value":"5738605cf60fa8ca4ba24363700451160d07256801d54ff03a40a59bb57934d2"}
 {"kind":"tls_certificate","node_id":"tls_certificate:57434aa49278a37f32586888632f2109d41fe5ae6cef030c219c9de9adffbca2","schema_version":1,"value":"57434aa49278a37f32586888632f2109d41fe5ae6cef030c219c9de9adffbca2"}
