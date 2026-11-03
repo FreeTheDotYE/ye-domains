@@ -259,6 +259,9 @@
 {"after":["188.114.96.3","188.114.97.3"],"before":[],"classification":"informational","date":"2026-11-03","event_id":"cb9f025be66a2de2db5c","field":"a","hostname":"www.ru.edu.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":[],"classification":"informational","date":"2026-11-03","event_id":"46eb7e3e27b2ac4653e7","field":"aaaa","hostname":"www.ru.edu.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-03","event_id":"80c19b617d84be59a7e8","field":"status","hostname":"www.ru.edu.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-11-03","event_id":"85fb7a1b4c4e268f253b","field":"a","hostname":"www.samxfirst.com.ye","schema_version":1}
+{"after":["samxfirst.com.ye"],"before":[],"classification":"review","date":"2026-11-03","event_id":"765e1b0e7fd4d6e1cef4","field":"cname","hostname":"www.samxfirst.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-03","event_id":"3eb15833815cb54d9efb","field":"status","hostname":"www.samxfirst.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-03","event_id":"7e85368dfa0daacc379e","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-03","event_id":"ff327897d4290267d8e3","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
 {"after":["78.137.77.146"],"before":["82.114.162.19"],"classification":"informational","date":"2026-11-03","event_id":"536fc85bc8c8e2e790db","field":"a","hostname":"www.ufafpi.ye","schema_version":1}
