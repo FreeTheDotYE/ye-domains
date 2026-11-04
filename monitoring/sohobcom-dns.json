@@ -179,16 +179,20 @@
     },
     {
       "dns": {
-        "a": [],
+        "a": [
+          "185.112.202.202"
+        ],
         "aaaa": [],
-        "cname": [],
+        "cname": [
+          "ssp.sohobcom.ye"
+        ],
         "dnskey": [],
         "ds": [],
         "mx": [],
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "records_present"
       },
       "hostname": "az3.cloud.sohobcom.ye"
     },
@@ -516,7 +520,7 @@
         "ns": [],
         "soa_mname": [],
         "soa_serial": "",
-        "status": "unobserved"
+        "status": "nxdomain"
       },
       "hostname": "www.az3.cloud.sohobcom.ye"
     },
