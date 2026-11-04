@@ -179,6 +179,21 @@
     },
     {
       "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "az3.cloud.sohobcom.ye"
+    },
+    {
+      "dns": {
         "a": [
           "195.94.23.17"
         ],
@@ -489,6 +504,21 @@
         "status": "nxdomain"
       },
       "hostname": "www.az2.cloud.sohobcom.ye"
+    },
+    {
+      "dns": {
+        "a": [],
+        "aaaa": [],
+        "cname": [],
+        "dnskey": [],
+        "ds": [],
+        "mx": [],
+        "ns": [],
+        "soa_mname": [],
+        "soa_serial": "",
+        "status": "unobserved"
+      },
+      "hostname": "www.az3.cloud.sohobcom.ye"
     },
     {
       "dns": {

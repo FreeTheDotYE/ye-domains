@@ -287,6 +287,7 @@
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"8ab66062dddcc975804b","field":"status","hostname":"autodiscover.smc.com.ye","schema_version":1}
 {"after":["178.238.227.11"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"631a292bc31a59e399cb","field":"a","hostname":"mail.smc.com.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"3cff9ebe213808ad86e6","field":"status","hostname":"mail.smc.com.ye","schema_version":1}
+{"after":"2419217746","before":"2419095357","classification":"telemetry","date":"2026-11-04","event_id":"d063558f2955276553c1","field":"soa_serial","hostname":"sanad.com.ye","schema_version":1}
 {"after":["178.238.227.11"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"b3f75e1711f093296119","field":"a","hostname":"smc.com.ye","schema_version":1}
 {"after":["10 host01.open-alt.com"],"before":[],"classification":"review","date":"2026-11-04","event_id":"7841cf7d4849ef3e0730","field":"mx","hostname":"smc.com.ye","schema_version":1}
 {"after":["ns1.contabo.net","ns2.contabo.net","ns3.contabo.net"],"before":[],"classification":"review","date":"2026-11-04","event_id":"30edab78de826675fd93","field":"ns","hostname":"smc.com.ye","schema_version":1}
@@ -294,6 +295,8 @@
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"e43265610d958abd28ca","field":"status","hostname":"smc.com.ye","schema_version":1}
 {"after":"2026110302","before":"2026102102","classification":"telemetry","date":"2026-11-04","event_id":"ff701265b7e528100b5c","field":"soa_serial","hostname":"sohobcom.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-11-04","event_id":"bcbd67fc37a0d89129f8","field":"aaaa","hostname":"www.afsc.eiu.edu.ye","schema_version":1}
+{"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-11-04","event_id":"57482c22d7c255094c17","field":"aaaa","hostname":"www.masar.eiu.edu.ye","schema_version":1}
 {"after":["178.238.227.11"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"b386712d3c5de80bb86e","field":"a","hostname":"www.smc.com.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"9ef52d3b2ebbf14f61ee","field":"status","hostname":"www.smc.com.ye","schema_version":1}
 {"after":["108.132.81.149","54.194.38.97","54.74.141.47"],"before":["34.248.253.245","54.194.38.97","54.74.141.47"],"classification":"informational","date":"2026-11-04","event_id":"b0337ec90aa02e141f86","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-11-04","event_id":"3b4a6ca67dbe76e85d5e","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
