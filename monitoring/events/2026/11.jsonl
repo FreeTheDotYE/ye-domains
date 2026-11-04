@@ -291,6 +291,8 @@
 {"after":["185.112.202.202"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"0ca0f867a1eee1479776","field":"a","hostname":"az3.cloud.sohobcom.ye","schema_version":1}
 {"after":["ssp.sohobcom.ye"],"before":[],"classification":"review","date":"2026-11-04","event_id":"366353e00915696512fc","field":"cname","hostname":"az3.cloud.sohobcom.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-04","event_id":"8aef2fe8982292468afe","field":"status","hostname":"az3.cloud.sohobcom.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","20 mail5.yemen.net.ye"],"before":["10 mail3.yemen.net.ye","20 mail.dorobalemtiaz.com.ye","20 mail5.yemen.net.ye"],"classification":"review","date":"2026-11-04","event_id":"cccb9d700eddd5e40a68","field":"mx","hostname":"dorobalemtiaz.com.ye","schema_version":1}
+{"after":"2026110402","before":"2025110101","classification":"telemetry","date":"2026-11-04","event_id":"812f04b652a91fcf8f92","field":"soa_serial","hostname":"dorobalemtiaz.com.ye","schema_version":1}
 {"after":["178.238.227.11"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"631a292bc31a59e399cb","field":"a","hostname":"mail.smc.com.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"3cff9ebe213808ad86e6","field":"status","hostname":"mail.smc.com.ye","schema_version":1}
 {"after":"2419217746","before":"2419095357","classification":"telemetry","date":"2026-11-04","event_id":"d063558f2955276553c1","field":"soa_serial","hostname":"sanad.com.ye","schema_version":1}
@@ -305,8 +307,12 @@
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-11-04","event_id":"bcbd67fc37a0d89129f8","field":"aaaa","hostname":"www.afsc.eiu.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-11-04","event_id":"1815080d747aebbdea21","field":"status","hostname":"www.az3.cloud.sohobcom.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-11-04","event_id":"57482c22d7c255094c17","field":"aaaa","hostname":"www.masar.eiu.edu.ye","schema_version":1}
+{"after":["82.114.162.12"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"ce27b40a55c41f65c2cd","field":"a","hostname":"www.ram.com.ye","schema_version":1}
+{"after":["ram.com.ye"],"before":[],"classification":"review","date":"2026-11-04","event_id":"8cbc45d0a91cd205ee81","field":"cname","hostname":"www.ram.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-04","event_id":"c088d25058bd0351661c","field":"status","hostname":"www.ram.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-04","event_id":"012146e46de9b8d38302","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["178.238.227.11"],"before":[],"classification":"informational","date":"2026-11-04","event_id":"b386712d3c5de80bb86e","field":"a","hostname":"www.smc.com.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-04","event_id":"9ef52d3b2ebbf14f61ee","field":"status","hostname":"www.smc.com.ye","schema_version":1}
+{"after":["108.132.81.149","34.249.244.194","54.74.141.47"],"before":["108.132.81.149","54.194.38.97","54.74.141.47"],"classification":"informational","date":"2026-11-04","event_id":"509cc1ddb73117f7eed7","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
 {"after":["108.132.81.149","54.194.38.97","54.74.141.47"],"before":["34.248.253.245","54.194.38.97","54.74.141.47"],"classification":"informational","date":"2026-11-04","event_id":"b0337ec90aa02e141f86","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-11-04","event_id":"3b4a6ca67dbe76e85d5e","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
