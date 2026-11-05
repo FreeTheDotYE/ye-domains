@@ -1613,6 +1613,7 @@
 {"kind":"domain","node_id":"domain:ycb.com.ye","schema_version":1,"value":"ycb.com.ye"}
 {"kind":"domain","node_id":"domain:yccsw.gov.ye","schema_version":1,"value":"yccsw.gov.ye"}
 {"kind":"domain","node_id":"domain:ycfms.com.ye","schema_version":1,"value":"ycfms.com.ye"}
+{"kind":"domain","node_id":"domain:ycg.gov.ye","schema_version":1,"value":"ycg.gov.ye"}
 {"kind":"domain","node_id":"domain:ycgsi.com.ye","schema_version":1,"value":"ycgsi.com.ye"}
 {"kind":"domain","node_id":"domain:ych.com.ye","schema_version":1,"value":"ych.com.ye"}
 {"kind":"domain","node_id":"domain:ycithe.edu.ye","schema_version":1,"value":"ycithe.edu.ye"}
@@ -1757,6 +1758,7 @@
 {"kind":"domain","node_id":"domain:ytelecom.net.ye","schema_version":1,"value":"ytelecom.net.ye"}
 {"kind":"domain","node_id":"domain:yu.edu.ye","schema_version":1,"value":"yu.edu.ye"}
 {"kind":"domain","node_id":"domain:yuniv.edu.ye","schema_version":1,"value":"yuniv.edu.ye"}
+{"kind":"domain","node_id":"domain:zakah.gov.ye","schema_version":1,"value":"zakah.gov.ye"}
 {"kind":"domain","node_id":"domain:zakat.ye","schema_version":1,"value":"zakat.ye"}
 {"kind":"domain","node_id":"domain:zentiva.com.ye","schema_version":1,"value":"zentiva.com.ye"}
 {"kind":"domain","node_id":"domain:zgos.com.ye","schema_version":1,"value":"zgos.com.ye"}
@@ -7094,6 +7096,7 @@
 {"kind":"hostname","node_id":"hostname:www.althawra.gov.ye","schema_version":1,"value":"www.althawra.gov.ye"}
 {"kind":"hostname","node_id":"hostname:www.althawrah.ye","schema_version":1,"value":"www.althawrah.ye"}
 {"kind":"hostname","node_id":"hostname:www.althawrati.edu.ye","schema_version":1,"value":"www.althawrati.edu.ye"}
+{"kind":"hostname","node_id":"hostname:www.althawry.org.ye","schema_version":1,"value":"www.althawry.org.ye"}
 {"kind":"hostname","node_id":"hostname:www.altuhaifgroup.com.ye","schema_version":1,"value":"www.altuhaifgroup.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.altuhita.bonyan.org.ye","schema_version":1,"value":"www.altuhita.bonyan.org.ye"}
 {"kind":"hostname","node_id":"hostname:www.alumni.21umas.edu.ye","schema_version":1,"value":"www.alumni.21umas.edu.ye"}
@@ -8625,6 +8628,7 @@
 {"kind":"hostname","node_id":"hostname:ycb.com.ye","schema_version":1,"value":"ycb.com.ye"}
 {"kind":"hostname","node_id":"hostname:yccsw.gov.ye","schema_version":1,"value":"yccsw.gov.ye"}
 {"kind":"hostname","node_id":"hostname:ycfms.com.ye","schema_version":1,"value":"ycfms.com.ye"}
+{"kind":"hostname","node_id":"hostname:ycg.gov.ye","schema_version":1,"value":"ycg.gov.ye"}
 {"kind":"hostname","node_id":"hostname:ycgsi.com.ye","schema_version":1,"value":"ycgsi.com.ye"}
 {"kind":"hostname","node_id":"hostname:ych.com.ye","schema_version":1,"value":"ych.com.ye"}
 {"kind":"hostname","node_id":"hostname:ycithe.edu.ye","schema_version":1,"value":"ycithe.edu.ye"}
@@ -8780,6 +8784,7 @@
 {"kind":"hostname","node_id":"hostname:ytelecom.net.ye","schema_version":1,"value":"ytelecom.net.ye"}
 {"kind":"hostname","node_id":"hostname:yu.edu.ye","schema_version":1,"value":"yu.edu.ye"}
 {"kind":"hostname","node_id":"hostname:yuniv.edu.ye","schema_version":1,"value":"yuniv.edu.ye"}
+{"kind":"hostname","node_id":"hostname:zakah.gov.ye","schema_version":1,"value":"zakah.gov.ye"}
 {"kind":"hostname","node_id":"hostname:zakat.ye","schema_version":1,"value":"zakat.ye"}
 {"kind":"hostname","node_id":"hostname:zentiva.com.ye","schema_version":1,"value":"zentiva.com.ye"}
 {"kind":"hostname","node_id":"hostname:zgos.com.ye","schema_version":1,"value":"zgos.com.ye"}
@@ -8846,6 +8851,7 @@
 {"kind":"ip_address","node_id":"ip_address:143.95.70.164","schema_version":1,"value":"143.95.70.164"}
 {"kind":"ip_address","node_id":"ip_address:146.190.106.101","schema_version":1,"value":"146.190.106.101"}
 {"kind":"ip_address","node_id":"ip_address:147.79.73.20","schema_version":1,"value":"147.79.73.20"}
+{"kind":"ip_address","node_id":"ip_address:153.52.255.31","schema_version":1,"value":"153.52.255.31"}
 {"kind":"ip_address","node_id":"ip_address:156.67.74.31","schema_version":1,"value":"156.67.74.31"}
 {"kind":"ip_address","node_id":"ip_address:157.173.114.3","schema_version":1,"value":"157.173.114.3"}
 {"kind":"ip_address","node_id":"ip_address:157.250.197.179","schema_version":1,"value":"157.250.197.179"}
@@ -9737,6 +9743,7 @@
 {"kind":"network_prefix","node_id":"network_prefix:141.193.213.0/24","schema_version":1,"value":"141.193.213.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:143.95.64.0/19","schema_version":1,"value":"143.95.64.0/19"}
 {"kind":"network_prefix","node_id":"network_prefix:146.190.96.0/20","schema_version":1,"value":"146.190.96.0/20"}
+{"kind":"network_prefix","node_id":"network_prefix:153.52.255.0/24","schema_version":1,"value":"153.52.255.0/24"}
 {"kind":"network_prefix","node_id":"network_prefix:156.67.64.0/20","schema_version":1,"value":"156.67.64.0/20"}
 {"kind":"network_prefix","node_id":"network_prefix:157.173.112.0/20","schema_version":1,"value":"157.173.112.0/20"}
 {"kind":"network_prefix","node_id":"network_prefix:157.250.192.0/20","schema_version":1,"value":"157.250.192.0/20"}
