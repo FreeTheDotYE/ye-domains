@@ -319,6 +319,7 @@
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"131b80871eba0750ce3c","field":"soa_serial","hostname":"alamjad.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"5f70a137ebec5569e8f2","field":"soa_serial","hostname":"alhamdi.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"d752f087cf497e810b2b","field":"soa_serial","hostname":"alnafisuni.edu.ye","schema_version":1}
+{"after":"2026110500","before":"2026110400","classification":"telemetry","date":"2026-11-05","event_id":"b67a0ec24ba1dcce32aa","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"0b2302d3a288a2beab67","field":"soa_serial","hostname":"alrowaduni.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"b16f28fdd06e6d731409","field":"soa_serial","hostname":"arwauniversity.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"f5953e6816a5d84b34fa","field":"soa_serial","hostname":"borouge.com.ye","schema_version":1}
@@ -330,13 +331,19 @@
 {"after":"2026110501","before":"2026103006","classification":"telemetry","date":"2026-11-05","event_id":"5fb5cade5c5fb2ee3b28","field":"soa_serial","hostname":"qau.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"29c240e439b8b93a1f23","field":"soa_serial","hostname":"rw.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"32019a4198934b5dfa79","field":"soa_serial","hostname":"silo.com.ye","schema_version":1}
+{"after":["ns-1354.awsdns-41.org","ns-1564.awsdns-03.co.uk","ns-291.awsdns-36.com","ns-982.awsdns-58.net"],"before":["ns-1062.awsdns-04.org","ns-1983.awsdns-55.co.uk","ns-871.awsdns-44.net","ns-95.awsdns-11.com"],"classification":"review","date":"2026-11-05","event_id":"e42f8fa3f60b6d2f51ed","field":"ns","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":["ns-1999.awsdns-57.co.uk"],"before":["ns-1354.awsdns-41.org"],"classification":"review","date":"2026-11-05","event_id":"a8e57c02d1805bc72796","field":"soa_mname","hostname":"skyscanner.com.ye","schema_version":1}
 {"after":"2026110401","before":"2026110200","classification":"telemetry","date":"2026-11-05","event_id":"447b3858d827bd583061","field":"soa_serial","hostname":"tax.gov.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"eca5f69dc869702b3ae0","field":"soa_serial","hostname":"teci.edu.ye","schema_version":1}
 {"after":"2026110501","before":"2026102901","classification":"telemetry","date":"2026-11-05","event_id":"7b4c58234105378b564f","field":"soa_serial","hostname":"uis.edu.ye","schema_version":1}
+{"after":[],"before":["daralmustafa.edu.ye"],"classification":"review","date":"2026-11-05","event_id":"b184fe2785aedd7f1079","field":"cname","hostname":"www.daralmustafa.edu.ye","schema_version":1}
 {"after":["82.114.162.22"],"before":[],"classification":"informational","date":"2026-11-05","event_id":"c39c59736c3f67da71d8","field":"a","hostname":"www.provex.com.ye","schema_version":1}
 {"after":["provex.com.ye"],"before":[],"classification":"review","date":"2026-11-05","event_id":"bafc080084ca70d874c0","field":"cname","hostname":"www.provex.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-05","event_id":"643695c8039de1c6541a","field":"status","hostname":"www.provex.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-05","event_id":"c9e5145c1f790d3e76ab","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
+{"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-11-05","event_id":"400b20549abacf6b7ecc","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-05","event_id":"61f961b2f197955d0f9d","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-05","event_id":"d4a9e5dddb926b7e0761","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
+{"after":["108.132.81.149","108.133.45.148","34.249.244.194"],"before":["108.132.81.149","34.249.244.194","54.74.141.47"],"classification":"informational","date":"2026-11-05","event_id":"0ee5436c67dcd4f76284","field":"a","hostname":"www.ubuy.com.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-05","event_id":"ba5dfc587bb367b6d4f0","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
 {"after":"1793836800","before":"1793232000","classification":"telemetry","date":"2026-11-05","event_id":"170a44a14ed69ee2654f","field":"soa_serial","hostname":"yang.ye","schema_version":1}
