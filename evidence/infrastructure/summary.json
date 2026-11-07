@@ -1,29 +1,29 @@
 {
-  "active_edges": 25023,
+  "active_edges": 25044,
   "as_of_date": "2026-11-07",
-  "edges": 26631,
+  "edges": 26652,
   "node_kinds": {
     "asn": 59,
     "dataset": 1,
     "domain": 1708,
-    "hostname": 7035,
-    "ip_address": 930,
-    "network_prefix": 247,
+    "hostname": 7046,
+    "ip_address": 931,
+    "network_prefix": 248,
     "registrar": 2,
-    "tls_certificate": 1108
+    "tls_certificate": 1112
   },
-  "nodes": 11090,
+  "nodes": 11107,
   "relations": {
-    "cname_to": 720,
-    "contains_hostname": 6698,
-    "covered_by_prefix": 903,
+    "cname_to": 721,
+    "contains_hostname": 6708,
+    "covered_by_prefix": 904,
     "delegated_to": 3516,
     "mail_routed_to": 2942,
     "observed_in_web_archive": 803,
-    "originated_by": 249,
-    "presents_certificate": 2072,
+    "originated_by": 250,
+    "presents_certificate": 2077,
     "registered_via": 1376,
-    "resolves_to": 5850,
+    "resolves_to": 5853,
     "soa_authority": 1502
   },
   "schema_version": 1
