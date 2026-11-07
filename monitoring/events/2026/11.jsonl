@@ -372,3 +372,8 @@
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-11-06","event_id":"4620203c25c665622dc0","field":"status","hostname":"ycg.gov.ye","schema_version":1}
 {"after":"2419403791","before":"2416750990","classification":"telemetry","date":"2026-11-06","event_id":"2912b8f4820e0d17dc2c","field":"soa_serial","hostname":"yjmhr.edu.ye","schema_version":1}
 {"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-11-06","event_id":"048a3a52c836964433c3","field":"status","hostname":"zakah.gov.ye","schema_version":1}
+{"after":[],"before":["82.114.162.35"],"classification":"informational","date":"2026-11-07","event_id":"77f43b6b86eb0b9e0697","field":"a","hostname":"mail.tebyan.ye","schema_version":1}
+{"after":"nxdomain","before":"records_present","classification":"review","date":"2026-11-07","event_id":"139fda9af959049eb976","field":"status","hostname":"mail.tebyan.ye","schema_version":1}
+{"after":["10 mail3.yemen.net.ye","10 mail5.yemen.net.ye"],"before":["10 mail1.yemen.net.ye","10 mail2.yemen.net.ye","20 mail.tebyan.ye"],"classification":"review","date":"2026-11-07","event_id":"640e4323ab60ef6f2f06","field":"mx","hostname":"tebyan.ye","schema_version":1}
+{"after":"2026110633","before":"2026010531","classification":"telemetry","date":"2026-11-07","event_id":"0ae9e67dcd213a70a00c","field":"soa_serial","hostname":"tebyan.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-07","event_id":"b397df665e4fbaf7f897","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
