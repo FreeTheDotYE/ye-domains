@@ -4,10 +4,10 @@
     "events/2026/08.jsonl": "775e5c6896d32b54aabf47922b2edae3c62ad238f0f109f4a41b76da2ac14553",
     "events/2026/09.jsonl": "96f84d2d26f8b24055678073a367ecec6a7afedca164361255fc35e5b8f9b03b",
     "events/2026/10.jsonl": "c83d188d1975e3b52ffdbfb6f6ef96daeb83b63bb618e5334cc5e8a22becb701",
-    "events/2026/11.jsonl": "1a6341d8a16d2d1fa1d82760ae35dd09de2e40aedd1d59c3664d5ea8723e9cef",
-    "latest.json": "2c68ebc4f6c895480a42436a5cab80956e28f7051e143941f74eab926c2d366e",
+    "events/2026/11.jsonl": "13c4e044219821d50cb1fee00158e4e5b0c5ed2bee5d341d5c2bd8e266b45837",
+    "latest.json": "b3878ba1f6cf404bdef8ee05dba8c07bfbed0cd59350156933adff4b7817af6e",
     "sohobcom-dns.json": "c2344d08c5391f9658f891f0d7cacc8e8be8533ec123fc86fc24f1de64a2e8a1",
-    "state.jsonl": "284650ad3c12c9c1e15c9847251a6abf9341a71391b90915c685e055ee5d8878"
+    "state.jsonl": "e45ed8db140e88055daedb23aee767eaaa97818472e6c4d050045918dbfb312c"
   },
   "schema_version": 1
 }
