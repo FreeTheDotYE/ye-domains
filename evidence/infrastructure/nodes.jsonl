@@ -5706,6 +5706,7 @@
 {"kind":"hostname","node_id":"hostname:sawa.com.ye","schema_version":1,"value":"sawa.com.ye"}
 {"kind":"hostname","node_id":"hostname:sawabi.com.ye","schema_version":1,"value":"sawabi.com.ye"}
 {"kind":"hostname","node_id":"hostname:sawafirst.com.ye","schema_version":1,"value":"sawafirst.com.ye"}
+{"kind":"hostname","node_id":"hostname:sawt.auhd.edu.ye","schema_version":1,"value":"sawt.auhd.edu.ye"}
 {"kind":"hostname","node_id":"hostname:sayich.com.ye","schema_version":1,"value":"sayich.com.ye"}
 {"kind":"hostname","node_id":"hostname:sbc.hsa.com.ye","schema_version":1,"value":"sbc.hsa.com.ye"}
 {"kind":"hostname","node_id":"hostname:sbco.com.ye","schema_version":1,"value":"sbco.com.ye"}
@@ -10186,6 +10187,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:29bfad6f543e9abf8f50d1f0e4ab36ee3f02d6b2f6475769436189b48fbb3aa4","schema_version":1,"value":"29bfad6f543e9abf8f50d1f0e4ab36ee3f02d6b2f6475769436189b48fbb3aa4"}
 {"kind":"tls_certificate","node_id":"tls_certificate:29d2fff3e46090dfe20041f213bb3658de7be6931160c79d5933ef666558ce63","schema_version":1,"value":"29d2fff3e46090dfe20041f213bb3658de7be6931160c79d5933ef666558ce63"}
 {"kind":"tls_certificate","node_id":"tls_certificate:29dfcf4b5aa023ea9b24a79896084c4750b70f0648109d7554de9ebfa2fc3e99","schema_version":1,"value":"29dfcf4b5aa023ea9b24a79896084c4750b70f0648109d7554de9ebfa2fc3e99"}
+{"kind":"tls_certificate","node_id":"tls_certificate:2a1987a6ab55bc45c3d0c91011172d0d07fec00768acc79b314354a27fe98807","schema_version":1,"value":"2a1987a6ab55bc45c3d0c91011172d0d07fec00768acc79b314354a27fe98807"}
 {"kind":"tls_certificate","node_id":"tls_certificate:2a2cf5c590f5c66ac2c11a22893c45164e9c430cca3a978aebef1a686fe6f7fa","schema_version":1,"value":"2a2cf5c590f5c66ac2c11a22893c45164e9c430cca3a978aebef1a686fe6f7fa"}
 {"kind":"tls_certificate","node_id":"tls_certificate:2a36e3a28af2687055615369651af13ec4ff624565b25f5505fbb727c4cb389f","schema_version":1,"value":"2a36e3a28af2687055615369651af13ec4ff624565b25f5505fbb727c4cb389f"}
 {"kind":"tls_certificate","node_id":"tls_certificate:2a54a99ca258441072bd4ea44ba58d4b7c1ec21f01f37107d6258af388e6cb9e","schema_version":1,"value":"2a54a99ca258441072bd4ea44ba58d4b7c1ec21f01f37107d6258af388e6cb9e"}
@@ -10220,6 +10222,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:2f9799cfc680465dc0b144a1905d93b4aad80452993d679599dcd34812d611f1","schema_version":1,"value":"2f9799cfc680465dc0b144a1905d93b4aad80452993d679599dcd34812d611f1"}
 {"kind":"tls_certificate","node_id":"tls_certificate:2facc2eb663003fd2aa5fa6695187a7d86ca4970353c5448f36c113ccb5def15","schema_version":1,"value":"2facc2eb663003fd2aa5fa6695187a7d86ca4970353c5448f36c113ccb5def15"}
 {"kind":"tls_certificate","node_id":"tls_certificate:30bd475cdb8215e0f96046a551e1847163d6d178d8ad05fad682ca5e57a243e9","schema_version":1,"value":"30bd475cdb8215e0f96046a551e1847163d6d178d8ad05fad682ca5e57a243e9"}
+{"kind":"tls_certificate","node_id":"tls_certificate:30e0a75e3e1fb10951eefd8a5c13905958094e8ccc67fcb4fc2ce8b545d86d6a","schema_version":1,"value":"30e0a75e3e1fb10951eefd8a5c13905958094e8ccc67fcb4fc2ce8b545d86d6a"}
 {"kind":"tls_certificate","node_id":"tls_certificate:30e5033deec67d0e65504e2c36b15032945be926e85eae116412e4f30ea19d84","schema_version":1,"value":"30e5033deec67d0e65504e2c36b15032945be926e85eae116412e4f30ea19d84"}
 {"kind":"tls_certificate","node_id":"tls_certificate:30e6548f49548458487fb762bebb8ce666d48a9d1f9b00d23bd2fd0377f906ef","schema_version":1,"value":"30e6548f49548458487fb762bebb8ce666d48a9d1f9b00d23bd2fd0377f906ef"}
 {"kind":"tls_certificate","node_id":"tls_certificate:3115b48bd226e847e351c4c2d61d58e6ab55a88e12aa263be7ab14395b33f12b","schema_version":1,"value":"3115b48bd226e847e351c4c2d61d58e6ab55a88e12aa263be7ab14395b33f12b"}
@@ -10988,6 +10991,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:e28258cbea6686c718881300f428368cdaf680531cfd7ea29dcb63c54d7d5614","schema_version":1,"value":"e28258cbea6686c718881300f428368cdaf680531cfd7ea29dcb63c54d7d5614"}
 {"kind":"tls_certificate","node_id":"tls_certificate:e2aaca20fb401a7621dc371bb82d596e501ade4f2dbb463224802e6494f667f1","schema_version":1,"value":"e2aaca20fb401a7621dc371bb82d596e501ade4f2dbb463224802e6494f667f1"}
 {"kind":"tls_certificate","node_id":"tls_certificate:e2d65d39cec4847a5900862207b54205c668027e017a153110c2001b6d6666e4","schema_version":1,"value":"e2d65d39cec4847a5900862207b54205c668027e017a153110c2001b6d6666e4"}
+{"kind":"tls_certificate","node_id":"tls_certificate:e2e95059faa1a94346486e218634600f97d855959b5e8bf114571cdaf534d12f","schema_version":1,"value":"e2e95059faa1a94346486e218634600f97d855959b5e8bf114571cdaf534d12f"}
 {"kind":"tls_certificate","node_id":"tls_certificate:e2f14ef2de00d17b94dbb512e9581b3e128b825c466b13fb56e4b266ab839504","schema_version":1,"value":"e2f14ef2de00d17b94dbb512e9581b3e128b825c466b13fb56e4b266ab839504"}
 {"kind":"tls_certificate","node_id":"tls_certificate:e2f1f75e18dafec8a7f42e96d5ba54d86d7bbb7baa3aa332366f545b5b652af1","schema_version":1,"value":"e2f1f75e18dafec8a7f42e96d5ba54d86d7bbb7baa3aa332366f545b5b652af1"}
 {"kind":"tls_certificate","node_id":"tls_certificate:e31a9b1c964c70ef82a675864433a6a049ba58c5454be6b69a1585478ee5f493","schema_version":1,"value":"e31a9b1c964c70ef82a675864433a6a049ba58c5454be6b69a1585478ee5f493"}
