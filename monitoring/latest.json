@@ -1,16 +1,16 @@
 {
-  "confirmed_changes": 12,
-  "date": "2026-11-07",
-  "definitive": 6209,
+  "confirmed_changes": 7,
+  "date": "2026-11-08",
+  "definitive": 6203,
   "hostnames_checked": 6708,
-  "inconclusive": 499,
+  "inconclusive": 505,
   "new_dns_discoveries": 0,
-  "pending_hostnames": 83,
+  "pending_hostnames": 76,
   "schema_version": 1,
   "status_counts": {
     "no_records": 344,
-    "nxdomain": 1505,
-    "records_present": 4774,
+    "nxdomain": 1506,
+    "records_present": 4773,
     "unobserved": 85
   }
 }
