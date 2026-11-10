@@ -468,15 +468,36 @@
 {"after":["216.198.79.1","64.29.17.1"],"before":["216.198.79.65","64.29.17.65"],"classification":"informational","date":"2026-11-09","event_id":"6628628016b2d4ea76fd","field":"a","hostname":"www.seiyunu.edu.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-09","event_id":"aa0304bff9922f3121f9","field":"a","hostname":"www.wasatia.edu.ye","schema_version":1}
 {"after":["75.2.43.150","99.83.186.106"],"before":["13.248.160.137","76.223.34.124"],"classification":"informational","date":"2026-11-09","event_id":"ff8eb0ec106ff93ed971","field":"a","hostname":"www.yoox.com.ye","schema_version":1}
+{"after":["10 mail.abuelias.com.ye"],"before":[],"classification":"review","date":"2026-11-10","event_id":"36be2f7f78b86989f763","field":"mx","hostname":"abuelias.com.ye","schema_version":1}
+{"after":"2026111001","before":"2026101701","classification":"telemetry","date":"2026-11-10","event_id":"5e59a00d1cf58b635149","field":"soa_serial","hostname":"abuelias.com.ye","schema_version":1}
 {"after":"2026111000","before":"2026110901","classification":"telemetry","date":"2026-11-10","event_id":"504453632ebcaaf627b0","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
+{"after":["157.173.114.3"],"before":[],"classification":"informational","date":"2026-11-10","event_id":"4c971b5a363ad2eea50e","field":"a","hostname":"api-dl.seiyunu.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-10","event_id":"935eddcb6c792a34e8fa","field":"status","hostname":"api-dl.seiyunu.edu.ye","schema_version":1}
+{"after":"2026111002","before":"2026110802","classification":"telemetry","date":"2026-11-10","event_id":"6646413ed3a596ff4955","field":"soa_serial","hostname":"auhd.edu.ye","schema_version":1}
+{"after":["185.199.108.153","185.199.109.153","185.199.110.153","185.199.111.153"],"before":["195.94.23.17"],"classification":"informational","date":"2026-11-10","event_id":"444fbb124f74888bb42f","field":"a","hostname":"encyclopedia.auhd.edu.ye","schema_version":1}
+{"after":["2606:50c0:8000::153","2606:50c0:8001::153","2606:50c0:8002::153","2606:50c0:8003::153"],"before":[],"classification":"informational","date":"2026-11-10","event_id":"f48af4e3ae26a031ef76","field":"aaaa","hostname":"encyclopedia.auhd.edu.ye","schema_version":1}
+{"after":["ramiqubati55-oss.github.io"],"before":[],"classification":"review","date":"2026-11-10","event_id":"b70db6368a568010e017","field":"cname","hostname":"encyclopedia.auhd.edu.ye","schema_version":1}
+{"after":["78.137.74.12"],"before":[],"classification":"informational","date":"2026-11-10","event_id":"a88caa29d5d3d38c7a1b","field":"a","hostname":"mail.meetingyemen.ye","schema_version":1}
 {"after":[],"before":["78.137.74.12"],"classification":"informational","date":"2026-11-10","event_id":"af8dca5e8af7d2b0c9c9","field":"a","hostname":"mail.meetingyemen.ye","schema_version":1}
+{"after":"records_present","before":"no_records","classification":"review","date":"2026-11-10","event_id":"3e9d2d7e2b6ac12cf33a","field":"status","hostname":"mail.meetingyemen.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-11-10","event_id":"a0f1f78d35b090518b85","field":"status","hostname":"mail.meetingyemen.ye","schema_version":1}
+{"after":["78.137.74.12"],"before":[],"classification":"informational","date":"2026-11-10","event_id":"37209393090b37e67f36","field":"a","hostname":"meetingyemen.ye","schema_version":1}
 {"after":[],"before":["78.137.74.12"],"classification":"informational","date":"2026-11-10","event_id":"77a09ea696dabd92de32","field":"a","hostname":"meetingyemen.ye","schema_version":1}
+{"after":["20 mail.meetingyemen.ye"],"before":[],"classification":"review","date":"2026-11-10","event_id":"69f6d230bd70eb92ea6f","field":"mx","hostname":"meetingyemen.ye","schema_version":1}
 {"after":[],"before":["20 mail.meetingyemen.ye"],"classification":"review","date":"2026-11-10","event_id":"ab756cc821e1fae197b8","field":"mx","hostname":"meetingyemen.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-11-10","event_id":"2bfa1c7b0137296078be","field":"ns","hostname":"meetingyemen.ye","schema_version":1}
 {"after":[],"before":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"classification":"review","date":"2026-11-10","event_id":"a76fcf88a2b4c71813f7","field":"ns","hostname":"meetingyemen.ye","schema_version":1}
 {"after":[],"before":["ns1.yemen.net.ye"],"classification":"review","date":"2026-11-10","event_id":"588caf4f2f9b35f7b5a8","field":"soa_mname","hostname":"meetingyemen.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-11-10","event_id":"f93dd9e30d011dfb53ab","field":"soa_mname","hostname":"meetingyemen.ye","schema_version":1}
 {"after":"","before":"2026110224","classification":"telemetry","date":"2026-11-10","event_id":"32c63ba90a4955ad3176","field":"soa_serial","hostname":"meetingyemen.ye","schema_version":1}
+{"after":"2026110224","before":"","classification":"telemetry","date":"2026-11-10","event_id":"c8f0b6aa12a32899d46a","field":"soa_serial","hostname":"meetingyemen.ye","schema_version":1}
 {"after":"no_records","before":"records_present","classification":"review","date":"2026-11-10","event_id":"1a35b8bb8d1d3df9d9ad","field":"status","hostname":"meetingyemen.ye","schema_version":1}
+{"after":"records_present","before":"no_records","classification":"review","date":"2026-11-10","event_id":"c657ace7192507d52dde","field":"status","hostname":"meetingyemen.ye","schema_version":1}
+{"after":"2419796524","before":"2419705629","classification":"telemetry","date":"2026-11-10","event_id":"f9a9767a0b529e66199a","field":"soa_serial","hostname":"mii.edu.ye","schema_version":1}
+{"after":"2026111005","before":"2026110703","classification":"telemetry","date":"2026-11-10","event_id":"50c581e61e48fc6594b6","field":"soa_serial","hostname":"seiyunu.edu.ye","schema_version":1}
+{"after":["157.173.114.3"],"before":[],"classification":"informational","date":"2026-11-10","event_id":"6682ecaccd82f3ead07f","field":"a","hostname":"test.seiyunu.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-10","event_id":"fb1ed59348fe2d5b8480","field":"status","hostname":"test.seiyunu.edu.ye","schema_version":1}
+{"after":"2026110203","before":"2026110202","classification":"telemetry","date":"2026-11-10","event_id":"99584608319efa70a04c","field":"soa_serial","hostname":"testcp.com.ye","schema_version":1}
 {"after":"2026110973","before":"2026082972","classification":"telemetry","date":"2026-11-10","event_id":"b4e375b02e65478b6de5","field":"soa_serial","hostname":"testcp.net.ye","schema_version":1}
 {"after":["2a06:98c1:3120::3","2a06:98c1:3121::3"],"before":["2a06:98c1:3120::c","2a06:98c1:3121::c"],"classification":"informational","date":"2026-11-10","event_id":"7e36ebdb8b2aeb14e1c4","field":"aaaa","hostname":"web.hic.edu.ye","schema_version":1}
 {"after":[],"before":["78.137.74.12"],"classification":"informational","date":"2026-11-10","event_id":"4c9f4a17d592e67760ba","field":"a","hostname":"www.meetingyemen.ye","schema_version":1}
