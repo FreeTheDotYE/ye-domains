@@ -509,6 +509,10 @@
 {"after":["104.21.54.39","172.67.223.105"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"e680baeb34e0e394aa6b","field":"a","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"af5d5e595a92638f0ffc","field":"aaaa","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"180ec90ec211b5ef59a8","field":"status","hostname":"cms.mii.edu.ye","schema_version":1}
+{"after":"2419840037","before":"2418377233","classification":"telemetry","date":"2026-11-11","event_id":"02c6a975f5ba4d344a06","field":"soa_serial","hostname":"eiu.edu.ye","schema_version":1}
+{"after":"2026111007","before":"2026103005","classification":"telemetry","date":"2026-11-11","event_id":"76c143c1da386bb0a27c","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
+{"after":["82.114.181.126"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"05652cc9a0a052494c0e","field":"a","hostname":"lab.usthyemen.com.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"b5fd785a98c9995a6105","field":"status","hostname":"lab.usthyemen.com.ye","schema_version":1}
 {"after":["104.21.54.39","172.67.223.105"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"61b4f0ef13efc96e09f1","field":"a","hostname":"new.mii.edu.ye","schema_version":1}
 {"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"73521aa8d89e9af76b9d","field":"aaaa","hostname":"new.mii.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"9f4857670aa8ab56efaf","field":"status","hostname":"new.mii.edu.ye","schema_version":1}
@@ -523,6 +527,8 @@
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"c0dcf740985714520187","field":"soa_mname","hostname":"technozone.ye","schema_version":1}
 {"after":"2025012901","before":"","classification":"telemetry","date":"2026-11-11","event_id":"057888fc2c781df7b552","field":"soa_serial","hostname":"technozone.ye","schema_version":1}
 {"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-11","event_id":"da8cd5be227351539b5d","field":"status","hostname":"technozone.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"35b041e364d6e8dab9a1","field":"status","hostname":"www.cp.yrspc.gov.ye","schema_version":1}
+{"after":"nxdomain","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"ba63a8fa36b17efd94ba","field":"status","hostname":"www.lab.usthyemen.com.ye","schema_version":1}
 {"after":["78.137.74.12"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"fe507043bbf4ed5388c4","field":"a","hostname":"www.meetingyemen.ye","schema_version":1}
 {"after":["meetingyemen.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"6adced621bebeedab89c","field":"cname","hostname":"www.meetingyemen.ye","schema_version":1}
 {"after":"records_present","before":"no_records","classification":"review","date":"2026-11-11","event_id":"868d285402cf9299b8a8","field":"status","hostname":"www.meetingyemen.ye","schema_version":1}
