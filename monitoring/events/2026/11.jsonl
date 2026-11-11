@@ -506,6 +506,7 @@
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-10","event_id":"1e9cb351cf5b2c580806","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["78.137.77.149"],"before":["82.114.162.73"],"classification":"informational","date":"2026-11-10","event_id":"a55d6314766438746c49","field":"a","hostname":"yemen.net.ye","schema_version":1}
 {"after":"2026091803","before":"2026091802","classification":"telemetry","date":"2026-11-10","event_id":"378dd8b4bbd8c5ca8952","field":"soa_serial","hostname":"yemen.net.ye","schema_version":1}
+{"after":"2026111100","before":"2026111000","classification":"telemetry","date":"2026-11-11","event_id":"c35d87d69ae43500534b","field":"soa_serial","hostname":"alrayan-university.edu.ye","schema_version":1}
 {"after":["104.21.54.39","172.67.223.105"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"e680baeb34e0e394aa6b","field":"a","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"af5d5e595a92638f0ffc","field":"aaaa","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"180ec90ec211b5ef59a8","field":"status","hostname":"cms.mii.edu.ye","schema_version":1}
@@ -535,3 +536,4 @@
 {"after":["82.114.179.188"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"116243d0d8d3115b5082","field":"a","hostname":"www.sago.gov.ye","schema_version":1}
 {"after":["sago.gov.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"f348dfd9729cafeb374a","field":"cname","hostname":"www.sago.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"03676bfe3922f274d623","field":"status","hostname":"www.sago.gov.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-11","event_id":"bdda130753e8a25e4587","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
