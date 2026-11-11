@@ -511,6 +511,7 @@
 {"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"af5d5e595a92638f0ffc","field":"aaaa","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"180ec90ec211b5ef59a8","field":"status","hostname":"cms.mii.edu.ye","schema_version":1}
 {"after":"2419840037","before":"2418377233","classification":"telemetry","date":"2026-11-11","event_id":"02c6a975f5ba4d344a06","field":"soa_serial","hostname":"eiu.edu.ye","schema_version":1}
+{"after":"2419880217","before":"2418631264","classification":"telemetry","date":"2026-11-11","event_id":"64dc977855b1929659a6","field":"soa_serial","hostname":"geedo.com.ye","schema_version":1}
 {"after":"2026111007","before":"2026103005","classification":"telemetry","date":"2026-11-11","event_id":"76c143c1da386bb0a27c","field":"soa_serial","hostname":"hikma.edu.ye","schema_version":1}
 {"after":["82.114.181.126"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"05652cc9a0a052494c0e","field":"a","hostname":"lab.usthyemen.com.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"b5fd785a98c9995a6105","field":"status","hostname":"lab.usthyemen.com.ye","schema_version":1}
@@ -523,6 +524,7 @@
 {"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"b2bbf9226dae0c4b524a","field":"soa_mname","hostname":"sago.gov.ye","schema_version":1}
 {"after":"2026111015","before":"","classification":"telemetry","date":"2026-11-11","event_id":"a1432191a0410b9a536a","field":"soa_serial","hostname":"sago.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"ce4d8f559f0db9a7a959","field":"status","hostname":"sago.gov.ye","schema_version":1}
+{"after":"2026111105","before":"2026030327","classification":"telemetry","date":"2026-11-11","event_id":"3f0d8e40ea356431706d","field":"soa_serial","hostname":"smeps.org.ye","schema_version":1}
 {"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"5b7c0f90ff5173bd32d5","field":"a","hostname":"technozone.ye","schema_version":1}
 {"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"d612a29684a14a792da9","field":"ns","hostname":"technozone.ye","schema_version":1}
 {"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"c0dcf740985714520187","field":"soa_mname","hostname":"technozone.ye","schema_version":1}
@@ -536,4 +538,5 @@
 {"after":["82.114.179.188"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"116243d0d8d3115b5082","field":"a","hostname":"www.sago.gov.ye","schema_version":1}
 {"after":["sago.gov.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"f348dfd9729cafeb374a","field":"cname","hostname":"www.sago.gov.ye","schema_version":1}
 {"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"03676bfe3922f274d623","field":"status","hostname":"www.sago.gov.ye","schema_version":1}
+{"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-11","event_id":"f88e1d1b19f07bfadffd","field":"a","hostname":"www.sheba.com.ye","schema_version":1}
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-11","event_id":"bdda130753e8a25e4587","field":"a","hostname":"www.syncc.edu.ye","schema_version":1}
