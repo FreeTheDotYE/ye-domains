@@ -506,3 +506,26 @@
 {"after":["216.198.79.65","64.29.17.65"],"before":["216.198.79.1","64.29.17.1"],"classification":"informational","date":"2026-11-10","event_id":"1e9cb351cf5b2c580806","field":"a","hostname":"www.rubat-tareem.edu.ye","schema_version":1}
 {"after":["78.137.77.149"],"before":["82.114.162.73"],"classification":"informational","date":"2026-11-10","event_id":"a55d6314766438746c49","field":"a","hostname":"yemen.net.ye","schema_version":1}
 {"after":"2026091803","before":"2026091802","classification":"telemetry","date":"2026-11-10","event_id":"378dd8b4bbd8c5ca8952","field":"soa_serial","hostname":"yemen.net.ye","schema_version":1}
+{"after":["104.21.54.39","172.67.223.105"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"e680baeb34e0e394aa6b","field":"a","hostname":"cms.mii.edu.ye","schema_version":1}
+{"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"af5d5e595a92638f0ffc","field":"aaaa","hostname":"cms.mii.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"180ec90ec211b5ef59a8","field":"status","hostname":"cms.mii.edu.ye","schema_version":1}
+{"after":["104.21.54.39","172.67.223.105"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"61b4f0ef13efc96e09f1","field":"a","hostname":"new.mii.edu.ye","schema_version":1}
+{"after":["2606:4700:3034::ac43:df69","2606:4700:3037::6815:3627"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"73521aa8d89e9af76b9d","field":"aaaa","hostname":"new.mii.edu.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"9f4857670aa8ab56efaf","field":"status","hostname":"new.mii.edu.ye","schema_version":1}
+{"after":["82.114.179.188"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"09b447e6e159b3a55336","field":"a","hostname":"sago.gov.ye","schema_version":1}
+{"after":["20 mail.sago.gov.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"8cf2be9af5b6f3ddffcb","field":"mx","hostname":"sago.gov.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye","ns2.yemen.net.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"0059e285d0e233be005a","field":"ns","hostname":"sago.gov.ye","schema_version":1}
+{"after":["ns1.yemen.net.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"b2bbf9226dae0c4b524a","field":"soa_mname","hostname":"sago.gov.ye","schema_version":1}
+{"after":"2026111015","before":"","classification":"telemetry","date":"2026-11-11","event_id":"a1432191a0410b9a536a","field":"soa_serial","hostname":"sago.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"ce4d8f559f0db9a7a959","field":"status","hostname":"sago.gov.ye","schema_version":1}
+{"after":["195.94.23.14"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"5b7c0f90ff5173bd32d5","field":"a","hostname":"technozone.ye","schema_version":1}
+{"after":["sah1.ye","sah2.ye","sah3.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"d612a29684a14a792da9","field":"ns","hostname":"technozone.ye","schema_version":1}
+{"after":["sah1.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"c0dcf740985714520187","field":"soa_mname","hostname":"technozone.ye","schema_version":1}
+{"after":"2025012901","before":"","classification":"telemetry","date":"2026-11-11","event_id":"057888fc2c781df7b552","field":"soa_serial","hostname":"technozone.ye","schema_version":1}
+{"after":"records_present","before":"nxdomain","classification":"review","date":"2026-11-11","event_id":"da8cd5be227351539b5d","field":"status","hostname":"technozone.ye","schema_version":1}
+{"after":["78.137.74.12"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"fe507043bbf4ed5388c4","field":"a","hostname":"www.meetingyemen.ye","schema_version":1}
+{"after":["meetingyemen.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"6adced621bebeedab89c","field":"cname","hostname":"www.meetingyemen.ye","schema_version":1}
+{"after":"records_present","before":"no_records","classification":"review","date":"2026-11-11","event_id":"868d285402cf9299b8a8","field":"status","hostname":"www.meetingyemen.ye","schema_version":1}
+{"after":["82.114.179.188"],"before":[],"classification":"informational","date":"2026-11-11","event_id":"116243d0d8d3115b5082","field":"a","hostname":"www.sago.gov.ye","schema_version":1}
+{"after":["sago.gov.ye"],"before":[],"classification":"review","date":"2026-11-11","event_id":"f348dfd9729cafeb374a","field":"cname","hostname":"www.sago.gov.ye","schema_version":1}
+{"after":"records_present","before":"unobserved","classification":"review","date":"2026-11-11","event_id":"03676bfe3922f274d623","field":"status","hostname":"www.sago.gov.ye","schema_version":1}
