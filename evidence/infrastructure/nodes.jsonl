@@ -8345,6 +8345,7 @@
 {"kind":"hostname","node_id":"hostname:www.technocare.pro.ye","schema_version":1,"value":"www.technocare.pro.ye"}
 {"kind":"hostname","node_id":"hostname:www.technohome.com.ye","schema_version":1,"value":"www.technohome.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.technohouse.com.ye","schema_version":1,"value":"www.technohouse.com.ye"}
+{"kind":"hostname","node_id":"hostname:www.technozone.ye","schema_version":1,"value":"www.technozone.ye"}
 {"kind":"hostname","node_id":"hostname:www.techsci-experts.com.ye","schema_version":1,"value":"www.techsci-experts.com.ye"}
 {"kind":"hostname","node_id":"hostname:www.teci.edu.ye","schema_version":1,"value":"www.teci.edu.ye"}
 {"kind":"hostname","node_id":"hostname:www.teci.edu.ye.cdn.hstgr.net","schema_version":1,"value":"www.teci.edu.ye.cdn.hstgr.net"}
@@ -9683,6 +9684,7 @@
 {"kind":"ip_address","node_id":"ip_address:82.114.180.10","schema_version":1,"value":"82.114.180.10"}
 {"kind":"ip_address","node_id":"ip_address:82.114.180.13","schema_version":1,"value":"82.114.180.13"}
 {"kind":"ip_address","node_id":"ip_address:82.114.181.101","schema_version":1,"value":"82.114.181.101"}
+{"kind":"ip_address","node_id":"ip_address:82.114.181.126","schema_version":1,"value":"82.114.181.126"}
 {"kind":"ip_address","node_id":"ip_address:82.114.181.151","schema_version":1,"value":"82.114.181.151"}
 {"kind":"ip_address","node_id":"ip_address:82.114.181.160","schema_version":1,"value":"82.114.181.160"}
 {"kind":"ip_address","node_id":"ip_address:82.114.181.164","schema_version":1,"value":"82.114.181.164"}
@@ -10594,6 +10596,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:72e88669775ee122038f60ac9d60ebb2a018abb58c08c866d58cc7602c9ed8cc","schema_version":1,"value":"72e88669775ee122038f60ac9d60ebb2a018abb58c08c866d58cc7602c9ed8cc"}
 {"kind":"tls_certificate","node_id":"tls_certificate:73aaeefcd340263d5eb50b7dcd94716e4a2627ff1d6a4fb888b104ac6332951d","schema_version":1,"value":"73aaeefcd340263d5eb50b7dcd94716e4a2627ff1d6a4fb888b104ac6332951d"}
 {"kind":"tls_certificate","node_id":"tls_certificate:74357ca025c5b5b44bb75b6179152d7e0eb8f098e85c47205c7917961d861c15","schema_version":1,"value":"74357ca025c5b5b44bb75b6179152d7e0eb8f098e85c47205c7917961d861c15"}
+{"kind":"tls_certificate","node_id":"tls_certificate:74553f186f0e56a2a738c596194822be88de07c31e9e18d6d5de2bf57e85c61e","schema_version":1,"value":"74553f186f0e56a2a738c596194822be88de07c31e9e18d6d5de2bf57e85c61e"}
 {"kind":"tls_certificate","node_id":"tls_certificate:7479f2fa9c361263d6868bbf4f5457a1a0b8ac6a3bbb5641f13cb15151f099d8","schema_version":1,"value":"7479f2fa9c361263d6868bbf4f5457a1a0b8ac6a3bbb5641f13cb15151f099d8"}
 {"kind":"tls_certificate","node_id":"tls_certificate:749102fd409cf0a26bb723e10efc0f0d5cb736dcd70c9347945201971e386ee6","schema_version":1,"value":"749102fd409cf0a26bb723e10efc0f0d5cb736dcd70c9347945201971e386ee6"}
 {"kind":"tls_certificate","node_id":"tls_certificate:749aadffe8c0800febc4266f1be67c3a58fa4687d0f98533c01fe129ff5dbed0","schema_version":1,"value":"749aadffe8c0800febc4266f1be67c3a58fa4687d0f98533c01fe129ff5dbed0"}
