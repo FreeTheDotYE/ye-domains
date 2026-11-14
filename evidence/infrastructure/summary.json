@@ -1,7 +1,7 @@
 {
-  "active_edges": 25227,
+  "active_edges": 25236,
   "as_of_date": "2026-11-14",
-  "edges": 26930,
+  "edges": 26939,
   "node_kinds": {
     "asn": 60,
     "dataset": 1,
@@ -19,7 +19,7 @@
     "covered_by_prefix": 920,
     "delegated_to": 3523,
     "mail_routed_to": 2944,
-    "observed_in_web_archive": 816,
+    "observed_in_web_archive": 825,
     "originated_by": 258,
     "presents_certificate": 2207,
     "registered_via": 1376,
