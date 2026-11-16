@@ -5043,6 +5043,7 @@
 {"kind":"hostname","node_id":"hostname:mocsi3.mocsi.gov.ye","schema_version":1,"value":"mocsi3.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:mocsi4.mocsi.gov.ye","schema_version":1,"value":"mocsi4.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:mocsi5.mocsi.gov.ye","schema_version":1,"value":"mocsi5.mocsi.gov.ye"}
+{"kind":"hostname","node_id":"hostname:mocsi6.mocsi.gov.ye","schema_version":1,"value":"mocsi6.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:mocsi7.mocsi.gov.ye","schema_version":1,"value":"mocsi7.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:mocsi9.mocsi.gov.ye","schema_version":1,"value":"mocsi9.mocsi.gov.ye"}
 {"kind":"hostname","node_id":"hostname:modern.edu.ye","schema_version":1,"value":"modern.edu.ye"}
@@ -11176,6 +11177,7 @@
 {"kind":"tls_certificate","node_id":"tls_certificate:f1f9ccb96e8e59183ea0c1a31cca426e46a6e929a61914f3ce1495ffe3232a20","schema_version":1,"value":"f1f9ccb96e8e59183ea0c1a31cca426e46a6e929a61914f3ce1495ffe3232a20"}
 {"kind":"tls_certificate","node_id":"tls_certificate:f241ac35a368afdd9231d84723e761fd4c179757e86c7d3f30c612bdc18cb04e","schema_version":1,"value":"f241ac35a368afdd9231d84723e761fd4c179757e86c7d3f30c612bdc18cb04e"}
 {"kind":"tls_certificate","node_id":"tls_certificate:f28571d6884e2e43fb3d8c314739a98aad0b95cabf5a1a2c5a436e258125942c","schema_version":1,"value":"f28571d6884e2e43fb3d8c314739a98aad0b95cabf5a1a2c5a436e258125942c"}
+{"kind":"tls_certificate","node_id":"tls_certificate:f2f9a159ce50a0a168b3eaeaf2fced5addd49ba38e2bf63248f057a139fc7856","schema_version":1,"value":"f2f9a159ce50a0a168b3eaeaf2fced5addd49ba38e2bf63248f057a139fc7856"}
 {"kind":"tls_certificate","node_id":"tls_certificate:f3447a25f77dfcbabb60658e81d0f792d0d86d4c1929cea8f33a91892e6b7f6d","schema_version":1,"value":"f3447a25f77dfcbabb60658e81d0f792d0d86d4c1929cea8f33a91892e6b7f6d"}
 {"kind":"tls_certificate","node_id":"tls_certificate:f357f3af80dcce3c2bdf7c79ed5c0bbda6b59baf8134c76715d9ebe948ea062f","schema_version":1,"value":"f357f3af80dcce3c2bdf7c79ed5c0bbda6b59baf8134c76715d9ebe948ea062f"}
 {"kind":"tls_certificate","node_id":"tls_certificate:f385a4bbcfa743d938b67cce54cc65e177f06d86bade79ab57529825d653eb9c","schema_version":1,"value":"f385a4bbcfa743d938b67cce54cc65e177f06d86bade79ab57529825d653eb9c"}
